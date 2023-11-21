@@ -1,0 +1,144 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+SCG,rare,{3}{W},W,Creature,Wall,4,4
+SCG,common,{2}{W},W,Instant,0,0,0
+SCG,common,{1}{W},W,Creature,"Bird, Soldier",1,1
+SCG,common,{2}{W}{W},W,Creature,"Bird, Soldier",2,3
+SCG,common,{1}{W},W,Creature,"Human, Cleric",1,1
+SCG,uncommon,{2}{W}{W},W,Creature,"Human, Soldier",1,1
+SCG,rare,{W}{W}{W}{W},W,Creature,Elemental,3,3
+SCG,rare,{X}{X}{2}{W}{W},W,Sorcery,0,0,0
+SCG,rare,{5}{W}{W},W,Sorcery,0,0,0
+SCG,common,{1}{W},W,Enchantment,Aura,0,0
+SCG,uncommon,{4}{W},W,Creature,"Bird, Soldier",3,3
+SCG,rare,{5}{W}{W},W,Creature,"Dragon, Spirit",5,5
+SCG,rare,{1}{W},W,Creature,"Human, Cleric",1,2
+SCG,rare,{2}{W}{W},W,Enchantment,0,0,0
+SCG,common,{W},W,Creature,"Human, Soldier",1,1
+SCG,uncommon,{1}{W},W,Instant,0,0,0
+SCG,common,{W},W,Enchantment,Aura,0,0
+SCG,uncommon,{4}{W},W,Creature,"Human, Cleric",2,5
+SCG,common,{5}{W},W,Creature,"Human, Cleric, Soldier",3,6
+SCG,uncommon,{W},W,Instant,0,0,0
+SCG,common,{3}{W},W,Instant,0,0,0
+SCG,uncommon,{W},W,Instant,0,0,0
+SCG,uncommon,{W}{W},W,Creature,"Human, Knight",2,2
+SCG,rare,{3}{W},W,Creature,"Human, Soldier",1,3
+SCG,uncommon,{1}{W}{W},W,Instant,0,0,0
+SCG,common,{1}{W},W,Instant,0,0,0
+SCG,common,{2}{W},W,Creature,"Human, Cleric",2,2
+SCG,uncommon,{3}{U},U,Creature,"Human, Wizard",2,3
+SCG,uncommon,{1}{U},U,Instant,0,0,0
+SCG,common,{1}{U},U,Creature,"Bird, Soldier",1,1
+SCG,rare,{4}{U}{U}{U},U,Enchantment,0,0,0
+SCG,rare,{6}{U}{U},U,Enchantment,0,0,0
+SCG,common,{1}{U},U,Instant,0,0,0
+SCG,common,{1}{U},U,Enchantment,Aura,0,0
+SCG,rare,{2}{U},U,Enchantment,0,0,0
+SCG,common,{1}{U}{U},U,Enchantment,Aura,0,0
+SCG,common,{3}{U},U,Instant,0,0,0
+SCG,uncommon,{2}{U},U,Instant,0,0,0
+SCG,common,{3}{U},U,Creature,Bird,2,2
+SCG,uncommon,{1}{U},U,Instant,0,0,0
+SCG,rare,{4}{U}{U},U,Sorcery,0,0,0
+SCG,rare,{4}{U},U,Creature,Beast,3,3
+SCG,uncommon,{2}{U},U,Creature,Illusion,1,3
+SCG,rare,{3}{U}{U},U,Enchantment,0,0,0
+SCG,uncommon,{1}{U}{U},U,Enchantment,Aura,0,0
+SCG,common,{2}{U},U,Creature,"Human, Wizard",1,4
+SCG,rare,{1}{U}{U},U,Creature,"Human, Wizard, Mutant",1,1
+SCG,uncommon,{2}{U},U,Creature,"Human, Wizard",2,1
+SCG,common,{4}{U},U,Sorcery,0,0,0
+SCG,common,{7}{U},U,Creature,"Human, Wizard",1,1
+SCG,common,{5}{U},U,Creature,"Bird, Soldier, Ranger",3,4
+SCG,rare,{U},U,Instant,0,0,0
+SCG,common,{4}{U},U,Sorcery,0,0,0
+SCG,uncommon,{5}{U}{U},U,Creature,Elemental,3,4
+SCG,uncommon,{2}{B}{B},B,Creature,Zombie,3,3
+SCG,rare,{6}{B},B,Sorcery,0,0,0
+SCG,uncommon,{1}{B},B,Creature,"Zombie, Wizard",1,1
+SCG,rare,{4}{B},B,Enchantment,0,0,0
+SCG,common,{B},B,Creature,Zombie,1,1
+SCG,uncommon,{1}{B},B,Instant,0,0,0
+SCG,common,{3}{B}{B},B,Enchantment,Aura,0,0
+SCG,rare,{B}{B},B,Creature,Ooze,1,1
+SCG,common,{1}{B}{B},B,Creature,Bird,2,1
+SCG,rare,{6}{B}{B},B,Sorcery,0,0,0
+SCG,common,{1}{B},B,Enchantment,Aura,0,0
+SCG,uncommon,{B},B,Enchantment,Aura,0,0
+SCG,rare,{3}{B}{B},B,Sorcery,0,0,0
+SCG,rare,{2}{B}{B},B,Enchantment,0,0,0
+SCG,common,{1}{B},B,Enchantment,Aura,0,0
+SCG,rare,{4}{B}{B},B,Creature,"Zombie, Mutant",5,3
+SCG,uncommon,{4}{B}{B},B,Creature,"Zombie, Dinosaur, Beast",4,4
+SCG,common,{2}{B},B,Instant,0,0,0
+SCG,common,{1}{B},B,Sorcery,0,0,0
+SCG,rare,{3}{B}{B},B,Creature,Vampire,3,4
+SCG,uncommon,{2}{B}{B},B,Sorcery,0,0,0
+SCG,common,{5}{B},B,Creature,"Zombie, Mutant",5,3
+SCG,common,{1}{B}{B},B,Sorcery,0,0,0
+SCG,uncommon,{2}{B}{B},B,Creature,Zombie,1,1
+SCG,uncommon,{1}{B}{B},B,Enchantment,0,0,0
+SCG,common,{3}{B},B,Creature,Zombie,3,2
+SCG,common,{3}{B}{B},B,Creature,Zombie,3,4
+SCG,common,{4}{R},R,Creature,Beast,4,2
+SCG,uncommon,{2}{R},R,Instant,0,0,0
+SCG,common,{5}{R},R,Creature,"Cat, Beast",4,4
+SCG,rare,{8}{R}{R},R,Sorcery,0,0,0
+SCG,common,{1}{R},R,Enchantment,Aura,0,0
+SCG,rare,{5}{R}{R},R,Creature,"Dragon, Wizard",5,5
+SCG,rare,{8}{R}{R},R,Creature,Dragon,6,6
+SCG,uncommon,{1}{R}{R},R,Creature,"Human, Barbarian, Shaman",2,2
+SCG,rare,{8}{R},R,Sorcery,0,0,0
+SCG,uncommon,{X}{R},R,Instant,0,0,0
+SCG,uncommon,{4}{R},R,Enchantment,Aura,0,0
+SCG,rare,{4}{R}{R}{R},R,Enchantment,0,0,0
+SCG,common,{1}{R},R,Creature,"Goblin, Warrior",2,2
+SCG,uncommon,{3}{R},R,Creature,"Goblin, Mutant",5,5
+SCG,common,{R},R,Sorcery,0,0,0
+SCG,uncommon,{1}{R}{R},R,Creature,"Goblin, Warrior",2,2
+SCG,rare,{4}{R}{R},R,Enchantment,0,0,0
+SCG,common,{2}{R},R,Sorcery,0,0,0
+SCG,uncommon,{1}{R},R,Enchantment,0,0,0
+SCG,common,{2}{R},R,Creature,Goblin,3,3
+SCG,common,{2}{R},R,Instant,0,0,0
+SCG,rare,{3}{R}{R},R,Creature,Goblin,2,2
+SCG,uncommon,{3}{R},R,Creature,Goblin,3,1
+SCG,common,{R},R,Instant,0,0,0
+SCG,rare,{1}{R}{R},R,Enchantment,0,0,0
+SCG,common,{3}{R}{R},R,Sorcery,0,0,0
+SCG,common,{1}{R},R,Enchantment,Aura,0,0
+SCG,common,{3}{G}{G},G,Instant,0,0,0
+SCG,uncommon,{2}{G},G,Enchantment,Aura,0,0
+SCG,rare,{3}{G}{G},G,Creature,Elf,2,2
+SCG,rare,{5}{G}{G},G,Creature,Ooze,*,*
+SCG,common,{2}{G}{G},G,Sorcery,0,0,0
+SCG,uncommon,{3}{G},G,Sorcery,0,0,0
+SCG,rare,{7}{G}{G},G,Instant,0,0,0
+SCG,common,{G},G,Instant,0,0,0
+SCG,common,{1}{G},G,Enchantment,Aura,0,0
+SCG,uncommon,{5}{G},G,Creature,"Elf, Mutant",4,5
+SCG,common,{2}{G},G,Creature,Elf,1,1
+SCG,rare,{3}{G},G,Creature,Elemental,0,3
+SCG,uncommon,{5}{G}{G},G,Instant,0,0,0
+SCG,common,{3}{G},G,Creature,Elf,2,2
+SCG,uncommon,{2}{G},G,Creature,Beast,2,2
+SCG,uncommon,{4}{G},G,Creature,Beast,3,3
+SCG,uncommon,{G},G,Enchantment,Aura,0,0
+SCG,rare,{2}{G}{G},G,Enchantment,0,0,0
+SCG,rare,{4}{G}{G},G,Creature,Elemental,6,5
+SCG,common,{2}{G},G,Instant,0,0,0
+SCG,common,{6}{G}{G},G,Creature,Beast,7,4
+SCG,common,{G},G,Creature,"Elf, Scout",1,1
+SCG,rare,{3}{G},G,Enchantment,0,0,0
+SCG,common,{5}{G}{G},G,Creature,"Elf, Mutant",6,6
+SCG,uncommon,{G},G,Creature,Insect,1,1
+SCG,common,{5}{G},G,Creature,Elf,3,3
+SCG,rare,{G},G,Creature,Insect,0,1
+SCG,rare,{3}{B}{B}{R}{R},"B, R",Creature,"Zombie, Dragon",4,4
+SCG,uncommon,{1}{W}{B},"B, W",Creature,"Human, Cleric",2,2
+SCG,rare,{1}{W}{U}{B}{R}{G},"B, G, R, U, W",Creature,Avatar,5,5
+SCG,rare,{W}{U}{B}{R}{G},"B, G, R, U, W",Creature,"Sliver, Mutant",7,7
+SCG,uncommon,{2},0,Artifact,0,0,0
+SCG,uncommon,{3},0,"Artifact, Creature",Shapeshifter,2,2
+SCG,rare,{2},0,Artifact,0,0,0
+SCG,uncommon,0,0,Land,0,0,0

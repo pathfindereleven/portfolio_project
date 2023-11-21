@@ -1,0 +1,313 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+WAR,rare,{4},0,Planeswalker,Karn,0,0
+WAR,rare,{4},0,Planeswalker,Karn,0,0
+WAR,rare,{6},0,Planeswalker,Ugin,0,0
+WAR,rare,{6},0,Planeswalker,Ugin,0,0
+WAR,uncommon,{X},0,Creature,"Spirit, Monk",0,0
+WAR,uncommon,{1}{W},W,Creature,"Cat, Soldier",2,2
+WAR,common,{1}{W},W,Instant,0,0,0
+WAR,uncommon,{4}{W},W,Sorcery,0,0,0
+WAR,common,{5}{W},W,Creature,"Giant, Soldier",3,6
+WAR,common,{W},W,Creature,Cat,1,1
+WAR,common,{W},W,Instant,0,0,0
+WAR,common,{1}{W},W,Instant,0,0,0
+WAR,common,{4}{W},W,Creature,Griffin,3,4
+WAR,mythic,{X}{W}{W},W,Sorcery,0,0,0
+WAR,mythic,{1}{W}{W},W,Planeswalker,Gideon,0,0
+WAR,mythic,{1}{W}{W},W,Planeswalker,Gideon,0,0
+WAR,common,{W},W,Instant,0,0,0
+WAR,uncommon,{1}{W},W,Instant,0,0,0
+WAR,mythic,{3}{W}{W},W,Creature,"Zombie, God",3,6
+WAR,uncommon,{1}{W},W,Creature,Spirit,1,1
+WAR,rare,{4}{W},W,Instant,0,0,0
+WAR,common,{3}{W},W,Creature,Beast,2,5
+WAR,common,{W},W,Creature,"Human, Soldier",1,2
+WAR,common,{3}{W},W,Creature,"Elephant, Soldier",3,3
+WAR,common,{2}{W},W,Creature,"Human, Soldier",3,2
+WAR,common,{1}{W},W,Creature,"Human, Soldier",2,2
+WAR,rare,{6}{W}{W},W,Artifact,Vehicle,5,5
+WAR,common,{1}{W},W,Creature,Cat,2,1
+WAR,uncommon,{2}{W},W,Enchantment,0,0,0
+WAR,uncommon,{1}{W},W,Instant,0,0,0
+WAR,rare,{3}{W},W,Sorcery,0,0,0
+WAR,common,{2}{W},W,Creature,Human,2,2
+WAR,rare,{3}{W}{W},W,Sorcery,0,0,0
+WAR,uncommon,{5}{W},W,Creature,Angel,3,3
+WAR,uncommon,{2}{W},W,Planeswalker,Teyo,0,0
+WAR,uncommon,{2}{W},W,Planeswalker,Teyo,0,0
+WAR,common,{2}{W},W,Creature,Illusion,0,3
+WAR,rare,{W}{W},W,Creature,"Human, Advisor",2,3
+WAR,common,{2}{W},W,Instant,0,0,0
+WAR,common,{2}{W},W,Creature,Pegasus,2,2
+WAR,uncommon,{3}{W},W,Planeswalker,0,0,0
+WAR,uncommon,{3}{W},W,Planeswalker,0,0,0
+WAR,common,{4}{W},W,Sorcery,0,0,0
+WAR,common,{1}{W},W,Creature,Bird,1,3
+WAR,common,{4}{U},U,Creature,Nightmare,3,5
+WAR,uncommon,{1}{U},U,Creature,"Merfolk, Wizard",1,3
+WAR,common,{2}{U},U,Creature,"Zombie, Bird, Warrior",2,2
+WAR,uncommon,{3}{U},U,Sorcery,0,0,0
+WAR,common,{1}{U},U,Sorcery,0,0,0
+WAR,rare,{4}{U}{U},U,Instant,0,0,0
+WAR,common,{1}{U},U,Sorcery,0,0,0
+WAR,common,{3}{U},U,Instant,0,0,0
+WAR,common,{1}{U},U,Creature,"Human, Wizard",1,3
+WAR,uncommon,{4}{U},U,Creature,"Zombie, Wizard",3,3
+WAR,rare,{1}{U},U,Creature,Homunculus,1,1
+WAR,mythic,{X}{U}{U},U,Sorcery,0,0,0
+WAR,uncommon,{2}{U},U,Creature,"Human, Wizard",2,2
+WAR,mythic,{2}{U}{U},U,Creature,"Zombie, God",4,5
+WAR,rare,{1}{U}{U}{U},U,Planeswalker,Jace,0,0
+WAR,rare,{1}{U}{U}{U},U,Planeswalker,Jace,0,0
+WAR,uncommon,{2}{U},U,Sorcery,0,0,0
+WAR,uncommon,{3}{U},U,Planeswalker,Kasmina,0,0
+WAR,uncommon,{3}{U},U,Planeswalker,Kasmina,0,0
+WAR,common,{1}{U},U,Enchantment,Aura,0,0
+WAR,common,{5}{U},U,Creature,Leviathan,5,6
+WAR,uncommon,{1}{U},U,Instant,0,0,0
+WAR,common,{2}{U},U,Creature,"Zombie, Naga",3,2
+WAR,uncommon,{1}{U}{U},U,Planeswalker,Narset,0,0
+WAR,uncommon,{1}{U}{U},U,Planeswalker,Narset,0,0
+WAR,rare,{U}{U},U,Instant,0,0,0
+WAR,common,{2}{U},U,Instant,0,0,0
+WAR,common,{3}{U},U,Sorcery,0,0,0
+WAR,uncommon,{2}{U}{U},U,Creature,Sphinx,3,2
+WAR,rare,{U}{U},U,Artifact,Vehicle,2,3
+WAR,common,{1}{U},U,Creature,Bird,1,2
+WAR,rare,{3}{U},U,Creature,Illusion,0,0
+WAR,common,{2}{U},U,Creature,Weird,1,4
+WAR,common,{2}{U},U,Sorcery,0,0,0
+WAR,common,{3}{U},U,Sorcery,0,0,0
+WAR,common,{1}{U},U,Instant,0,0,0
+WAR,common,{3}{U},U,Creature,"Elemental, Drake",2,3
+WAR,common,{4}{U},U,Instant,0,0,0
+WAR,common,{U},U,Creature,Wall,0,4
+WAR,common,{1}{B},B,Sorcery,0,0,0
+WAR,common,{B},B,Creature,"Nightmare, Dog",1,1
+WAR,uncommon,{1}{B}{B},B,Sorcery,0,0,0
+WAR,rare,{3}{B}{B}{B},B,Artifact,0,0,0
+WAR,uncommon,{4}{B},B,Sorcery,0,0,0
+WAR,common,{3}{B},B,Creature,"Human, Knight",1,5
+WAR,rare,{4}{B}{B},B,Sorcery,0,0,0
+WAR,uncommon,{2}{B},B,Planeswalker,Davriel,0,0
+WAR,uncommon,{2}{B},B,Planeswalker,Davriel,0,0
+WAR,common,{3}{B},B,Sorcery,0,0,0
+WAR,rare,{2}{B},B,Sorcery,0,0,0
+WAR,rare,{1}{B},B,Enchantment,0,0,0
+WAR,uncommon,{B},B,Creature,"Zombie, Cat",1,1
+WAR,common,{1}{B},B,Creature,"Human, Rogue",2,2
+WAR,rare,{B}{B},B,Sorcery,0,0,0
+WAR,uncommon,{1}{B},B,Creature,Zombie,2,3
+WAR,mythic,{X}{B}{B},B,Sorcery,0,0,0
+WAR,mythic,{3}{B}{B},B,Creature,"Zombie, God",5,6
+WAR,common,{3}{B},B,Creature,"Zombie, Warrior",3,2
+WAR,common,{B},B,Enchantment,Aura,0,0
+WAR,common,{4}{B},B,Creature,"Zombie, Hippo",5,4
+WAR,common,{1}{B},B,Creature,"Zombie, Beast",1,2
+WAR,mythic,{4}{B}{B},B,Planeswalker,Liliana,0,0
+WAR,mythic,{4}{B}{B},B,Planeswalker,Liliana,0,0
+WAR,uncommon,{1}{B},B,Instant,0,0,0
+WAR,rare,{3}{B}{B},B,Creature,"Human, Assassin",4,4
+WAR,uncommon,{3}{B}{B},B,Planeswalker,Nixilis,0,0
+WAR,uncommon,{3}{B}{B},B,Planeswalker,Nixilis,0,0
+WAR,common,{2}{B},B,Instant,0,0,0
+WAR,uncommon,{B},B,Sorcery,0,0,0
+WAR,common,{2}{B},B,Creature,"Zombie, Bird, Warrior",2,1
+WAR,common,{B}{B},B,Instant,0,0,0
+WAR,common,{B},B,Sorcery,0,0,0
+WAR,common,{2}{B},B,Creature,Zombie,2,3
+WAR,common,{5}{B},B,Creature,"Giant, Warrior",4,5
+WAR,common,{2}{B},B,Sorcery,0,0,0
+WAR,common,{1}{B},B,Instant,0,0,0
+WAR,common,{1}{B},B,Creature,Vampire,2,1
+WAR,uncommon,{2}{B},B,Creature,"Zombie, Wizard",1,1
+WAR,common,{2}{B},B,Creature,"Gorgon, Assassin",3,2
+WAR,common,{2}{R},R,Creature,"Zombie, Minotaur, Warrior",2,2
+WAR,common,{2}{R},R,Instant,0,0,0
+WAR,uncommon,{3}{R},R,Instant,0,0,0
+WAR,uncommon,{4}{R}{R},R,Sorcery,0,0,0
+WAR,common,{1}{R},R,Creature,"Human, Wizard",1,3
+WAR,common,{4}{R},R,Creature,"Cyclops, Warrior",4,4
+WAR,rare,{2}{R}{R},R,Planeswalker,Chandra,0,0
+WAR,rare,{2}{R}{R},R,Planeswalker,Chandra,0,0
+WAR,common,{1}{R},R,Instant,0,0,0
+WAR,uncommon,{1}{R},R,Instant,0,0,0
+WAR,uncommon,{4}{R},R,Creature,"Cyclops, Wizard",4,2
+WAR,common,{3}{R},R,Sorcery,0,0,0
+WAR,uncommon,{2}{R},R,Creature,Hellion,2,2
+WAR,rare,{1}{R},R,Creature,"Zombie, Wizard",1,3
+WAR,uncommon,{3}{R},R,Creature,"Zombie, Jackal, Warrior",2,2
+WAR,mythic,{X}{R}{R},R,Sorcery,0,0,0
+WAR,common,{1}{R},R,Creature,"Goblin, Warrior",2,2
+WAR,common,{3}{R},R,Creature,"Goblin, Warrior",4,1
+WAR,common,{R},R,Creature,"Zombie, Warrior",1,1
+WAR,common,{1}{R},R,Instant,0,0,0
+WAR,common,{2}{R},R,Sorcery,0,0,0
+WAR,mythic,{3}{R}{R},R,Creature,"Boar, God",6,6
+WAR,common,{5}{R},R,Creature,"Zombie, Manticore",4,5
+WAR,uncommon,{4}{R},R,Planeswalker,Jaya,0,0
+WAR,uncommon,{4}{R},R,Planeswalker,Jaya,0,0
+WAR,common,{1}{R},R,Instant,0,0,0
+WAR,rare,{2}{R},R,Creature,Goblin,1,2
+WAR,rare,{1}{R}{R},R,Artifact,Vehicle,3,2
+WAR,common,{1}{R},R,Instant,0,0,0
+WAR,rare,{2}{R}{R},R,Creature,"Zombie, Minotaur, Warrior",5,4
+WAR,common,{2}{R},R,Creature,Beast,4,3
+WAR,common,{R},R,Instant,0,0,0
+WAR,rare,{3}{R}{R},R,Planeswalker,Sarkhan,0,0
+WAR,rare,{3}{R}{R},R,Planeswalker,Sarkhan,0,0
+WAR,common,{4}{R},R,Instant,0,0,0
+WAR,common,{2}{R},R,Creature,Weird,2,2
+WAR,uncommon,{2}{R},R,Planeswalker,Tibalt,0,0
+WAR,uncommon,{2}{R},R,Planeswalker,Tibalt,0,0
+WAR,uncommon,{1}{R},R,Creature,Devil,1,2
+WAR,common,{3}{R},R,Creature,"Ogre, Warrior",4,3
+WAR,common,{G},G,Creature,Beast,0,3
+WAR,uncommon,{4}{G}{G},G,Planeswalker,Arlinn,0,0
+WAR,uncommon,{4}{G}{G},G,Planeswalker,Arlinn,0,0
+WAR,common,{2}{G},G,Creature,Wolf,3,2
+WAR,rare,{3}{G}{G},G,Instant,0,0,0
+WAR,common,{2}{G},G,Instant,0,0,0
+WAR,common,{3}{G},G,Creature,"Plant, Elemental",4,4
+WAR,uncommon,{1}{G},G,Sorcery,0,0,0
+WAR,common,{3}{G},G,Creature,"Centaur, Druid",2,4
+WAR,uncommon,{4}{G},G,Creature,Troll,6,5
+WAR,common,{2}{G},G,Sorcery,0,0,0
+WAR,uncommon,{2}{G},G,Creature,"Elf, Druid",3,2
+WAR,mythic,{X}{G}{G},G,Sorcery,0,0,0
+WAR,common,{1}{G},G,Instant,0,0,0
+WAR,common,{G},G,Instant,0,0,0
+WAR,mythic,{3}{G}{G},G,Creature,"Zombie, God",5,5
+WAR,uncommon,{2}{G},G,Planeswalker,Yanggu,0,0
+WAR,uncommon,{2}{G},G,Planeswalker,Yanggu,0,0
+WAR,common,{2}{G},G,Creature,"Insect, Assassin",2,2
+WAR,common,{1}{G},G,Creature,"Human, Warrior",2,1
+WAR,uncommon,{3}{G},G,Creature,Dog,3,3
+WAR,common,{2}{G},G,Enchantment,Aura,0,0
+WAR,rare,{3}{G}{G},G,Planeswalker,Nissa,0,0
+WAR,rare,{3}{G}{G},G,Planeswalker,Nissa,0,0
+WAR,uncommon,{G}{G},G,Sorcery,0,0,0
+WAR,uncommon,{1}{G},G,Creature,"Elf, Druid",2,1
+WAR,rare,{5}{G}{G},G,Sorcery,0,0,0
+WAR,common,{1}{G},G,Creature,"Elf, Druid",1,1
+WAR,common,{4}{G}{G},G,Creature,Wurm,7,6
+WAR,common,{1}{G},G,Instant,0,0,0
+WAR,common,{1}{G},G,Creature,Spider,1,3
+WAR,common,{1}{G},G,Instant,0,0,0
+WAR,uncommon,{4}{G},G,Sorcery,0,0,0
+WAR,common,{4}{G},G,Creature,Rhino,4,5
+WAR,rare,{2}{G},G,Planeswalker,Vivien,0,0
+WAR,rare,{2}{G},G,Planeswalker,Vivien,0,0
+WAR,rare,{1}{G},G,Artifact,0,0,0
+WAR,common,{2}{G},G,Creature,"Bear, Spirit",2,3
+WAR,common,{4}{G},G,Creature,Crocodile,5,3
+WAR,rare,{2}{G}{W},"G, W",Planeswalker,Ajani,0,0
+WAR,rare,{2}{G}{W},"G, W",Planeswalker,Ajani,0,0
+WAR,uncommon,{B}{R},"B, R",Sorcery,0,0,0
+WAR,rare,{3}{G}{U},"G, U",Creature,"Hydra, Mutant",4,4
+WAR,rare,{2}{B}{B}{G}{G},"B, G",Sorcery,0,0,0
+WAR,uncommon,{W}{B},"B, W",Creature,Vampire,1,2
+WAR,uncommon,{1}{B}{B}{G},"B, G",Instant,0,0,0
+WAR,uncommon,{W}{B},"B, W",Instant,0,0,0
+WAR,rare,{1}{R}{G},"G, R",Planeswalker,Domri,0,0
+WAR,rare,{1}{R}{G},"G, R",Planeswalker,Domri,0,0
+WAR,uncommon,{R}{G},"G, R",Sorcery,0,0,0
+WAR,uncommon,{W}{U},"U, W",Instant,0,0,0
+WAR,rare,{B}{R},"B, R",Creature,"Zombie, Warrior",1,1
+WAR,uncommon,{2}{W}{U},"U, W",Creature,"Human, Wizard",2,3
+WAR,rare,{2}{U}{U}{B},"B, U",Sorcery,0,0,0
+WAR,rare,{R}{W}{W},"R, W",Creature,Angel,3,4
+WAR,uncommon,{1}{U}{B},"B, U",Creature,"Zombie, Wizard",1,4
+WAR,uncommon,{2}{R}{W},"R, W",Instant,0,0,0
+WAR,uncommon,{G}{W},"G, W",Creature,Dinosaur,2,3
+WAR,uncommon,{1}{U}{R},"R, U",Sorcery,0,0,0
+WAR,uncommon,{1}{B}{G},"B, G",Creature,"Nightmare, Beast",2,3
+WAR,rare,{R}{R}{G},"G, R",Creature,Elemental,2,5
+WAR,uncommon,{1}{B}{R},"B, R",Creature,Devil,3,3
+WAR,uncommon,{G}{U},"G, U",Creature,"Merfolk, Mutant",1,1
+WAR,uncommon,{G}{U},"G, U",Sorcery,0,0,0
+WAR,mythic,{U}{B}{B}{B}{R},"B, R, U",Planeswalker,Bolas,0,0
+WAR,mythic,{U}{B}{B}{B}{R},"B, R, U",Planeswalker,Bolas,0,0
+WAR,mythic,{W}{U}{B}{R}{G},"B, G, R, U, W",Creature,"Dragon, Avatar",6,6
+WAR,rare,{1}{W}{B},"B, W",Enchantment,0,0,0
+WAR,uncommon,{1}{G}{W},"G, W",Instant,0,0,0
+WAR,rare,{2}{U}{R},"R, U",Planeswalker,Ral,0,0
+WAR,rare,{2}{U}{R},"R, U",Planeswalker,Ral,0,0
+WAR,uncommon,{2}{U}{R},"R, U",Instant,0,0,0
+WAR,mythic,{2}{G}{G}{U},"G, U",Creature,"Human, Mutant",4,5
+WAR,rare,{U}{U}{R},"R, U",Sorcery,0,0,0
+WAR,uncommon,{1}{R}{G},"G, R",Creature,"Human, Berserker",0,4
+WAR,rare,{2}{R}{W},"R, W",Sorcery,0,0,0
+WAR,rare,{2}{W}{B},"B, W",Planeswalker,Sorin,0,0
+WAR,rare,{2}{W}{B},"B, W",Planeswalker,Sorin,0,0
+WAR,rare,{U}{B},"B, U",Creature,"Zombie, Wizard",2,3
+WAR,rare,{1}{B}{B}{G},"B, G",Creature,"Zombie, Elf, Wizard",5,4
+WAR,rare,{2}{G}{U},"G, U",Planeswalker,Tamiyo,0,0
+WAR,rare,{2}{G}{U},"G, U",Planeswalker,Tamiyo,0,0
+WAR,rare,{1}{W}{U},"U, W",Planeswalker,Teferi,0,0
+WAR,rare,{2}{W}{U},"U, W",Planeswalker,Teferi,0,0
+WAR,rare,{1}{W}{U},"U, W",Planeswalker,Teferi,0,0
+WAR,uncommon,{R}{W},"R, W",Creature,"Human, Soldier",2,2
+WAR,rare,{2}{W}{W}{U},"U, W",Sorcery,0,0,0
+WAR,rare,{2}{G}{G}{W},"G, W",Creature,"Elf, Scout",3,3
+WAR,uncommon,{U}{B},"B, U",Instant,0,0,0
+WAR,rare,{1}{B}{R}{R},"B, R",Sorcery,0,0,0
+WAR,uncommon,{2}{B/R}{B/R},"B, R",Planeswalker,Angrath,0,0
+WAR,uncommon,{2}{B/R}{B/R},"B, R",Planeswalker,Angrath,0,0
+WAR,uncommon,{1}{U/B}{U/B},"B, U",Planeswalker,Ashiok,0,0
+WAR,uncommon,{1}{U/B}{U/B},"B, U",Planeswalker,Ashiok,0,0
+WAR,uncommon,{2}{W/U},"U, W",Planeswalker,Dovin,0,0
+WAR,uncommon,{2}{W/U},"U, W",Planeswalker,Dovin,0,0
+WAR,uncommon,{2}{G/W},"G, W",Planeswalker,Huatli,0,0
+WAR,uncommon,{2}{G/W},"G, W",Planeswalker,Huatli,0,0
+WAR,uncommon,{3}{W/B}{W/B}{W/B},"B, W",Planeswalker,Kaya,0,0
+WAR,uncommon,{3}{W/B}{W/B}{W/B},"B, W",Planeswalker,Kaya,0,0
+WAR,uncommon,{2}{G/U},"G, U",Planeswalker,Kiora,0,0
+WAR,uncommon,{2}{G/U},"G, U",Planeswalker,Kiora,0,0
+WAR,uncommon,{2}{R/W}{R/W},"R, W",Planeswalker,Nahiri,0,0
+WAR,uncommon,{2}{R/W}{R/W},"R, W",Planeswalker,Nahiri,0,0
+WAR,uncommon,{1}{U/R}{U/R},"R, U",Planeswalker,Saheeli,0,0
+WAR,uncommon,{1}{U/R}{U/R},"R, U",Planeswalker,Saheeli,0,0
+WAR,uncommon,{2}{R/G}{R/G},"G, R",Planeswalker,Samut,0,0
+WAR,uncommon,{2}{R/G}{R/G},"G, R",Planeswalker,Samut,0,0
+WAR,uncommon,{2}{B/G}{B/G},"B, G",Planeswalker,Vraska,0,0
+WAR,uncommon,{2}{B/G}{B/G},"B, G",Planeswalker,Vraska,0,0
+WAR,uncommon,{4},0,Artifact,0,0,0
+WAR,uncommon,{6},0,Artifact,0,0,0
+WAR,common,{2},0,Artifact,0,0,0
+WAR,common,{3},0,"Artifact, Creature",Golem,1,1
+WAR,common,{3},0,Artifact,0,0,0
+WAR,common,{2},0,"Artifact, Creature",Golem,2,1
+WAR,common,{4},0,"Artifact, Creature",Drake,2,3
+WAR,rare,0,0,Land,0,0,0
+WAR,uncommon,0,0,Land,0,0,0
+WAR,common,0,0,Land,Gate,0,0
+WAR,uncommon,0,0,Land,0,0,0
+WAR,rare,0,0,Land,0,0,0
+WAR,rare,0,0,Land,0,0,0
+WAR,common,0,W,Land,Plains,0,0
+WAR,common,0,W,Land,Plains,0,0
+WAR,common,0,W,Land,Plains,0,0
+WAR,common,0,U,Land,Island,0,0
+WAR,common,0,U,Land,Island,0,0
+WAR,common,0,U,Land,Island,0,0
+WAR,common,0,B,Land,Swamp,0,0
+WAR,common,0,B,Land,Swamp,0,0
+WAR,common,0,B,Land,Swamp,0,0
+WAR,common,0,R,Land,Mountain,0,0
+WAR,common,0,R,Land,Mountain,0,0
+WAR,common,0,R,Land,Mountain,0,0
+WAR,common,0,G,Land,Forest,0,0
+WAR,common,0,G,Land,Forest,0,0
+WAR,common,0,G,Land,Forest,0,0
+WAR,mythic,{4}{W}{W},W,Planeswalker,Gideon,0,0
+WAR,common,{1}{W},W,Instant,0,0,0
+WAR,rare,{2}{W}{W},W,Sorcery,0,0,0
+WAR,uncommon,{3}{W},W,Creature,"Human, Soldier",3,3
+WAR,common,0,"B, W",Land,Gate,0,0
+WAR,mythic,{4}{U}{U},U,Planeswalker,Jace,0,0
+WAR,common,{2}{U},U,Creature,"Faerie, Rogue",1,1
+WAR,uncommon,{2}{U}{U},U,Creature,"Wizard, Illusion",2,2
+WAR,rare,{3}{U}{U},U,Sorcery,0,0,0
+WAR,common,0,"G, U",Land,Gate,0,0
+WAR,mythic,{4}{U}{B},"B, U",Planeswalker,Tezzeret,0,0

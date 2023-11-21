@@ -1,0 +1,249 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+ROE,mythic,{7},0,"Tribal, Sorcery",Eldrazi,0,0
+ROE,uncommon,{9},0,Creature,Eldrazi,10,9
+ROE,rare,{8},0,"Tribal, Enchantment","Eldrazi, Aura",0,0
+ROE,mythic,{15},0,Creature,Eldrazi,15,15
+ROE,common,{9},0,Creature,Eldrazi,7,7
+ROE,mythic,{10},0,Creature,Eldrazi,12,12
+ROE,rare,{12},0,Creature,Eldrazi,11,11
+ROE,uncommon,{7},0,"Tribal, Instant",Eldrazi,0,0
+ROE,uncommon,{11},0,Creature,Eldrazi,9,9
+ROE,uncommon,{7},0,"Tribal, Sorcery",Eldrazi,0,0
+ROE,rare,{10},0,Creature,Eldrazi,7,11
+ROE,mythic,{11},0,Creature,Eldrazi,10,10
+ROE,common,{8},0,Creature,Eldrazi,8,8
+ROE,uncommon,{2}{W},W,Creature,Dog,2,2
+ROE,common,{W},W,Creature,"Human, Knight",1,1
+ROE,common,{2}{W},W,Creature,"Kor, Wizard",2,1
+ROE,rare,{4}{W}{W},W,Creature,Angel,5,7
+ROE,common,{W},W,Instant,0,0,0
+ROE,common,{1}{W},W,Enchantment,Aura,0,0
+ROE,uncommon,{W},W,Instant,0,0,0
+ROE,mythic,{3}{W}{W},W,Planeswalker,Gideon,0,0
+ROE,common,{1}{W},W,Creature,"Human, Soldier",2,2
+ROE,common,{W},W,Enchantment,Aura,0,0
+ROE,common,{2}{W}{W},W,Instant,0,0,0
+ROE,rare,{2}{W},W,Creature,"Human, Cleric",0,3
+ROE,common,{W},W,Enchantment,Aura,0,0
+ROE,common,{1}{W},W,Creature,"Human, Soldier",1,2
+ROE,uncommon,{3}{W},W,Creature,"Human, Knight",2,4
+ROE,common,{1}{W},W,Creature,"Kor, Knight",2,2
+ROE,common,{1}{W},W,Creature,"Kor, Scout",0,1
+ROE,rare,{1}{W},W,Creature,"Kor, Wizard",0,2
+ROE,rare,{2}{W}{W},W,Enchantment,0,0,0
+ROE,mythic,{2}{W}{W},W,Creature,Angel,3,4
+ROE,common,{1}{W},W,Creature,"Kor, Monk",2,1
+ROE,uncommon,{2}{W},W,Enchantment,Aura,0,0
+ROE,common,{3}{W},W,Creature,Griffin,2,4
+ROE,uncommon,{4}{W},W,Enchantment,Aura,0,0
+ROE,rare,{2}{W}{W}{W},W,Enchantment,0,0,0
+ROE,rare,{4}{W}{W},W,Sorcery,0,0,0
+ROE,uncommon,{W},W,Sorcery,0,0,0
+ROE,common,{1}{W},W,Instant,0,0,0
+ROE,common,{2}{W},W,Instant,0,0,0
+ROE,common,{W},W,Instant,0,0,0
+ROE,common,{W},W,Creature,"Human, Cleric",1,1
+ROE,uncommon,{4}{W},W,Creature,"Kor, Spirit",4,5
+ROE,common,{1}{W},W,Creature,"Human, Soldier",0,3
+ROE,rare,{W},W,Creature,"Human, Knight",1,1
+ROE,uncommon,{2}{W},W,Sorcery,0,0,0
+ROE,uncommon,{1}{W},W,Enchantment,0,0,0
+ROE,common,{4}{W},W,Creature,Antelope,2,5
+ROE,mythic,{1}{W}{W},W,Creature,"Human, Cleric, Avatar",3,3
+ROE,rare,{2}{W},W,Creature,"Human, Wizard",2,2
+ROE,uncommon,{1}{W},W,Creature,Wall,0,4
+ROE,common,{U},U,Instant,0,0,0
+ROE,mythic,{4}{U}{U}{U},U,Enchantment,0,0,0
+ROE,common,{1}{U},U,Creature,Drake,1,1
+ROE,rare,{U}{U},U,Creature,"Merfolk, Soldier",2,2
+ROE,uncommon,{U},U,Enchantment,Aura,0,0
+ROE,common,{U}{U},U,Instant,0,0,0
+ROE,common,{U},U,Sorcery,0,0,0
+ROE,uncommon,{2}{U}{U},U,Enchantment,Aura,0,0
+ROE,rare,{1}{U}{U},U,Creature,Jellyfish,5,5
+ROE,uncommon,{4}{U},U,Enchantment,Aura,0,0
+ROE,rare,{1}{U}{U},U,Creature,"Human, Wizard",2,3
+ROE,common,{1}{U},U,Enchantment,Aura,0,0
+ROE,uncommon,{U},U,Creature,"Merfolk, Wizard",0,1
+ROE,common,{U},U,Instant,0,0,0
+ROE,common,{4}{U},U,Creature,"Merfolk, Wizard",3,3
+ROE,rare,{3}{U}{U},U,Enchantment,0,0,0
+ROE,uncommon,{2}{U},U,Creature,Jellyfish,1,3
+ROE,uncommon,{1}{U},U,Creature,"Human, Rogue",1,1
+ROE,common,{1}{U},U,Creature,"Merfolk, Soldier",0,3
+ROE,common,{2}{U},U,Creature,Crab,2,3
+ROE,common,{2}{U}{U},U,Instant,0,0,0
+ROE,mythic,{1}{U},U,Creature,"Human, Wizard",1,3
+ROE,common,{1}{U},U,Creature,"Merfolk, Rogue",2,1
+ROE,uncommon,{2}{U}{U},U,Creature,"Merfolk, Scout",2,3
+ROE,common,{4}{U},U,Creature,Wall,0,4
+ROE,common,{1}{U},U,Enchantment,Aura,0,0
+ROE,uncommon,{1}{U}{U},U,Creature,Illusion,5,5
+ROE,uncommon,{X}{U}{U},U,Instant,0,0,0
+ROE,rare,{4}{U}{U},U,Sorcery,0,0,0
+ROE,common,{2}{U},U,Instant,0,0,0
+ROE,rare,{1}{U},U,Creature,Shapeshifter,0,1
+ROE,common,{2}{U},U,Creature,"Human, Wizard",1,3
+ROE,common,{1}{U},U,Sorcery,0,0,0
+ROE,common,{U},U,Sorcery,0,0,0
+ROE,common,{U},U,Creature,"Merfolk, Wizard",1,1
+ROE,rare,{3}{U}{U}{U},U,Creature,Sphinx,6,6
+ROE,rare,{1}{U}{U},U,Creature,Surrakar,2,1
+ROE,rare,{U},U,Enchantment,0,0,0
+ROE,uncommon,{1}{U},U,Instant,0,0,0
+ROE,common,{2}{U},U,Creature,"Human, Wizard",2,2
+ROE,uncommon,{1}{B}{B},B,Creature,"Vampire, Knight",4,4
+ROE,common,{3}{B},B,Creature,Scorpion,2,3
+ROE,rare,{4}{B}{B}{B},B,Enchantment,0,0,0
+ROE,common,{2}{B},B,Creature,"Vampire, Shaman",3,1
+ROE,common,{1}{B},B,Creature,Vampire,1,1
+ROE,common,{1}{B}{B},B,Creature,Imp,1,1
+ROE,rare,{3}{B}{B},B,Instant,0,0,0
+ROE,rare,{3}{B},B,Sorcery,0,0,0
+ROE,common,{1}{B},B,Enchantment,Aura,0,0
+ROE,uncommon,{3}{B}{B},B,Sorcery,0,0,0
+ROE,uncommon,{2}{B}{B},B,Enchantment,0,0,0
+ROE,common,{B},B,Creature,"Human, Wizard",1,1
+ROE,common,{B},B,Enchantment,Aura,0,0
+ROE,rare,{3}{B}{B},B,Creature,"Vampire, Shaman",4,4
+ROE,common,{4}{B},B,Creature,"Eldrazi, Drone",4,1
+ROE,uncommon,{3}{B},B,Creature,"Zombie, Berserker",1,2
+ROE,common,{5}{B},B,Sorcery,0,0,0
+ROE,common,{2}{B},B,Creature,Bat,2,1
+ROE,rare,{B},B,Creature,"Vampire, Assassin",1,1
+ROE,mythic,{3}{B}{B}{B},B,Creature,Demon,6,6
+ROE,common,{2}{B},B,Instant,0,0,0
+ROE,uncommon,{B},B,Sorcery,0,0,0
+ROE,common,{2}{B},B,Instant,0,0,0
+ROE,rare,{B},B,Creature,Insect,1,1
+ROE,common,{B},B,Sorcery,0,0,0
+ROE,uncommon,{2}{B},B,Creature,"Vampire, Warrior",3,2
+ROE,mythic,{4}{B}{B},B,Creature,"Vampire, Shade",4,4
+ROE,common,{1}{B},B,Creature,"Zombie, Warrior",1,1
+ROE,uncommon,{1}{B}{B},B,Creature,"Vampire, Shaman",2,2
+ROE,common,{2}{B},B,Sorcery,0,0,0
+ROE,rare,{5}{B}{B}{B},B,Creature,Demon,7,6
+ROE,rare,{5}{B}{B},B,Sorcery,0,0,0
+ROE,common,{1}{B},B,Sorcery,0,0,0
+ROE,uncommon,{7}{B},B,Creature,"Skeleton, Wurm",7,6
+ROE,uncommon,{X}{B},B,Instant,0,0,0
+ROE,rare,{2}{B}{B},B,Creature,Horror,2,2
+ROE,common,{B},B,Instant,0,0,0
+ROE,uncommon,{B},B,Instant,0,0,0
+ROE,common,{3}{B},B,Creature,Shade,2,2
+ROE,common,{B},B,Creature,"Human, Warrior",1,1
+ROE,uncommon,{4}{R}{R},R,Creature,"Giant, Warrior",4,5
+ROE,common,{2}{R},R,Creature,Wall,1,3
+ROE,common,{3}{R},R,Creature,"Goblin, Shaman",2,2
+ROE,uncommon,{2}{R},R,Creature,"Human, Shaman",2,2
+ROE,common,{1}{R},R,Sorcery,0,0,0
+ROE,rare,{4}{R}{R},R,Creature,Manticore,5,5
+ROE,rare,{R},R,Sorcery,0,0,0
+ROE,rare,{5}{R}{R},R,Sorcery,0,0,0
+ROE,common,{4}{R},R,Creature,"Eldrazi, Drone",3,3
+ROE,uncommon,{3}{R}{R},R,Sorcery,0,0,0
+ROE,common,{3}{R}{R},R,Sorcery,0,0,0
+ROE,common,{R},R,Sorcery,0,0,0
+ROE,uncommon,{R},R,Sorcery,0,0,0
+ROE,common,{R},R,Creature,"Goblin, Shaman",1,1
+ROE,common,{1}{R},R,Creature,"Goblin, Rogue",1,1
+ROE,common,{1}{R},R,Creature,"Goblin, Rogue",2,1
+ROE,common,{X}{R},R,Instant,0,0,0
+ROE,rare,{5}{R},R,Sorcery,0,0,0
+ROE,mythic,{R}{R},R,Creature,"Human, Warrior",2,2
+ROE,common,{1}{R},R,Creature,"Elemental, Beast",1,2
+ROE,common,{3}{R},R,Creature,Lizard,3,3
+ROE,common,{2}{R},R,Creature,"Goblin, Shaman",2,2
+ROE,rare,{3}{R},R,Creature,"Minotaur, Shaman",3,3
+ROE,uncommon,{2}{R},R,Enchantment,Aura,0,0
+ROE,rare,{3}{R}{R},R,Creature,Elemental,4,4
+ROE,common,{1}{R},R,Creature,"Ogre, Warrior",3,3
+ROE,rare,{2}{R},R,Creature,Elemental,5,3
+ROE,common,{2}{R},R,Enchantment,0,0,0
+ROE,uncommon,{5}{R},R,Creature,"Eldrazi, Drone",5,4
+ROE,uncommon,{3}{R},R,Creature,Elemental,*,1
+ROE,common,{1}{R},R,Instant,0,0,0
+ROE,rare,{2}{R}{R},R,Enchantment,Aura,0,0
+ROE,common,{2}{R},R,Instant,0,0,0
+ROE,uncommon,{3}{R},R,Sorcery,0,0,0
+ROE,uncommon,{3}{R},R,Sorcery,0,0,0
+ROE,rare,{2}{R},R,Creature,Goblin,1,1
+ROE,uncommon,{4}{R},R,Creature,"Elemental, Boar",1,7
+ROE,common,{3}{R},R,Creature,Elemental,2,4
+ROE,rare,{3}{R}{R},R,Sorcery,0,0,0
+ROE,common,{3}{R},R,Sorcery,0,0,0
+ROE,common,{G},G,Sorcery,0,0,0
+ROE,common,{2}{G},G,Creature,Beast,2,2
+ROE,rare,{2}{G},G,Enchantment,0,0,0
+ROE,rare,{2}{G}{G},G,Enchantment,Aura,0,0
+ROE,uncommon,{1}{G},G,Creature,"Human, Warrior",2,2
+ROE,uncommon,{2}{G},G,Enchantment,Aura,0,0
+ROE,uncommon,{1}{G},G,Creature,Elemental,1,1
+ROE,uncommon,{3}{G}{G},G,Creature,"Eldrazi, Drone",4,4
+ROE,common,{2}{G},G,Creature,Basilisk,2,2
+ROE,rare,{X}{X}{G},G,Sorcery,0,0,0
+ROE,rare,{7}{G},G,Creature,"Human, Shaman",1,1
+ROE,uncommon,{1}{G}{G},G,Enchantment,0,0,0
+ROE,common,{2}{G},G,Sorcery,0,0,0
+ROE,common,{3}{G}{G},G,Creature,Frog,2,1
+ROE,uncommon,{G},G,Sorcery,0,0,0
+ROE,uncommon,{4}{G},G,Creature,Elemental,2,8
+ROE,uncommon,{G},G,Creature,"Elf, Druid",1,1
+ROE,rare,{1}{G},G,Creature,"Human, Shaman",1,1
+ROE,mythic,{G}{G}{G}{G}{G}{G}{G}{G},G,Creature,Hydra,8,8
+ROE,common,{3}{G},G,Creature,"Eldrazi, Drone",3,3
+ROE,common,{G},G,Instant,0,0,0
+ROE,common,{3}{G},G,Instant,0,0,0
+ROE,common,{G},G,Instant,0,0,0
+ROE,rare,{2}{G}{G},G,Instant,0,0,0
+ROE,rare,{1}{G}{G},G,Creature,"Elf, Druid, Shaman",2,2
+ROE,common,{1}{G},G,Instant,0,0,0
+ROE,common,{4}{G},G,Creature,Lizard,3,5
+ROE,common,{1}{G},G,Creature,"Eldrazi, Drone",2,2
+ROE,common,{3}{G},G,Creature,"Giant, Druid",2,4
+ROE,common,{1}{G},G,Creature,Wall,0,4
+ROE,uncommon,{4}{G}{G}{G},G,Creature,Wurm,7,7
+ROE,uncommon,{G},G,Instant,0,0,0
+ROE,rare,{2}{G},G,Instant,0,0,0
+ROE,common,{2}{G},G,Enchantment,Aura,0,0
+ROE,common,{G},G,Enchantment,Aura,0,0
+ROE,common,{2}{G},G,Creature,Spider,1,5
+ROE,common,{3}{G}{G},G,Creature,Beast,5,3
+ROE,rare,{1}{G},G,Creature,"Elf, Shaman",2,1
+ROE,mythic,{2}{G}{G},G,Creature,Elemental,4,3
+ROE,common,{2}{G}{G},G,Creature,"Elf, Shaman",4,3
+ROE,mythic,{3}{B}{R},"B, R",Planeswalker,Sarkhan,0,0
+ROE,rare,{5},0,Artifact,0,0,0
+ROE,uncommon,{6},0,Artifact,0,0,0
+ROE,uncommon,{6},0,"Artifact, Creature",Golem,3,5
+ROE,rare,{4},0,Artifact,Equipment,0,0
+ROE,rare,{6},0,Artifact,0,0,0
+ROE,uncommon,{2},0,Artifact,Equipment,0,0
+ROE,uncommon,{3},0,Artifact,Equipment,0,0
+ROE,common,{2},0,Artifact,0,0,0
+ROE,common,{3},0,"Artifact, Creature",Wall,0,4
+ROE,uncommon,{2},0,"Artifact, Creature",Construct,2,2
+ROE,rare,{7},0,Artifact,0,0,0
+ROE,uncommon,{2},0,Artifact,Equipment,0,0
+ROE,rare,0,0,Land,0,0,0
+ROE,common,0,0,Land,0,0,0
+ROE,common,0,W,Land,Plains,0,0
+ROE,common,0,W,Land,Plains,0,0
+ROE,common,0,W,Land,Plains,0,0
+ROE,common,0,W,Land,Plains,0,0
+ROE,common,0,U,Land,Island,0,0
+ROE,common,0,U,Land,Island,0,0
+ROE,common,0,U,Land,Island,0,0
+ROE,common,0,U,Land,Island,0,0
+ROE,common,0,B,Land,Swamp,0,0
+ROE,common,0,B,Land,Swamp,0,0
+ROE,common,0,B,Land,Swamp,0,0
+ROE,common,0,B,Land,Swamp,0,0
+ROE,common,0,R,Land,Mountain,0,0
+ROE,common,0,R,Land,Mountain,0,0
+ROE,common,0,R,Land,Mountain,0,0
+ROE,common,0,R,Land,Mountain,0,0
+ROE,common,0,G,Land,Forest,0,0
+ROE,common,0,G,Land,Forest,0,0
+ROE,common,0,G,Land,Forest,0,0
+ROE,common,0,G,Land,Forest,0,0

@@ -1,0 +1,506 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+VOW,common,{1}{W},W,Instant,0,0,0
+VOW,uncommon,{3}{W}{W},W,Creature,"Angel, Soldier",3,3
+VOW,uncommon,{1}{W}{W},W,Sorcery,0,0,0
+VOW,uncommon,{1}{W},W,Artifact,Equipment,0,0
+VOW,rare,{3}{W}{W},W,Sorcery,0,0,0
+VOW,mythic,{2}{W}{W},W,Creature,"Human, Soldier",3,4
+VOW,uncommon,{1}{W},W,Enchantment,0,0,0
+VOW,uncommon,{1}{W},W,Creature,"Spirit, Warlock",1,3
+VOW,uncommon,{2}{W},W,Creature,Spirit,2,1
+VOW,uncommon,0,W,Enchantment,Aura,0,0
+VOW,common,{1}{W},W,Creature,"Spirit, Soldier",2,2
+VOW,common,0,W,Enchantment,Aura,0,0
+VOW,common,{3}{W},W,Creature,"Human, Soldier",4,2
+VOW,mythic,{1}{W}{W},W,Creature,"Spirit, Soldier",4,4
+VOW,mythic,0,W,Enchantment,"Aura, Curse",0,0
+VOW,common,{1}{W},W,Instant,0,0,0
+VOW,uncommon,{1}{W},W,Creature,Spirit,3,1
+VOW,common,{2}{W},W,Creature,"Human, Knight",2,1
+VOW,uncommon,{3}{W},W,Creature,"Human, Knight",2,2
+VOW,mythic,{2}{W}{W},W,Enchantment,0,0,0
+VOW,common,{3}{W},W,Creature,Bird,2,3
+VOW,common,{4}{W},W,Creature,Spirit,3,3
+VOW,rare,{W},W,Creature,"Human, Warlock",1,2
+VOW,rare,{1}{W}{W},W,Creature,"Spirit, Warlock",*,*
+VOW,rare,0,W,Enchantment,Aura,0,0
+VOW,common,{2}{W},W,Creature,Spirit,2,3
+VOW,common,0,W,Enchantment,Aura,0,0
+VOW,rare,{1}{W},"R, W",Instant,0,0,0
+VOW,common,{2}{W},W,Creature,"Human, Soldier",3,3
+VOW,common,{4}{W},W,Creature,Spirit,2,5
+VOW,common,{1}{W},W,Enchantment,Aura,0,0
+VOW,uncommon,{W},W,Creature,"Human, Cleric",1,1
+VOW,uncommon,{1}{W},"B, W",Creature,"Human, Peasant",2,2
+VOW,uncommon,0,"B, W",Creature,"Human, Rogue",3,5
+VOW,common,{1}{W},W,Creature,"Human, Soldier",1,2
+VOW,common,{W},W,Instant,0,0,0
+VOW,uncommon,{W},W,Enchantment,Aura,0,0
+VOW,uncommon,0,W,Enchantment,"Aura, Curse",0,0
+VOW,uncommon,{2}{W},W,Creature,"Human, Soldier",3,2
+VOW,common,{1}{W},W,Sorcery,0,0,0
+VOW,mythic,{1}{W}{W},W,Creature,"Human, Soldier",1,2
+VOW,common,{2}{W},W,Enchantment,Aura,0,0
+VOW,rare,{4}{W}{W},W,Enchantment,0,0,0
+VOW,common,{3}{W},W,Enchantment,Aura,0,0
+VOW,rare,{1}{W},W,Creature,"Human, Soldier",2,1
+VOW,common,{W},W,Creature,"Human, Cleric",1,1
+VOW,uncommon,{1}{W},W,Creature,"Spirit, Warrior",1,1
+VOW,uncommon,0,W,Enchantment,Aura,0,0
+VOW,common,{W},W,Creature,"Vampire, Cleric",1,2
+VOW,uncommon,{1}{W},W,Instant,0,0,0
+VOW,common,{1}{W},W,Creature,"Human, Soldier",2,2
+VOW,rare,{W}{W},W,Creature,"Spirit, Cleric",2,2
+VOW,rare,{2}{W},W,Enchantment,0,0,0
+VOW,rare,0,W,Enchantment,0,0,0
+VOW,rare,{2}{W},W,Creature,Vampire,2,3
+VOW,common,{U},U,Instant,0,0,0
+VOW,common,{2}{U},U,Creature,Spirit,3,1
+VOW,common,0,U,Enchantment,Aura,0,0
+VOW,common,{1}{U},U,Creature,Spirit,3,1
+VOW,common,0,U,Enchantment,Aura,0,0
+VOW,uncommon,{2}{U},U,Creature,"Serpent, Egg",0,4
+VOW,uncommon,0,U,Creature,Serpent,4,4
+VOW,mythic,{1}{U}{U},U,Creature,Spirit,2,3
+VOW,common,{2}{U},U,Instant,0,0,0
+VOW,uncommon,{U},U,Creature,"Zombie, Horse",3,3
+VOW,uncommon,{U},U,Creature,"Zombie, Horse",3,3
+VOW,rare,{2}{U}{U},U,Sorcery,0,0,0
+VOW,common,{1}{U},U,Enchantment,Aura,0,0
+VOW,common,{2}{U}{U},U,Creature,"Bird, Horror",3,3
+VOW,uncommon,{3}{U}{U},U,Creature,Zombie,3,5
+VOW,common,{4}{U}{U},U,Creature,"Crab, Horror",5,5
+VOW,rare,{1}{U}{U},U,Creature,Spirit,3,1
+VOW,rare,{1}{U}{U},U,Creature,Spirit,3,2
+VOW,common,{1}{U},U,Enchantment,Aura,0,0
+VOW,uncommon,{2}{U},U,Instant,0,0,0
+VOW,rare,{2}{U},U,Creature,"Human, Wizard",1,4
+VOW,uncommon,{3}{U},U,Creature,Spirit,3,3
+VOW,uncommon,0,U,Enchantment,Aura,0,0
+VOW,uncommon,{2}{U},U,Creature,Spirit,3,3
+VOW,uncommon,0,U,Enchantment,Aura,0,0
+VOW,rare,{5}{U}{U},U,Creature,"Kraken, Horror",7,8
+VOW,rare,{5}{U}{U},U,Creature,"Kraken, Horror",7,8
+VOW,rare,{2}{U},U,Sorcery,0,0,0
+VOW,mythic,{1}{U},U,Creature,"Human, Advisor",0,2
+VOW,mythic,0,U,Enchantment,0,0,0
+VOW,common,{U},U,Creature,Spirit,1,1
+VOW,common,0,U,Enchantment,Aura,0,0
+VOW,common,{U},U,Creature,Spirit,1,1
+VOW,common,0,U,Enchantment,Aura,0,0
+VOW,uncommon,{1}{U},U,Instant,0,0,0
+VOW,rare,{3}{U},U,Creature,Spirit,0,0
+VOW,rare,0,U,Enchantment,Aura,0,0
+VOW,uncommon,{1}{U},U,Creature,"Cat, Spirit",1,1
+VOW,uncommon,0,U,Enchantment,Aura,0,0
+VOW,uncommon,{1}{U},U,Creature,"Cat, Spirit",1,1
+VOW,uncommon,0,U,Enchantment,Aura,0,0
+VOW,mythic,{3}{U},U,Enchantment,0,0,0
+VOW,rare,{2}{U}{U},U,Creature,"Zombie, Horror",3,3
+VOW,rare,{1}{U},U,Creature,"Zombie, Horror",1,2
+VOW,common,{3}{U},U,Creature,Zombie,3,3
+VOW,common,{3}{U},U,Instant,0,0,0
+VOW,uncommon,{5}{U},U,Creature,"Bird, Horror",4,4
+VOW,common,{1}{U},U,Creature,Zombie,1,3
+VOW,common,{1}{U},U,Instant,0,0,0
+VOW,common,{3}{U}{U},U,Creature,"Zombie, Drake",2,5
+VOW,uncommon,{1}{U},U,Artifact,0,0,0
+VOW,uncommon,0,U,Creature,Spirit,3,2
+VOW,common,{1}{U},U,Creature,Spirit,3,3
+VOW,common,{2}{U},U,Creature,Zombie,3,2
+VOW,common,{1}{U},U,Creature,Zombie,2,1
+VOW,uncommon,{1}{U},U,Creature,Drake,2,1
+VOW,common,{X}{U},U,Instant,0,0,0
+VOW,common,{2}{U},U,Instant,0,0,0
+VOW,uncommon,{2}{U},U,Instant,0,0,0
+VOW,common,{2}{U},U,Creature,Spirit,2,3
+VOW,uncommon,{U},U,Instant,0,0,0
+VOW,uncommon,{3}{U},U,Creature,"Human, Wizard",3,2
+VOW,rare,{1}{U}{U},"G, U",Instant,0,0,0
+VOW,uncommon,{2}{U},U,Sorcery,0,0,0
+VOW,common,{1}{U},U,Creature,"Zombie, Horror",2,1
+VOW,common,{2}{B},B,Sorcery,0,0,0
+VOW,uncommon,{2}{B},B,Creature,"Zombie, Cleric",3,2
+VOW,common,{2}{B}{B},B,Instant,0,0,0
+VOW,common,{B},B,Artifact,0,0,0
+VOW,common,{3}{B},B,Creature,Vampire,3,3
+VOW,uncommon,{3}{B},B,Creature,"Vampire, Soldier",3,3
+VOW,uncommon,0,B,Creature,"Vampire, Knight",*,*
+VOW,rare,{2}{B}{B},B,Creature,Vampire,5,6
+VOW,uncommon,{2}{B},B,Creature,Zombie,1,5
+VOW,uncommon,0,B,Creature,Zombie,2,6
+VOW,mythic,{4}{B}{B},B,Creature,Zombie,4,4
+VOW,rare,{B},B,Creature,Wall,0,4
+VOW,rare,0,B,Creature,"Eye, Horror",3,4
+VOW,common,{2}{B},B,Creature,Bat,2,2
+VOW,rare,{2}{B},B,Sorcery,0,0,0
+VOW,common,{2}{B},B,Creature,"Human, Peasant",2,2
+VOW,common,0,B,Creature,"Human, Knight",4,3
+VOW,common,{3}{B},B,Creature,"Zombie, Bear",2,3
+VOW,common,{1}{B},B,Creature,Human,1,1
+VOW,uncommon,{B},B,Sorcery,0,0,0
+VOW,rare,{5}{B}{B},B,Creature,Demon,6,6
+VOW,rare,{2}{B},B,Enchantment,0,0,0
+VOW,uncommon,{3}{B}{B},B,Sorcery,0,0,0
+VOW,rare,{2}{B},B,Creature,Vampire,3,1
+VOW,uncommon,{2}{B},B,Creature,"Zombie, Scorpion",3,2
+VOW,common,{B},B,Enchantment,Aura,0,0
+VOW,common,{2}{B},B,Creature,Vampire,1,4
+VOW,rare,{1}{B},B,Creature,"Zombie, Warrior",3,3
+VOW,common,{5}{B},B,Sorcery,0,0,0
+VOW,uncommon,{1}{B},B,Artifact,Equipment,0,0
+VOW,rare,{2}{B},B,Creature,Zombie,3,1
+VOW,mythic,{2}{B}{B},B,Creature,Vampire,1,3
+VOW,mythic,0,B,Creature,Vampire,3,4
+VOW,uncommon,{1}{B}{B},B,Instant,0,0,0
+VOW,uncommon,{2}{B}{B},B,Creature,Human,1,3
+VOW,uncommon,0,B,Creature,Vampire,3,3
+VOW,common,{1}{B},B,Creature,Zombie,2,2
+VOW,uncommon,{1}{B},B,Instant,0,0,0
+VOW,rare,{1}{B}{B},"B, W",Sorcery,0,0,0
+VOW,common,{B},B,Creature,Skeleton,1,1
+VOW,common,{2}{B},B,Sorcery,0,0,0
+VOW,common,{1}{B},B,Creature,"Human, Peasant",2,1
+VOW,common,0,B,Creature,"Human, Warlock",3,3
+VOW,uncommon,{1}{B},B,Creature,Vampire,1,3
+VOW,uncommon,0,B,Creature,Vampire,3,3
+VOW,common,{3}{B}{B},B,Creature,"Zombie, Kraken",5,4
+VOW,uncommon,{3}{B},B,Creature,"Vampire, Assassin",4,2
+VOW,mythic,{2}{B}{B},B,Planeswalker,Sorin,0,0
+VOW,mythic,{5}{B}{B},"B, U",Creature,"Slug, Horror",7,7
+VOW,uncommon,{1}{B},B,Creature,Zombie,1,2
+VOW,common,{B},B,Instant,0,0,0
+VOW,common,{4}{B},B,Creature,"Zombie, Soldier",1,13
+VOW,common,{1}{B},B,Sorcery,0,0,0
+VOW,rare,{1}{B},B,Creature,"Vampire, Wizard",2,1
+VOW,rare,0,B,Creature,"Vampire, Wizard",3,3
+VOW,uncommon,{3}{B}{B},B,Creature,"Vampire, Soldier",4,4
+VOW,common,{1}{R},R,Instant,0,0,0
+VOW,rare,{1}{R}{R},"R, U",Sorcery,0,0,0
+VOW,uncommon,{2}{R},R,Creature,Vampire,2,3
+VOW,uncommon,0,R,Creature,Vampire,3,3
+VOW,common,{R},R,Sorcery,0,0,0
+VOW,uncommon,{2}{R}{R},R,Creature,"Human, Soldier, Werewolf",4,3
+VOW,uncommon,0,R,Creature,Werewolf,5,5
+VOW,common,{2}{R},R,Creature,Vampire,3,2
+VOW,uncommon,{2}{R},R,Creature,Vampire,3,3
+VOW,common,{1}{R},R,Creature,Vampire,2,1
+VOW,common,{2}{R},R,Sorcery,0,0,0
+VOW,mythic,{1}{R},R,Creature,Vampire,2,1
+VOW,mythic,{1}{R}{R},R,Planeswalker,Chandra,0,0
+VOW,rare,{3}{R},R,Sorcery,0,0,0
+VOW,rare,{3}{R},R,Creature,"Human, Rogue",4,3
+VOW,rare,{2}{R},R,Enchantment,"Aura, Curse",0,0
+VOW,common,{2}{R},R,Creature,"Human, Warrior",2,2
+VOW,rare,{1}{R}{R},R,Creature,Vampire,3,3
+VOW,common,{R},R,Sorcery,0,0,0
+VOW,common,{4}{R},R,Creature,Vampire,4,4
+VOW,common,{2}{R},R,Creature,"Human, Werewolf",2,3
+VOW,common,0,R,Creature,Werewolf,4,3
+VOW,common,{R},R,Instant,0,0,0
+VOW,uncommon,{4}{R},R,Creature,Devil,3,3
+VOW,uncommon,{2}{R},R,Artifact,Vehicle,5,5
+VOW,common,{1}{R},R,Creature,Wolf,2,2
+VOW,rare,{2}{R}{R},R,Creature,"Human, Werewolf",3,3
+VOW,rare,0,R,Creature,Werewolf,4,4
+VOW,uncommon,{3}{R},R,Sorcery,0,0,0
+VOW,common,{1}{R},R,Creature,"Human, Shaman",1,3
+VOW,rare,{R},R,Creature,"Human, Knight",1,2
+VOW,common,{4}{R},R,Sorcery,0,0,0
+VOW,uncommon,{3}{R},R,Creature,"Human, Werewolf",2,4
+VOW,uncommon,0,R,Creature,Werewolf,4,4
+VOW,common,{3}{R},R,Creature,Wolf,4,3
+VOW,uncommon,{X}{R}{R},R,Creature,Elemental,0,0
+VOW,mythic,{2}{R}{R},R,Creature,Dragon,4,4
+VOW,uncommon,{2}{R},R,Sorcery,0,0,0
+VOW,rare,{4}{R}{R},R,Creature,Vampire,6,6
+VOW,common,{4}{R}{R},R,Creature,Elemental,6,4
+VOW,common,{1}{R},R,Sorcery,0,0,0
+VOW,uncommon,{2}{R},R,Instant,0,0,0
+VOW,uncommon,{1}{R},R,Creature,Wolf,2,2
+VOW,uncommon,{1}{R},R,Artifact,0,0,0
+VOW,rare,{2}{R}{R},R,Enchantment,0,0,0
+VOW,common,{1}{R},R,Instant,0,0,0
+VOW,uncommon,{2}{R},R,Instant,0,0,0
+VOW,mythic,{3}{R}{R},R,Creature,"Human, Werewolf",4,4
+VOW,mythic,0,R,Creature,Werewolf,5,5
+VOW,common,{R},R,Creature,Vampire,1,1
+VOW,uncommon,{1}{R},R,Creature,"Human, Wizard",3,1
+VOW,uncommon,0,R,Creature,"Human, Berserker",4,3
+VOW,common,{3}{R},R,Creature,"Human, Werewolf",2,6
+VOW,common,0,R,Creature,Werewolf,6,6
+VOW,common,{2}{G},G,Creature,"Human, Archer",1,4
+VOW,rare,{G},G,Creature,Wolf,2,1
+VOW,mythic,{4}{G}{G},G,Creature,"Human, Werewolf",4,4
+VOW,mythic,0,G,Creature,Werewolf,6,6
+VOW,common,{1}{G},G,Artifact,Equipment,0,0
+VOW,uncommon,{6}{G},G,Creature,Wurm,7,6
+VOW,uncommon,{3}{G},G,Sorcery,0,0,0
+VOW,mythic,{1}{G}{G},G,Creature,Wolf,3,4
+VOW,uncommon,{4}{G},G,Creature,"Human, Ranger",2,4
+VOW,uncommon,{2}{G},G,Enchantment,0,0,0
+VOW,common,{2}{G},G,Instant,0,0,0
+VOW,mythic,{4}{G}{G}{G},G,Creature,"Plant, Beast",*,*
+VOW,common,{1}{G},G,Creature,"Human, Warlock",2,2
+VOW,rare,{G},"B, G",Sorcery,0,0,0
+VOW,uncommon,{3}{G},G,Enchantment,0,0,0
+VOW,uncommon,0,G,Creature,Treefolk,3,6
+VOW,common,{4}{G}{G},G,Creature,"Wolf, Spirit",6,6
+VOW,rare,{3}{G}{G},G,Enchantment,0,0,0
+VOW,rare,{2}{G},G,Creature,"Human, Warrior",1,1
+VOW,rare,{3}{G},G,Creature,"Human, Shaman",3,5
+VOW,common,{3}{G},G,Creature,"Human, Werewolf",4,4
+VOW,common,0,G,Creature,Werewolf,6,4
+VOW,rare,{2}{G},G,Enchantment,0,0,0
+VOW,rare,{3}{G},G,Creature,"Human, Werewolf",2,2
+VOW,rare,0,G,Creature,Werewolf,4,4
+VOW,uncommon,{4}{G},G,Creature,"Human, Werewolf",3,4
+VOW,uncommon,0,G,Creature,Werewolf,4,5
+VOW,uncommon,{3}{G},G,Enchantment,0,0,0
+VOW,common,{G},G,Instant,0,0,0
+VOW,common,{4}{G},G,Creature,"Insect, Horror",2,2
+VOW,common,{1}{G},G,Sorcery,0,0,0
+VOW,common,{2}{G},G,Enchantment,Aura,0,0
+VOW,uncommon,{2}{G},G,Creature,"Human, Ranger, Werewolf",3,3
+VOW,uncommon,0,G,Creature,Werewolf,6,3
+VOW,uncommon,{1}{G},G,Creature,Wolf,1,1
+VOW,uncommon,{1}{G},G,Creature,"Human, Druid",1,2
+VOW,uncommon,{2}{G},G,Sorcery,0,0,0
+VOW,common,{3}{G},G,Creature,"Human, Peasant",1,1
+VOW,uncommon,{3}{G},G,Creature,"Human, Archer",4,3
+VOW,common,{2}{G},G,Enchantment,Aura,0,0
+VOW,common,{G},G,Creature,Wolf,1,1
+VOW,uncommon,{2}{G},G,Artifact,Equipment,0,0
+VOW,rare,{3}{G},G,Sorcery,0,0,0
+VOW,common,{2}{G},G,Creature,Fungus,3,2
+VOW,common,{1}{G},G,Creature,Wolf,2,2
+VOW,common,{1}{G},G,Creature,Scorpion,1,1
+VOW,rare,{2}{G}{G},G,Creature,Beast,4,4
+VOW,rare,0,G,Creature,"Beast, Horror",8,8
+VOW,common,{2}{G},G,Creature,"Human, Werewolf",2,3
+VOW,common,0,G,Creature,Werewolf,3,4
+VOW,common,{1}{G},G,Instant,0,0,0
+VOW,common,{2}{G},G,Instant,0,0,0
+VOW,uncommon,{5}{G},G,Creature,"Human, Werewolf",5,4
+VOW,uncommon,0,G,Creature,Werewolf,6,5
+VOW,uncommon,{2}{B}{G},"B, G",Creature,Treefolk,1,4
+VOW,rare,{2}{B}{R},"B, R",Creature,Vampire,4,5
+VOW,uncommon,{B}{R},"B, R",Creature,Vampire,3,2
+VOW,uncommon,{1}{W}{U},"U, W",Creature,Spirit,1,1
+VOW,uncommon,0,"U, W",Enchantment,Aura,0,0
+VOW,uncommon,{1}{W}{U},"U, W",Creature,Spirit,2,2
+VOW,uncommon,0,"U, W",Enchantment,Aura,0,0
+VOW,uncommon,{2}{R}{G},"G, R",Creature,"Human, Werewolf",2,5
+VOW,uncommon,0,"G, R",Creature,Werewolf,5,5
+VOW,rare,{W}{U},"U, W",Creature,Spirit,4,4
+VOW,rare,0,"U, W",Enchantment,Aura,0,0
+VOW,rare,{W}{U},"U, W",Creature,Spirit,4,4
+VOW,rare,0,"U, W",Enchantment,Aura,0,0
+VOW,rare,{2}{W}{B},"B, W",Creature,"Vampire, Noble",4,4
+VOW,rare,0,"B, W",Artifact,0,0,0
+VOW,rare,{1}{U}{R},"R, U",Creature,"Human, Wizard",2,4
+VOW,rare,{2}{G}{U},"G, U",Creature,Frog,3,3
+VOW,rare,{2}{R}{G},"G, R",Creature,"Human, Ranger",2,3
+VOW,mythic,{1}{W}{B},"B, W",Planeswalker,Kaya,0,0
+VOW,uncommon,{1}{W}{B},"B, W",Creature,"Vampire, Cleric",2,3
+VOW,uncommon,{2}{R}{W},"R, W",Creature,Vampire,1,3
+VOW,rare,{1}{R}{W},"R, W",Creature,"Vampire, Soldier",3,3
+VOW,rare,{1}{B}{G},"B, G",Creature,"Human, Peasant",1,4
+VOW,mythic,{4}{B}{R},"B, R",Creature,"Vampire, Noble",3,4
+VOW,rare,{1}{U}{B},"B, U",Creature,"Vampire, Cleric",1,4
+VOW,rare,0,"B, U",Creature,"Kraken, Horror",3,5
+VOW,uncommon,{2}{G}{W},"G, W",Creature,"Human, Knight",4,4
+VOW,uncommon,{1}{G}{W},"G, W",Creature,"Human, Knight",4,3
+VOW,uncommon,{U}{B},"B, U",Creature,Zombie,2,2
+VOW,uncommon,{U}{B},"B, U",Creature,Zombie,2,2
+VOW,rare,{1}{G}{W},"G, W",Creature,"Human, Cleric",2,2
+VOW,uncommon,{G}{U},"G, U",Creature,Spider,2,3
+VOW,uncommon,{1}{U}{R},"R, U",Creature,Horror,2,1
+VOW,common,{3},0,"Artifact, Creature",Construct,2,2
+VOW,uncommon,{3},0,Artifact,0,0,0
+VOW,common,{1},0,Artifact,Equipment,0,0
+VOW,rare,{5},0,Artifact,0,0,0
+VOW,uncommon,{3},0,"Artifact, Creature",Construct,1,2
+VOW,uncommon,0,0,"Artifact, Creature",Construct,5,5
+VOW,common,{3},0,Artifact,0,0,0
+VOW,rare,{2},0,Artifact,Clue,0,0
+VOW,uncommon,{1},0,Artifact,0,0,0
+VOW,common,{2},0,Artifact,0,0,0
+VOW,rare,0,"B, G",Land,0,0,0
+VOW,rare,0,"G, U",Land,0,0,0
+VOW,common,0,0,Land,0,0,0
+VOW,rare,0,"B, W",Land,0,0,0
+VOW,rare,0,"R, U",Land,0,0,0
+VOW,rare,0,"R, W",Land,0,0,0
+VOW,rare,0,0,Land,0,0,0
+VOW,common,0,W,Land,Plains,0,0
+VOW,common,0,W,Land,Plains,0,0
+VOW,common,0,U,Land,Island,0,0
+VOW,common,0,U,Land,Island,0,0
+VOW,common,0,B,Land,Swamp,0,0
+VOW,common,0,B,Land,Swamp,0,0
+VOW,common,0,R,Land,Mountain,0,0
+VOW,common,0,R,Land,Mountain,0,0
+VOW,common,0,G,Land,Forest,0,0
+VOW,common,0,G,Land,Forest,0,0
+VOW,mythic,{2}{B}{B},B,Planeswalker,Sorin,0,0
+VOW,mythic,{1}{R}{R},R,Planeswalker,Chandra,0,0
+VOW,mythic,{1}{W}{B},"B, W",Planeswalker,Kaya,0,0
+VOW,rare,0,"B, G",Land,0,0,0
+VOW,rare,0,"G, U",Land,0,0,0
+VOW,rare,0,"B, W",Land,0,0,0
+VOW,rare,0,"R, U",Land,0,0,0
+VOW,rare,0,"R, W",Land,0,0,0
+VOW,common,{W},W,Creature,"Vampire, Cleric",1,2
+VOW,rare,{2}{W},W,Creature,Vampire,2,3
+VOW,common,{3}{B},B,Creature,Vampire,3,3
+VOW,uncommon,{3}{B},B,Creature,"Vampire, Soldier",3,3
+VOW,uncommon,0,B,Creature,"Vampire, Knight",*,*
+VOW,rare,{2}{B}{B},B,Creature,Vampire,5,6
+VOW,rare,{2}{B},B,Creature,Vampire,3,1
+VOW,common,{2}{B},B,Creature,Vampire,1,4
+VOW,mythic,{2}{B}{B},B,Creature,Vampire,1,3
+VOW,mythic,0,B,Creature,Vampire,3,4
+VOW,uncommon,{2}{B}{B},B,Creature,Human,1,3
+VOW,uncommon,0,B,Creature,Vampire,3,3
+VOW,uncommon,{1}{B},B,Creature,Vampire,1,3
+VOW,uncommon,0,B,Creature,Vampire,3,3
+VOW,uncommon,{3}{B},B,Creature,"Vampire, Assassin",4,2
+VOW,mythic,{2}{B}{B},B,Planeswalker,Sorin,0,0
+VOW,rare,{1}{B},B,Creature,"Vampire, Wizard",2,1
+VOW,rare,0,B,Creature,"Vampire, Wizard",3,3
+VOW,uncommon,{3}{B}{B},B,Creature,"Vampire, Soldier",4,4
+VOW,uncommon,{2}{R},R,Creature,Vampire,2,3
+VOW,uncommon,0,R,Creature,Vampire,3,3
+VOW,common,{2}{R},R,Creature,Vampire,3,2
+VOW,uncommon,{2}{R},R,Creature,Vampire,3,3
+VOW,common,{1}{R},R,Creature,Vampire,2,1
+VOW,mythic,{1}{R},R,Creature,Vampire,2,1
+VOW,rare,{1}{R}{R},R,Creature,Vampire,3,3
+VOW,common,{4}{R},R,Creature,Vampire,4,4
+VOW,rare,{4}{R}{R},R,Creature,Vampire,6,6
+VOW,common,{R},R,Creature,Vampire,1,1
+VOW,rare,{2}{B}{R},"B, R",Creature,Vampire,4,5
+VOW,uncommon,{B}{R},"B, R",Creature,Vampire,3,2
+VOW,rare,{2}{W}{B},"B, W",Creature,"Vampire, Noble",4,4
+VOW,rare,0,"B, W",Artifact,0,0,0
+VOW,uncommon,{1}{W}{B},"B, W",Creature,"Vampire, Cleric",2,3
+VOW,uncommon,{2}{R}{W},"R, W",Creature,Vampire,1,3
+VOW,rare,{1}{R}{W},"R, W",Creature,"Vampire, Soldier",3,3
+VOW,mythic,{4}{B}{R},"B, R",Creature,"Vampire, Noble",3,4
+VOW,rare,{1}{U}{B},"B, U",Creature,"Vampire, Cleric",1,4
+VOW,rare,0,"B, U",Creature,"Kraken, Horror",3,5
+VOW,rare,{1}{W}{W},W,Creature,"Spirit, Warlock",*,*
+VOW,rare,0,W,Enchantment,Aura,0,0
+VOW,rare,{1}{W},W,Creature,"Human, Soldier",2,1
+VOW,rare,{2}{U},U,Creature,"Human, Wizard",1,4
+VOW,mythic,{1}{U},U,Creature,"Human, Advisor",0,2
+VOW,mythic,0,U,Enchantment,0,0,0
+VOW,mythic,{5}{B}{B},"B, U",Creature,"Slug, Horror",7,7
+VOW,rare,{W}{U},"U, W",Creature,Spirit,4,4
+VOW,rare,0,"U, W",Enchantment,Aura,0,0
+VOW,rare,{1}{U}{R},"R, U",Creature,"Human, Wizard",2,4
+VOW,rare,{2}{G}{U},"G, U",Creature,Frog,3,3
+VOW,rare,{2}{R}{G},"G, R",Creature,"Human, Ranger",2,3
+VOW,rare,{1}{B}{G},"B, G",Creature,"Human, Peasant",1,4
+VOW,rare,{1}{U}{B},"B, U",Creature,"Vampire, Cleric",1,4
+VOW,rare,0,"B, U",Creature,"Kraken, Horror",3,5
+VOW,rare,{1}{G}{W},"G, W",Creature,"Human, Cleric",2,2
+VOW,uncommon,{1}{W},W,Enchantment,0,0,0
+VOW,mythic,{1}{W}{W},W,Creature,"Human, Soldier",1,2
+VOW,rare,{1}{W},W,Creature,"Human, Soldier",2,1
+VOW,mythic,{1}{U},U,Creature,"Human, Advisor",0,2
+VOW,mythic,0,U,Enchantment,0,0,0
+VOW,uncommon,{2}{U},U,Instant,0,0,0
+VOW,rare,{2}{B},B,Creature,Vampire,3,1
+VOW,mythic,{2}{B}{B},B,Creature,Vampire,1,3
+VOW,mythic,0,B,Creature,Vampire,3,4
+VOW,uncommon,{2}{B}{B},B,Creature,Human,1,3
+VOW,uncommon,0,B,Creature,Vampire,3,3
+VOW,mythic,{2}{B}{B},B,Planeswalker,Sorin,0,0
+VOW,rare,{1}{B},B,Creature,"Vampire, Wizard",2,1
+VOW,rare,0,B,Creature,"Vampire, Wizard",3,3
+VOW,uncommon,{2}{R},R,Instant,0,0,0
+VOW,uncommon,{1}{G},G,Creature,"Human, Druid",1,2
+VOW,rare,{2}{W}{B},"B, W",Creature,"Vampire, Noble",4,4
+VOW,rare,0,"B, W",Artifact,0,0,0
+VOW,rare,{1}{U}{R},"R, U",Creature,"Human, Wizard",2,4
+VOW,mythic,{4}{B}{R},"B, R",Creature,"Vampire, Noble",3,4
+VOW,rare,{1}{G}{W},"G, W",Creature,"Human, Cleric",2,2
+VOW,rare,{2},0,Artifact,Clue,0,0
+VOW,rare,{3}{W}{W},W,Sorcery,0,0,0
+VOW,mythic,{2}{W}{W},W,Creature,"Human, Soldier",3,4
+VOW,mythic,{1}{W}{W},W,Creature,"Spirit, Soldier",4,4
+VOW,mythic,0,W,Enchantment,"Aura, Curse",0,0
+VOW,mythic,{2}{W}{W},W,Enchantment,0,0,0
+VOW,rare,{W},W,Creature,"Human, Warlock",1,2
+VOW,rare,{1}{W},"R, W",Instant,0,0,0
+VOW,mythic,{1}{W}{W},W,Creature,"Human, Soldier",1,2
+VOW,rare,{4}{W}{W},W,Enchantment,0,0,0
+VOW,rare,{W}{W},W,Creature,"Spirit, Cleric",2,2
+VOW,rare,{2}{W},W,Enchantment,0,0,0
+VOW,rare,0,W,Enchantment,0,0,0
+VOW,mythic,{1}{U}{U},U,Creature,Spirit,2,3
+VOW,rare,{2}{U}{U},U,Sorcery,0,0,0
+VOW,rare,{1}{U}{U},U,Creature,Spirit,3,1
+VOW,rare,{5}{U}{U},U,Creature,"Kraken, Horror",7,8
+VOW,rare,{2}{U},U,Sorcery,0,0,0
+VOW,rare,{3}{U},U,Creature,Spirit,0,0
+VOW,rare,0,U,Enchantment,Aura,0,0
+VOW,mythic,{3}{U},U,Enchantment,0,0,0
+VOW,rare,{2}{U}{U},U,Creature,"Zombie, Horror",3,3
+VOW,rare,{1}{U},U,Creature,"Zombie, Horror",1,2
+VOW,rare,{1}{U}{U},"G, U",Instant,0,0,0
+VOW,mythic,{4}{B}{B},B,Creature,Zombie,4,4
+VOW,rare,{B},B,Creature,Wall,0,4
+VOW,rare,0,B,Creature,"Eye, Horror",3,4
+VOW,rare,{2}{B},B,Sorcery,0,0,0
+VOW,rare,{5}{B}{B},B,Creature,Demon,6,6
+VOW,rare,{2}{B},B,Enchantment,0,0,0
+VOW,rare,{1}{B},B,Creature,"Zombie, Warrior",3,3
+VOW,rare,{2}{B},B,Creature,Zombie,3,1
+VOW,rare,{1}{B}{B},"B, W",Sorcery,0,0,0
+VOW,rare,{1}{R}{R},"R, U",Sorcery,0,0,0
+VOW,rare,{3}{R},R,Sorcery,0,0,0
+VOW,rare,{3}{R},R,Creature,"Human, Rogue",4,3
+VOW,rare,{2}{R},R,Enchantment,"Aura, Curse",0,0
+VOW,rare,{2}{R}{R},R,Creature,"Human, Werewolf",3,3
+VOW,rare,0,R,Creature,Werewolf,4,4
+VOW,rare,{R},R,Creature,"Human, Knight",1,2
+VOW,mythic,{2}{R}{R},R,Creature,Dragon,4,4
+VOW,rare,{2}{R}{R},R,Enchantment,0,0,0
+VOW,mythic,{3}{R}{R},R,Creature,"Human, Werewolf",4,4
+VOW,mythic,0,R,Creature,Werewolf,5,5
+VOW,rare,{G},G,Creature,Wolf,2,1
+VOW,mythic,{4}{G}{G},G,Creature,"Human, Werewolf",4,4
+VOW,mythic,0,G,Creature,Werewolf,6,6
+VOW,mythic,{1}{G}{G},G,Creature,Wolf,3,4
+VOW,mythic,{4}{G}{G}{G},G,Creature,"Plant, Beast",*,*
+VOW,rare,{G},"B, G",Sorcery,0,0,0
+VOW,rare,{3}{G}{G},G,Enchantment,0,0,0
+VOW,rare,{2}{G},G,Creature,"Human, Warrior",1,1
+VOW,rare,{3}{G},G,Creature,"Human, Shaman",3,5
+VOW,rare,{2}{G},G,Enchantment,0,0,0
+VOW,rare,{3}{G},G,Creature,"Human, Werewolf",2,2
+VOW,rare,0,G,Creature,Werewolf,4,4
+VOW,rare,{3}{G},G,Sorcery,0,0,0
+VOW,rare,{2}{G}{G},G,Creature,Beast,4,4
+VOW,rare,0,G,Creature,"Beast, Horror",8,8
+VOW,rare,{5},0,Artifact,0,0,0
+VOW,rare,{2},0,Artifact,Clue,0,0
+VOW,rare,0,0,Land,0,0,0
+VOW,common,0,W,Land,Plains,0,0
+VOW,common,0,U,Land,Island,0,0
+VOW,common,0,B,Land,Swamp,0,0
+VOW,common,0,R,Land,Mountain,0,0
+VOW,common,0,G,Land,Forest,0,0
+VOW,rare,0,0,Land,0,0,0
+VOW,rare,{4}{W}{W},W,Enchantment,0,0,0
+VOW,uncommon,{2}{U},U,Instant,0,0,0
+VOW,uncommon,{2}{B},B,Creature,"Zombie, Scorpion",3,2
+VOW,rare,{1}{R}{R},R,Creature,Vampire,3,3
+VOW,common,0,W,Land,Plains,0,0
+VOW,common,0,U,Land,Island,0,0
+VOW,common,0,B,Land,Swamp,0,0
+VOW,common,0,R,Land,Mountain,0,0
+VOW,common,0,G,Land,Forest,0,0

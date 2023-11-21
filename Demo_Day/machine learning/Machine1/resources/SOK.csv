@@ -1,0 +1,171 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+SOK,uncommon,{3}{W},W,Instant,0,0,0
+SOK,common,{1}{W},W,Creature,"Human, Samurai",1,1
+SOK,rare,{2}{W}{W},W,Creature,"Kirin, Spirit",3,3
+SOK,uncommon,{4}{W},W,Instant,Arcane,0,0
+SOK,common,{W},W,Enchantment,Aura,0,0
+SOK,common,{1}{W},W,Instant,0,0,0
+SOK,uncommon,{1}{W}{W},W,Creature,"Human, Soldier",2,3
+SOK,uncommon,{3}{W},W,Creature,"Human, Soldier",3,4
+SOK,rare,{5}{W}{W},W,Sorcery,0,0,0
+SOK,uncommon,{W},W,Creature,Spirit,1,1
+SOK,uncommon,{X}{W},W,Instant,0,0,0
+SOK,uncommon,{W}{W},W,Creature,"Human, Samurai",2,2
+SOK,uncommon,{1}{W},W,Creature,"Human, Samurai",0,2
+SOK,rare,{1}{W},W,Creature,Spirit,2,1
+SOK,common,{2}{W},W,Creature,"Fox, Cleric",0,1
+SOK,common,{4}{W},W,Creature,"Fox, Samurai",2,3
+SOK,common,{1}{W},W,Creature,"Fox, Cleric",2,1
+SOK,rare,{3}{W}{W},W,Creature,Spirit,*,*
+SOK,rare,{3}{W},W,Creature,"Human, Advisor",2,2
+SOK,common,{1}{W}{W},W,Creature,Insect,2,1
+SOK,uncommon,{2}{W},W,Creature,Spirit,2,2
+SOK,common,{1}{W},W,Instant,Arcane,0,0
+SOK,uncommon,{2}{W}{W},W,Sorcery,0,0,0
+SOK,rare,{2}{W},W,Enchantment,0,0,0
+SOK,rare,{W},W,Instant,Arcane,0,0
+SOK,rare,{2}{W}{W},W,Enchantment,0,0,0
+SOK,rare,{2}{W},W,Creature,"Fox, Monk",2,2
+SOK,rare,0,W,Enchantment,0,0,0
+SOK,common,{2}{W},W,Creature,Spirit,2,1
+SOK,common,{W},W,Instant,Arcane,0,0
+SOK,common,{4}{W},W,Creature,Spirit,3,3
+SOK,rare,{3}{U}{U},U,Creature,"Kirin, Spirit",4,4
+SOK,common,{U},U,Instant,Arcane,0,0
+SOK,common,{3}{U},U,Creature,"Human, Wizard",2,3
+SOK,common,{U},U,Creature,Spirit,1,1
+SOK,rare,{1}{U},U,Creature,"Moonfolk, Monk",1,1
+SOK,rare,0,U,Enchantment,0,0,0
+SOK,rare,{7}{U}{U}{U},U,Sorcery,0,0,0
+SOK,uncommon,0,U,Instant,Arcane,0,0
+SOK,common,{2}{U},U,Enchantment,Aura,0,0
+SOK,uncommon,{1}{U},U,Creature,Spirit,1,1
+SOK,common,{U}{U},U,Sorcery,Arcane,0,0
+SOK,rare,{2}{U}{U},U,Creature,"Human, Wizard",2,2
+SOK,rare,{U}{U},U,Creature,Spirit,1,3
+SOK,uncommon,{4}{U},U,Creature,Spirit,2,2
+SOK,rare,{4}{U}{U}{U},U,Enchantment,0,0,0
+SOK,common,{1}{U},U,Creature,"Human, Wizard",2,3
+SOK,common,{2}{U},U,Creature,"Moonfolk, Wizard",2,1
+SOK,common,{2}{U},U,Instant,Arcane,0,0
+SOK,common,{1}{U},U,Creature,"Moonfolk, Wizard",1,1
+SOK,uncommon,{3}{U},U,Creature,"Moonfolk, Wizard",1,3
+SOK,common,{2}{U},U,Instant,0,0,0
+SOK,uncommon,{4}{U}{U},U,Instant,0,0,0
+SOK,uncommon,{2}{U}{U},U,Creature,"Zubera, Spirit",3,3
+SOK,rare,{2}{U}{U},U,Creature,"Human, Rogue",3,1
+SOK,uncommon,{3}{U},U,Creature,Spirit,2,2
+SOK,uncommon,{U}{U},U,Creature,"Shapeshifter, Spirit",1,1
+SOK,uncommon,{3}{U},U,Instant,Arcane,0,0
+SOK,common,{4}{U},U,Creature,Spirit,3,3
+SOK,rare,{4}{U}{U},U,Creature,Spirit,*,*
+SOK,uncommon,{U},U,Creature,"Human, Advisor",1,2
+SOK,rare,{U}{U},U,Instant,0,0,0
+SOK,rare,{2}{B}{B},B,Creature,Spirit,3,2
+SOK,rare,{5}{B},B,Sorcery,Arcane,0,0
+SOK,common,{X}{B}{B},B,Instant,Arcane,0,0
+SOK,common,{4}{B},B,Instant,Arcane,0,0
+SOK,common,{1}{B},B,Creature,Spirit,0,1
+SOK,common,{2}{B},B,Creature,"Rat, Shaman",2,2
+SOK,uncommon,{4}{B},B,Sorcery,0,0,0
+SOK,uncommon,{2}{B},B,Sorcery,Arcane,0,0
+SOK,uncommon,{B},B,Creature,Spirit,1,1
+SOK,common,{B},B,Creature,"Rat, Shaman",1,1
+SOK,uncommon,{B}{B},B,Creature,"Human, Samurai",2,2
+SOK,rare,{2}{B}{B},B,Creature,"Kirin, Spirit",3,3
+SOK,rare,{3}{B}{B},B,Creature,"Demon, Spirit",*,*
+SOK,common,{3}{B},B,Enchantment,Aura,0,0
+SOK,common,{3}{B},B,Creature,Spirit,4,1
+SOK,uncommon,{4}{B},B,Creature,Spirit,3,3
+SOK,uncommon,{B}{B},B,Sorcery,0,0,0
+SOK,rare,{B}{B}{B},B,Creature,"Ogre, Monk",2,4
+SOK,rare,0,B,Enchantment,0,0,0
+SOK,common,{1}{B},B,Creature,"Rat, Samurai",1,1
+SOK,uncommon,{2}{B}{B},B,Creature,"Rat, Shaman",2,2
+SOK,rare,{X}{B}{B}{B},B,Creature,"Human, Wizard",0,0
+SOK,uncommon,{3}{B},B,Enchantment,0,0,0
+SOK,rare,{4}{B}{B},B,Sorcery,0,0,0
+SOK,rare,{B},B,Instant,0,0,0
+SOK,rare,{2}{B},B,Sorcery,0,0,0
+SOK,common,{1}{B},B,Creature,"Ogre, Warrior",3,3
+SOK,uncommon,{3}{B},B,Creature,"Demon, Spirit",4,5
+SOK,common,{4}{B},B,Creature,Spirit,3,2
+SOK,common,{3}{B},B,Sorcery,Arcane,0,0
+SOK,uncommon,{1}{B}{B},B,Creature,"Ogre, Warrior",3,3
+SOK,rare,{1}{R}{R},R,Creature,Spirit,*,*
+SOK,common,{2}{R},R,Creature,"Goblin, Shaman",2,2
+SOK,common,{1}{R},R,Creature,"Goblin, Warrior",2,1
+SOK,common,{2}{R},R,Instant,Arcane,0,0
+SOK,uncommon,{2}{R}{R},R,Creature,"Zubera, Spirit",3,3
+SOK,uncommon,{2}{R},R,Enchantment,0,0,0
+SOK,uncommon,{3}{R}{R}{R},R,Sorcery,0,0,0
+SOK,uncommon,{2}{R}{R},R,Instant,Arcane,0,0
+SOK,uncommon,{2}{R},R,Creature,Spirit,2,1
+SOK,common,{R},R,Creature,Spirit,1,1
+SOK,uncommon,{R},R,Creature,"Human, Warrior",1,1
+SOK,rare,{3}{R},R,Instant,0,0,0
+SOK,rare,{4}{R}{R},R,Creature,"Human, Monk",4,4
+SOK,rare,0,R,Enchantment,0,0,0
+SOK,rare,{3}{R}{R},R,Creature,"Human, Samurai",3,3
+SOK,common,{3}{R},R,Sorcery,0,0,0
+SOK,common,{R},R,Instant,Arcane,0,0
+SOK,rare,{3}{R}{R},R,Creature,Spirit,3,3
+SOK,uncommon,{5}{R},R,Creature,"Demon, Spirit",6,5
+SOK,common,{2}{R},R,Instant,Arcane,0,0
+SOK,rare,{5}{R},R,Sorcery,0,0,0
+SOK,common,{5}{R},R,Creature,"Human, Samurai",4,3
+SOK,common,{2}{R},R,Creature,Spirit,2,1
+SOK,rare,{2}{R}{R},R,Creature,"Kirin, Spirit",3,3
+SOK,uncommon,{2}{R},R,Creature,"Ogre, Samurai, Mercenary",3,3
+SOK,common,{4}{R},R,Creature,"Ogre, Samurai, Shaman",2,3
+SOK,common,{3}{R},R,Sorcery,Arcane,0,0
+SOK,uncommon,{2}{R}{R},R,Sorcery,Arcane,0,0
+SOK,rare,{2}{R}{R},R,Sorcery,0,0,0
+SOK,rare,{4}{R}{R},R,Sorcery,0,0,0
+SOK,uncommon,{3}{R},R,Creature,Spirit,3,1
+SOK,rare,{3}{G}{G},G,Creature,Spirit,5,5
+SOK,rare,{3}{G}{G},G,Creature,Spirit,7,3
+SOK,rare,{5}{G}{G},G,Creature,"Kirin, Spirit",4,4
+SOK,uncommon,{3}{G}{G},G,Creature,Spirit,3,3
+SOK,uncommon,{1}{G},G,Enchantment,0,0,0
+SOK,uncommon,{2}{G},G,Creature,"Human, Monk",1,1
+SOK,common,{4}{G},G,Sorcery,0,0,0
+SOK,common,{2}{G},G,Creature,Spirit,2,1
+SOK,rare,{5}{G}{G}{G},G,Sorcery,0,0,0
+SOK,common,{4}{G},G,Creature,Spirit,3,3
+SOK,uncommon,{2}{G},G,Creature,Spirit,2,1
+SOK,uncommon,{3}{G},G,Creature,Spirit,2,1
+SOK,common,{2}{G},G,Instant,Arcane,0,0
+SOK,uncommon,{3}{G},G,Creature,Spirit,4,4
+SOK,uncommon,{1}{G}{G},G,Creature,"Snake, Warrior",2,3
+SOK,rare,{3}{G}{G}{G},G,Creature,Spirit,*,*
+SOK,common,{2}{G}{G},G,Creature,"Snake, Warrior, Archer",2,2
+SOK,uncommon,{2}{G},G,Enchantment,0,0,0
+SOK,common,{4}{G}{G},G,Creature,Spirit,6,4
+SOK,common,{4}{G},G,Creature,"Human, Monk",4,3
+SOK,common,{G},G,Creature,"Human, Druid",1,1
+SOK,rare,{2}{G},G,Creature,"Human, Shaman",1,2
+SOK,common,{1}{G}{G},G,Instant,Arcane,0,0
+SOK,common,{G},G,Creature,"Snake, Shaman, Scout",1,1
+SOK,rare,{1}{G}{G},G,Creature,"Snake, Monk",2,3
+SOK,rare,0,G,Enchantment,0,0,0
+SOK,rare,{2}{G}{G},G,Enchantment,0,0,0
+SOK,uncommon,{3}{G},G,Sorcery,0,0,0
+SOK,rare,{5}{G}{G}{G},G,Creature,Spirit,0,0
+SOK,common,{1}{G},G,Creature,Spirit,1,2
+SOK,uncommon,{2}{G}{G},G,Creature,"Antelope, Beast",5,4
+SOK,rare,{8}{B}{B}{G}{G},"B, G",Creature,Spirit,8,8
+SOK,rare,{2},0,Artifact,0,0,0
+SOK,rare,{4},0,Artifact,0,0,0
+SOK,uncommon,{2},0,Artifact,0,0,0
+SOK,uncommon,{2},0,Artifact,0,0,0
+SOK,uncommon,{2},0,Artifact,Equipment,0,0
+SOK,uncommon,{1},0,Artifact,Equipment,0,0
+SOK,rare,{1},0,Artifact,0,0,0
+SOK,rare,{2},0,Artifact,0,0,0
+SOK,uncommon,{5},0,Artifact,0,0,0
+SOK,rare,{3},0,Artifact,0,0,0
+SOK,rare,0,0,Land,0,0,0
+SOK,rare,0,0,Land,0,0,0
+SOK,rare,0,U,Land,0,0,0
+SOK,rare,0,B,Land,0,0,0

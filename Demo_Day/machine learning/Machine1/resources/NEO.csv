@@ -1,0 +1,575 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+NEO,common,{1}{W},W,Artifact,Equipment,0,0
+NEO,common,{1}{W},W,Artifact,Equipment,0,0
+NEO,mythic,{3}{W}{W},W,Creature,"Dragon, Spirit",5,4
+NEO,uncommon,{W}{W},W,Sorcery,0,0,0
+NEO,common,{3}{W},W,Enchantment,Saga,0,0
+NEO,common,0,W,"Enchantment, Creature",Insect,2,4
+NEO,uncommon,{2}{W},W,Creature,"Fox, Ninja",2,2
+NEO,uncommon,{2}{W},W,Enchantment,Aura,0,0
+NEO,rare,{3}{W}{W}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{2}{W},W,"Artifact, Creature","Equipment, Kirin",3,2
+NEO,common,{2}{W},W,Artifact,Vehicle,3,2
+NEO,common,{1}{W},W,"Enchantment, Creature","Human, Samurai",2,1
+NEO,common,{W},W,"Enchantment, Creature","Human, Samurai",1,1
+NEO,common,{1}{W},W,Enchantment,Saga,0,0
+NEO,common,0,W,"Enchantment, Creature","Human, Monk",2,2
+NEO,uncommon,{2}{W},W,Enchantment,Saga,0,0
+NEO,uncommon,0,W,"Enchantment, Creature","Human, Noble",1,3
+NEO,rare,{4}{W}{W},W,Sorcery,0,0,0
+NEO,uncommon,{3}{W},W,"Enchantment, Creature",Shrine,1,3
+NEO,common,{2}{W},W,"Enchantment, Creature","Fox, Monk",2,3
+NEO,uncommon,{W},W,"Artifact, Creature","Fox, Pilot",2,1
+NEO,common,{5}{W},W,Sorcery,0,0,0
+NEO,uncommon,{2}{W},W,Artifact,Vehicle,3,4
+NEO,common,{2}{W},W,Creature,"Human, Samurai",3,2
+NEO,common,{1}{W},W,Creature,"Human, Samurai",3,1
+NEO,common,{2}{W},W,Enchantment,Aura,0,0
+NEO,rare,{1}{W}{W}{W}{W},W,Sorcery,0,0,0
+NEO,common,{1}{W},W,Creature,"Fox, Pilot",2,2
+NEO,rare,{3}{W},"B, G, R, U, W",Creature,"Dragon, Spirit",3,3
+NEO,common,{W},W,Instant,0,0,0
+NEO,rare,{1}{W},W,Creature,"Fox, Advisor",2,2
+NEO,rare,{1}{W},W,"Artifact, Creature","Equipment, Cat",1,1
+NEO,common,{W},W,Sorcery,0,0,0
+NEO,rare,{X}{W},W,Instant,0,0,0
+NEO,uncommon,{1}{W},W,Enchantment,Saga,0,0
+NEO,uncommon,0,W,"Enchantment, Creature","Human, Noble",0,0
+NEO,common,{W},W,Creature,"Fox, Warrior",1,1
+NEO,uncommon,{2}{W},W,Creature,"Human, Samurai",3,2
+NEO,common,{W},W,Instant,0,0,0
+NEO,common,{3}{W},W,Instant,0,0,0
+NEO,rare,{2}{W},W,Enchantment,Saga,0,0
+NEO,rare,0,W,"Enchantment, Creature","Fox, Monk",3,4
+NEO,uncommon,{1}{W},W,Creature,"Fox, Samurai",2,2
+NEO,common,{3}{W},W,Creature,"Fox, Samurai",2,3
+NEO,uncommon,{6}{W},W,"Enchantment, Creature","Human, Samurai",4,4
+NEO,common,{1}{W},W,"Enchantment, Creature",Dog,1,1
+NEO,common,{4}{W},W,"Enchantment, Creature","Human, Samurai",4,4
+NEO,uncommon,{2}{W},W,Enchantment,0,0,0
+NEO,common,{1}{W},W,Instant,0,0,0
+NEO,mythic,{2}{W}{W},W,Planeswalker,0,0,0
+NEO,uncommon,{3}{W},W,Instant,0,0,0
+NEO,uncommon,{2}{U},U,"Artifact, Creature","Equipment, Octopus",2,2
+NEO,uncommon,{2}{U}{U},U,Sorcery,0,0,0
+NEO,common,{1}{U},U,"Artifact, Creature","Equipment, Beast",2,1
+NEO,uncommon,{X}{U}{U},U,Enchantment,Aura,0,0
+NEO,uncommon,{3}{U}{U},U,Enchantment,Saga,0,0
+NEO,uncommon,0,U,"Enchantment, Creature",Spirit,0,0
+NEO,uncommon,{2}{U},U,"Artifact, Creature","Human, Ninja",2,4
+NEO,uncommon,{2}{U},U,Instant,0,0,0
+NEO,common,{U}{U},U,Instant,0,0,0
+NEO,uncommon,{U}{U},U,Instant,0,0,0
+NEO,uncommon,{3}{U},U,Creature,"Human, Ninja",3,4
+NEO,uncommon,{U},U,Creature,"Human, Ninja",0,4
+NEO,common,{3}{U},U,Artifact,Vehicle,6,6
+NEO,uncommon,{1}{U},U,"Enchantment, Creature",Shrine,0,4
+NEO,common,{2}{U},U,Creature,"Moonfolk, Samurai",3,4
+NEO,rare,{3}{U},U,Enchantment,Saga,0,0
+NEO,rare,0,U,"Enchantment, Creature",Moonfolk,3,3
+NEO,rare,{1}{U}{U}{U}{U},U,Sorcery,0,0,0
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5
+NEO,mythic,{4}{U}{U},U,Creature,"Dragon, Spirit",6,6
+NEO,rare,{X}{U},U,Instant,0,0,0
+NEO,rare,{2}{U},U,Artifact,Vehicle,4,3
+NEO,common,{5}{U}{U},U,"Artifact, Creature",Crab,5,7
+NEO,common,{1}{U},U,Artifact,0,0,0
+NEO,uncommon,{1}{U},U,Artifact,Vehicle,3,4
+NEO,common,{1}{U},U,Enchantment,Saga,0,0
+NEO,common,0,U,"Enchantment, Creature",Spirit,2,3
+NEO,common,{1}{U},U,"Enchantment, Creature","Human, Ninja",2,1
+NEO,common,{1}{U},U,"Enchantment, Creature","Human, Ninja",2,1
+NEO,common,{2}{U},U,"Artifact, Creature","Moonfolk, Wizard",1,4
+NEO,common,{U},U,Artifact,0,0,0
+NEO,common,{3}{U},U,Creature,"Human, Ninja",2,2
+NEO,common,{U},U,"Artifact, Creature","Moonfolk, Rogue",1,1
+NEO,common,{1}{U},U,Instant,0,0,0
+NEO,uncommon,{2}{U},U,Creature,"Human, Ninja",3,2
+NEO,uncommon,{2}{U},U,Creature,"Human, Ninja",2,4
+NEO,rare,{1}{U},U,"Artifact, Creature","Equipment, Jellyfish",0,4
+NEO,uncommon,{5}{U}{U},U,Instant,0,0,0
+NEO,uncommon,{4}{U},U,Creature,"Moonfolk, Artificer",3,4
+NEO,common,{4}{U},U,"Artifact, Creature","Moonfolk, Rogue",3,5
+NEO,common,{1}{U},U,Enchantment,Aura,0,0
+NEO,common,{3}{U},U,Creature,Fish,3,3
+NEO,common,{U},U,Instant,0,0,0
+NEO,common,{2}{U},U,Instant,0,0,0
+NEO,rare,{2}{U},"U, W",Creature,"Moonfolk, Wizard",2,3
+NEO,common,{3}{U},U,Enchantment,Aura,0,0
+NEO,mythic,{2}{U}{U},U,Planeswalker,Tezzeret,0,0
+NEO,uncommon,{2}{U},U,Instant,0,0,0
+NEO,rare,{U},U,Creature,"Human, Ninja",1,1
+NEO,rare,{U},U,Creature,"Human, Ninja",1,1
+NEO,uncommon,{2}{B}{B},B,Instant,0,0,0
+NEO,rare,{2}{B},B,Creature,"Human, Ninja",3,3
+NEO,mythic,{1}{B},B,"Artifact, Creature","Equipment, Demon",3,1
+NEO,common,{2}{B},B,"Artifact, Creature","Equipment, Insect",2,2
+NEO,common,{B},B,Enchantment,Aura,0,0
+NEO,common,{2}{B},B,Instant,0,0,0
+NEO,uncommon,{B},B,"Enchantment, Creature","Human, Citizen",1,2
+NEO,common,{4}{B}{B},B,Creature,"Ogre, Ninja",5,5
+NEO,uncommon,{1}{B},B,Creature,"Human, Ninja",2,1
+NEO,uncommon,{1}{B},B,Creature,"Human, Ninja",2,1
+NEO,uncommon,{2}{B},B,Artifact,Equipment,0,0
+NEO,uncommon,{3}{B},B,"Enchantment, Creature",Shrine,2,2
+NEO,uncommon,{2}{B},B,Creature,Spirit,2,2
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,common,{1}{B},B,Creature,"Human, Ninja",1,2
+NEO,rare,{1}{B}{B}{B}{B},B,Sorcery,0,0,0
+NEO,mythic,{3}{B}{B},B,Creature,"Dragon, Spirit",5,5
+NEO,common,{2}{B},B,Sorcery,0,0,0
+NEO,common,{4}{B},B,Creature,Spirit,3,3
+NEO,common,{3}{B},B,Creature,Spirit,3,4
+NEO,uncommon,{1}{B},B,"Artifact, Creature","Equipment, Leech",2,2
+NEO,common,{1}{B},B,Instant,0,0,0
+NEO,uncommon,{1}{B},B,Enchantment,Saga,0,0
+NEO,uncommon,0,B,"Enchantment, Creature","Human, Samurai",2,3
+NEO,uncommon,{3}{B},B,Enchantment,Saga,0,0
+NEO,uncommon,0,B,"Enchantment, Creature",Spirit,0,4
+NEO,uncommon,{1}{B}{B},B,Sorcery,0,0,0
+NEO,rare,{X}{B},B,Instant,0,0,0
+NEO,common,{3}{B},B,"Artifact, Creature","Rat, Ninja",3,2
+NEO,rare,{1}{B},B,Artifact,Vehicle,4,3
+NEO,mythic,{1}{B}{B},B,Creature,"Rat, Ninja",3,2
+NEO,mythic,{1}{B}{B},B,Creature,"Rat, Ninja",3,2
+NEO,common,{2}{B},B,Creature,"Rat, Samurai",3,2
+NEO,uncommon,{1}{B},B,"Artifact, Creature","Rat, Ninja",3,1
+NEO,uncommon,{1}{B},B,"Artifact, Creature","Rat, Ninja",3,1
+NEO,common,{B},B,Enchantment,Saga,0,0
+NEO,common,0,B,"Enchantment, Creature","Rat, Rogue",2,2
+NEO,uncommon,{4}{B},B,Sorcery,0,0,0
+NEO,common,{2}{B},B,Sorcery,0,0,0
+NEO,common,{1}{B},B,Instant,0,0,0
+NEO,common,{1}{B},B,Instant,0,0,0
+NEO,rare,{1}{B}{B},B,Sorcery,0,0,0
+NEO,rare,{2}{B},"B, G, U",Creature,"Human, Ninja",3,3
+NEO,rare,{1}{B},B,Enchantment,Saga,0,0
+NEO,rare,0,B,"Enchantment, Creature",Spirit,3,3
+NEO,common,{2}{B}{B},B,Enchantment,Aura,0,0
+NEO,common,{2}{B},B,"Artifact, Creature","Human, Rogue",1,4
+NEO,uncommon,{2}{B},B,Creature,Spirit,2,3
+NEO,common,{1}{B},B,"Artifact, Creature",Insect,1,1
+NEO,common,{B},B,Instant,0,0,0
+NEO,common,{1}{R},R,"Enchantment, Creature","Goblin, Warrior",2,1
+NEO,common,{1}{R},R,Creature,"Goblin, Samurai",1,3
+NEO,common,{R},R,Creature,"Goblin, Samurai",1,2
+NEO,common,{R},R,Enchantment,Aura,0,0
+NEO,common,{2}{R},R,Instant,0,0,0
+NEO,mythic,{2}{R}{R},R,Creature,"Dragon, Spirit",4,4
+NEO,uncommon,{2}{R},R,"Artifact, Creature","Equipment, Boar",3,2
+NEO,common,{1}{R},R,Enchantment,Aura,0,0
+NEO,uncommon,{1}{R},R,Artifact,0,0,0
+NEO,common,{R},R,Artifact,0,0,0
+NEO,common,{1}{R},R,Sorcery,0,0,0
+NEO,mythic,{8}{R}{R},R,Sorcery,0,0,0
+NEO,rare,{2}{R},R,Enchantment,Saga,0,0
+NEO,rare,0,R,"Enchantment, Creature","Goblin, Shaman",2,2
+NEO,uncommon,{X}{R},R,Instant,0,0,0
+NEO,common,{3}{R},R,Enchantment,Aura,0,0
+NEO,uncommon,{2}{R},R,"Enchantment, Creature",Shrine,2,2
+NEO,rare,{1}{R},R,Creature,"Goblin, Samurai",2,2
+NEO,uncommon,{3}{R},R,Creature,"Human, Samurai",3,3
+NEO,rare,{1}{R}{R}{R}{R},R,Instant,0,0,0
+NEO,common,{5}{R},R,"Artifact, Creature",Boar,5,4
+NEO,common,{4}{R},R,Creature,Spirit,3,6
+NEO,common,{1}{R},R,Instant,0,0,0
+NEO,common,{R},R,Instant,0,0,0
+NEO,uncommon,{R},R,Enchantment,Saga,0,0
+NEO,uncommon,0,R,"Enchantment, Creature","Human, Shaman",2,2
+NEO,uncommon,{R},R,Enchantment,Saga,0,0
+NEO,uncommon,0,R,"Enchantment, Creature","Human, Shaman",2,2
+NEO,rare,{1}{R},R,"Artifact, Creature","Equipment, Lizard",1,1
+NEO,rare,{X}{R},R,Instant,0,0,0
+NEO,rare,{1}{R},R,"Artifact, Creature","Equipment, Ogre",2,2
+NEO,common,{2}{R},R,Creature,"Human, Samurai",2,3
+NEO,common,{1}{R},R,Creature,"Human, Samurai",2,1
+NEO,uncommon,{R},R,"Artifact, Creature","Equipment, Rabbit",1,1
+NEO,uncommon,{R},R,"Artifact, Creature","Human, Samurai",2,2
+NEO,rare,{2}{R},R,Creature,"Goblin, Artificer",3,3
+NEO,common,{3}{R},R,"Artifact, Creature","Human, Warrior",3,4
+NEO,uncommon,{2}{R},R,Instant,0,0,0
+NEO,common,{4}{R},R,Enchantment,Saga,0,0
+NEO,common,0,R,"Enchantment, Creature","Human, Samurai",3,3
+NEO,common,{R},R,"Artifact, Creature","Equipment, Monkey",1,1
+NEO,uncommon,{1}{R},R,Creature,"Goblin, Artificer",2,2
+NEO,uncommon,{1}{R},R,Enchantment,0,0,0
+NEO,rare,{2}{R}{R},R,Creature,Spirit,3,3
+NEO,common,{1}{R},R,"Artifact, Creature","Human, Artificer",2,2
+NEO,uncommon,{3}{R},R,"Artifact, Creature","Goblin, Archer",2,3
+NEO,common,{2}{R},R,"Artifact, Creature","Ogre, Warrior",4,1
+NEO,uncommon,{1}{R},R,Creature,"Human, Samurai",1,3
+NEO,common,{R},R,Instant,0,0,0
+NEO,uncommon,{1}{G},G,Enchantment,Saga,0,0
+NEO,uncommon,0,G,"Enchantment, Creature","Human, Monk",3,3
+NEO,common,{1}{G},G,"Enchantment, Creature","Snake, Archer",3,3
+NEO,common,{2}{G},G,"Enchantment, Creature","Human, Monk",3,2
+NEO,uncommon,{3}{G}{G},G,Creature,Spirit,4,4
+NEO,uncommon,{1}{G},G,Instant,0,0,0
+NEO,uncommon,{3}{G},G,Enchantment,Saga,0,0
+NEO,uncommon,0,G,"Enchantment, Creature",Plant,0,0
+NEO,common,{2}{G},G,Enchantment,Aura,0,0
+NEO,common,{1}{G},G,Creature,"Snake, Ninja",2,1
+NEO,common,{G},G,Sorcery,0,0,0
+NEO,rare,{2}{G},G,Enchantment,Saga,0,0
+NEO,rare,0,G,"Enchantment, Creature",Egg,0,1
+NEO,common,{2}{G},G,Sorcery,0,0,0
+NEO,common,{G},G,"Enchantment, Creature","Snake, Ninja",1,1
+NEO,common,{3}{G},G,Enchantment,Aura,0,0
+NEO,uncommon,{G},G,Creature,Spirit,1,1
+NEO,common,{3}{G},G,Creature,Spirit,4,3
+NEO,uncommon,{1}{G},G,"Enchantment, Creature",Shrine,1,1
+NEO,common,{2}{G},G,Enchantment,Aura,0,0
+NEO,common,{4}{G}{G},G,"Enchantment, Creature",Dog,6,5
+NEO,common,{3}{G},G,Enchantment,Aura,0,0
+NEO,common,{2}{G},G,Creature,"Snake, Samurai",2,3
+NEO,uncommon,{2}{G},G,Enchantment,Aura,0,0
+NEO,rare,{1}{G}{G}{G}{G},G,Sorcery,0,0,0
+NEO,mythic,{2}{G},G,Enchantment,Saga,0,0
+NEO,mythic,0,G,"Enchantment, Creature","Dragon, Spirit",2,2
+NEO,common,{3}{G},G,"Enchantment, Creature","Human, Druid",3,3
+NEO,common,{1}{G},G,Creature,"Human, Samurai",2,2
+NEO,rare,{1}{G},G,Creature,Spirit,2,2
+NEO,uncommon,{1}{G},G,Creature,"Turtle, Ninja",1,3
+NEO,mythic,{2}{G},G,Creature,Spirit,3,3
+NEO,mythic,{3}{G}{G},G,Creature,"Dragon, Spirit",4,4
+NEO,rare,{X}{G},G,Instant,0,0,0
+NEO,common,{1}{G},G,Instant,0,0,0
+NEO,uncommon,{1}{G},G,Creature,"Snake, Druid",1,1
+NEO,uncommon,{1}{G},G,Enchantment,0,0,0
+NEO,common,{2}{G},G,Instant,0,0,0
+NEO,rare,{1}{G},G,"Enchantment, Creature","Snake, Druid",1,3
+NEO,uncommon,{X}{X}{G}{G},G,Sorcery,0,0,0
+NEO,rare,{3}{G}{G},G,Creature,"Insect, Ninja",6,5
+NEO,uncommon,{2}{G},G,Instant,0,0,0
+NEO,common,{4}{G},G,Enchantment,Saga,0,0
+NEO,common,0,G,"Enchantment, Creature","Snake, Warrior",5,5
+NEO,common,{G},G,Instant,0,0,0
+NEO,rare,{1}{G},G,Enchantment,Saga,0,0
+NEO,rare,0,G,"Enchantment, Creature","Snake, Monk",1,1
+NEO,rare,{1}{G},G,"Enchantment, Creature","Snake, Druid",2,2
+NEO,uncommon,{2}{G},G,"Artifact, Creature","Equipment, Spider",1,4
+NEO,uncommon,{3}{R}{W},"R, W",Creature,"Human, Samurai",4,3
+NEO,uncommon,{1}{R}{W},"R, W",Creature,"Human, Samurai",2,1
+NEO,uncommon,{4}{G}{G}{U},"G, U","Enchantment, Creature",Turtle,6,5
+NEO,rare,{X}{R}{W},"R, W",Sorcery,0,0,0
+NEO,uncommon,{U}{R},"R, U","Artifact, Creature","Goblin, Artificer",2,2
+NEO,uncommon,{1}{B}{G},"B, G","Enchantment, Creature","Cat, Beast",2,1
+NEO,rare,{1}{W}{B},"B, W",Creature,"Rat, Pilot",4,3
+NEO,mythic,{1}{B}{R},"B, R",Enchantment,Saga,0,0
+NEO,mythic,0,"B, R","Enchantment, Creature","Ogre, Shaman",3,3
+NEO,rare,{1}{U}{R}{W},"R, U, W",Creature,"Kirin, Spirit",4,4
+NEO,uncommon,{1}{R}{G},"G, R",Enchantment,0,0,0
+NEO,rare,{R}{W}{B},"B, R, W",Creature,"Human, Samurai",3,4
+NEO,uncommon,{G}{W},"G, W","Enchantment, Creature","Human, Monk",2,2
+NEO,mythic,{1}{U}{B},"B, U",Planeswalker,Kaito,0,0
+NEO,mythic,{1}{W}{U}{B}{R}{G},"B, G, R, U, W",Enchantment,Saga,0,0
+NEO,mythic,0,"B, G, R, U, W","Enchantment, Creature","Dragon, Spirit",6,6
+NEO,rare,{3}{U}{B},"B, U",Creature,"Human, Ninja",4,4
+NEO,uncommon,{3}{W}{B},"B, W",Creature,"Human, Advisor",4,4
+NEO,uncommon,{B}{R},"B, R",Artifact,0,0,0
+NEO,uncommon,{1}{W}{U},"U, W",Artifact,Vehicle,3,4
+NEO,rare,{2}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,rare,{2}{R}{W},"R, W",Creature,"Human, Samurai",4,4
+NEO,rare,{1}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,rare,{1}{U}{B},"B, U",Creature,"Human, Ninja",2,4
+NEO,rare,{1}{U}{B},"B, U",Creature,"Human, Ninja",3,4
+NEO,rare,{G}{W},"G, W",Creature,"Human, Druid",1,3
+NEO,uncommon,{U}{B},"B, U",Creature,"Rat, Ninja",2,2
+NEO,uncommon,{U}{B},"B, U",Creature,"Rat, Ninja",2,2
+NEO,mythic,{3}{W}{B},"B, W",Enchantment,0,0,0
+NEO,mythic,{2}{G}{G/U/P}{U},"G, U",Planeswalker,Tamiyo,0,0
+NEO,common,{2},0,"Artifact, Creature",Artificer,1,3
+NEO,uncommon,{1},0,Artifact,Equipment,0,0
+NEO,common,{3},0,Artifact,Vehicle,4,3
+NEO,uncommon,{3},0,"Artifact, Creature",Insect,2,3
+NEO,uncommon,{3},0,"Artifact, Creature",Insect,2,3
+NEO,uncommon,{2},0,"Artifact, Creature",Construct,2,1
+NEO,common,{4},0,"Artifact, Creature",Construct,2,4
+NEO,rare,{1},0,Artifact,Equipment,0,0
+NEO,common,{2},0,Artifact,0,0,0
+NEO,uncommon,{2},0,Artifact,Vehicle,2,2
+NEO,common,{1},0,"Artifact, Creature",Construct,0,0
+NEO,rare,{2},0,Artifact,Vehicle,2,4
+NEO,rare,{3},0,Artifact,0,0,0
+NEO,common,{3},0,Artifact,0,0,0
+NEO,common,{1},0,Artifact,Equipment,0,0
+NEO,common,{2},0,"Artifact, Creature",Frog,2,1
+NEO,uncommon,{2},0,"Artifact, Creature",Construct,1,1
+NEO,rare,{2},0,Artifact,Vehicle,4,4
+NEO,uncommon,{3},0,"Artifact, Creature",Construct,3,3
+NEO,uncommon,{3},0,"Artifact, Creature",Construct,0,4
+NEO,common,{3},0,"Artifact, Creature",Drone,1,1
+NEO,common,{5},0,"Artifact, Creature",Construct,3,2
+NEO,rare,{4},0,Artifact,Vehicle,5,5
+NEO,common,{7},0,Artifact,Vehicle,7,7
+NEO,uncommon,{4},0,"Artifact, Creature",Construct,2,1
+NEO,uncommon,{8},0,"Artifact, Creature",Construct,8,8
+NEO,common,0,"B, R",Land,0,0,0
+NEO,common,0,"G, W",Land,0,0,0
+NEO,rare,0,G,Land,0,0,0
+NEO,common,0,"B, U",Land,0,0,0
+NEO,rare,0,W,Land,0,0,0
+NEO,common,0,"B, G",Land,0,0,0
+NEO,uncommon,0,0,Land,0,0,0
+NEO,rare,0,U,Land,0,0,0
+NEO,uncommon,0,0,Land,0,0,0
+NEO,common,0,"G, R",Land,0,0,0
+NEO,common,0,"B, W",Land,0,0,0
+NEO,uncommon,0,0,Land,0,0,0
+NEO,rare,0,R,Land,0,0,0
+NEO,common,0,"R, U",Land,0,0,0
+NEO,rare,0,B,Land,0,0,0
+NEO,common,0,"G, U",Land,0,0,0
+NEO,common,0,"U, W",Land,0,0,0
+NEO,common,0,0,Land,0,0,0
+NEO,common,0,"R, W",Land,0,0,0
+NEO,common,0,W,Land,Plains,0,0
+NEO,common,0,W,Land,Plains,0,0
+NEO,common,0,U,Land,Island,0,0
+NEO,common,0,U,Land,Island,0,0
+NEO,common,0,B,Land,Swamp,0,0
+NEO,common,0,B,Land,Swamp,0,0
+NEO,common,0,R,Land,Mountain,0,0
+NEO,common,0,R,Land,Mountain,0,0
+NEO,common,0,G,Land,Forest,0,0
+NEO,common,0,G,Land,Forest,0,0
+NEO,common,0,W,Land,Plains,0,0
+NEO,common,0,W,Land,Plains,0,0
+NEO,common,0,U,Land,Island,0,0
+NEO,common,0,U,Land,Island,0,0
+NEO,common,0,B,Land,Swamp,0,0
+NEO,common,0,B,Land,Swamp,0,0
+NEO,common,0,R,Land,Mountain,0,0
+NEO,common,0,R,Land,Mountain,0,0
+NEO,common,0,G,Land,Forest,0,0
+NEO,common,0,G,Land,Forest,0,0
+NEO,mythic,{2}{W}{W},W,Planeswalker,0,0,0
+NEO,mythic,{2}{U}{U},U,Planeswalker,Tezzeret,0,0
+NEO,mythic,{1}{U}{B},"B, U",Planeswalker,Kaito,0,0
+NEO,mythic,{2}{G}{G/U/P}{U},"G, U",Planeswalker,Tamiyo,0,0
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5
+NEO,mythic,{2}{G}{G/U/P}{U},"G, U",Planeswalker,Tamiyo,0,0
+NEO,common,{1}{W},W,"Enchantment, Creature","Human, Samurai",2,1
+NEO,common,{2}{W},W,Creature,"Human, Samurai",3,2
+NEO,uncommon,{2}{W},W,Creature,"Human, Samurai",3,2
+NEO,uncommon,{1}{W},W,Creature,"Fox, Samurai",2,2
+NEO,common,{3}{W},W,Creature,"Fox, Samurai",2,3
+NEO,uncommon,{6}{W},W,"Enchantment, Creature","Human, Samurai",4,4
+NEO,common,{4}{W},W,"Enchantment, Creature","Human, Samurai",4,4
+NEO,mythic,{2}{W}{W},W,Planeswalker,0,0,0
+NEO,common,{2}{U},U,Creature,"Moonfolk, Samurai",3,4
+NEO,common,{2}{B},B,Creature,"Rat, Samurai",3,2
+NEO,common,{1}{R},R,Creature,"Goblin, Samurai",1,3
+NEO,rare,{1}{R},R,Creature,"Goblin, Samurai",2,2
+NEO,uncommon,{3}{R},R,Creature,"Human, Samurai",3,3
+NEO,common,{2}{R},R,Creature,"Human, Samurai",2,3
+NEO,uncommon,{R},R,"Artifact, Creature","Human, Samurai",2,2
+NEO,uncommon,{1}{R},R,Creature,"Human, Samurai",1,3
+NEO,common,{2}{G},G,Creature,"Snake, Samurai",2,3
+NEO,common,{1}{G},G,Creature,"Human, Samurai",2,2
+NEO,uncommon,{3}{R}{W},"R, W",Creature,"Human, Samurai",4,3
+NEO,rare,{R}{W}{B},"B, R, W",Creature,"Human, Samurai",3,4
+NEO,rare,{2}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,rare,{1}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,uncommon,{2}{W},W,Creature,"Fox, Ninja",2,2
+NEO,uncommon,{2}{U},U,"Artifact, Creature","Human, Ninja",2,4
+NEO,uncommon,{3}{U},U,Creature,"Human, Ninja",3,4
+NEO,common,{1}{U},U,"Enchantment, Creature","Human, Ninja",2,1
+NEO,common,{3}{U},U,Creature,"Human, Ninja",2,2
+NEO,uncommon,{2}{U},U,Creature,"Human, Ninja",3,2
+NEO,rare,{U},U,Creature,"Human, Ninja",1,1
+NEO,rare,{2}{B},B,Creature,"Human, Ninja",3,3
+NEO,common,{4}{B}{B},B,Creature,"Ogre, Ninja",5,5
+NEO,uncommon,{1}{B},B,Creature,"Human, Ninja",2,1
+NEO,common,{1}{B},B,Creature,"Human, Ninja",1,2
+NEO,common,{3}{B},B,"Artifact, Creature","Rat, Ninja",3,2
+NEO,mythic,{1}{B}{B},B,Creature,"Rat, Ninja",3,2
+NEO,uncommon,{1}{B},B,"Artifact, Creature","Rat, Ninja",3,1
+NEO,rare,{2}{B},"B, G, U",Creature,"Human, Ninja",3,3
+NEO,common,{1}{G},G,Creature,"Snake, Ninja",2,1
+NEO,common,{G},G,"Enchantment, Creature","Snake, Ninja",1,1
+NEO,uncommon,{1}{G},G,Creature,"Turtle, Ninja",1,3
+NEO,rare,{3}{G}{G},G,Creature,"Insect, Ninja",6,5
+NEO,mythic,{1}{U}{B},"B, U",Planeswalker,Kaito,0,0
+NEO,rare,{3}{U}{B},"B, U",Creature,"Human, Ninja",4,4
+NEO,rare,{1}{U}{B},"B, U",Creature,"Human, Ninja",2,4
+NEO,uncommon,{U}{B},"B, U",Creature,"Rat, Ninja",2,2
+NEO,rare,{2}{W},W,Enchantment,Saga,0,0
+NEO,rare,0,W,"Enchantment, Creature","Fox, Monk",3,4
+NEO,rare,{3}{U},U,Enchantment,Saga,0,0
+NEO,rare,0,U,"Enchantment, Creature",Moonfolk,3,3
+NEO,rare,{1}{B},B,Enchantment,Saga,0,0
+NEO,rare,0,B,"Enchantment, Creature",Spirit,3,3
+NEO,rare,{2}{R},R,Enchantment,Saga,0,0
+NEO,rare,0,R,"Enchantment, Creature","Goblin, Shaman",2,2
+NEO,rare,{2}{G},G,Enchantment,Saga,0,0
+NEO,rare,0,G,"Enchantment, Creature",Egg,0,1
+NEO,mythic,{2}{G},G,Enchantment,Saga,0,0
+NEO,mythic,0,G,"Enchantment, Creature","Dragon, Spirit",2,2
+NEO,rare,{1}{G},G,Enchantment,Saga,0,0
+NEO,rare,0,G,"Enchantment, Creature","Snake, Monk",1,1
+NEO,mythic,{1}{B}{R},"B, R",Enchantment,Saga,0,0
+NEO,mythic,0,"B, R","Enchantment, Creature","Ogre, Shaman",3,3
+NEO,mythic,{1}{W}{U}{B}{R}{G},"B, G, R, U, W",Enchantment,Saga,0,0
+NEO,mythic,0,"B, G, R, U, W","Enchantment, Creature","Dragon, Spirit",6,6
+NEO,rare,{3}{W}{W}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{2}{W},W,"Artifact, Creature","Equipment, Kirin",3,2
+NEO,rare,{4}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{1}{W}{W}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{1}{W},W,Creature,"Fox, Advisor",2,2
+NEO,rare,{1}{W},W,"Artifact, Creature","Equipment, Cat",1,1
+NEO,rare,{X}{W},W,Instant,0,0,0
+NEO,rare,{1}{U}{U}{U}{U},U,Sorcery,0,0,0
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5
+NEO,rare,{X}{U},U,Instant,0,0,0
+NEO,rare,{2}{U},U,Artifact,Vehicle,4,3
+NEO,rare,{1}{U},U,"Artifact, Creature","Equipment, Jellyfish",0,4
+NEO,rare,{2}{U},"U, W",Creature,"Moonfolk, Wizard",2,3
+NEO,mythic,{2}{U}{U},U,Planeswalker,Tezzeret,0,0
+NEO,mythic,{1}{B},B,"Artifact, Creature","Equipment, Demon",3,1
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,rare,{1}{B}{B}{B}{B},B,Sorcery,0,0,0
+NEO,rare,{X}{B},B,Instant,0,0,0
+NEO,rare,{1}{B},B,Artifact,Vehicle,4,3
+NEO,rare,{1}{B}{B},B,Sorcery,0,0,0
+NEO,mythic,{8}{R}{R},R,Sorcery,0,0,0
+NEO,rare,{1}{R}{R}{R}{R},R,Instant,0,0,0
+NEO,rare,{1}{R},R,"Artifact, Creature","Equipment, Lizard",1,1
+NEO,rare,{X}{R},R,Instant,0,0,0
+NEO,rare,{1}{R},R,"Artifact, Creature","Equipment, Ogre",2,2
+NEO,rare,{2}{R},R,Creature,"Goblin, Artificer",3,3
+NEO,rare,{2}{R}{R},R,Creature,Spirit,3,3
+NEO,rare,{1}{G}{G}{G}{G},G,Sorcery,0,0,0
+NEO,rare,{1}{G},G,Creature,Spirit,2,2
+NEO,mythic,{2}{G},G,Creature,Spirit,3,3
+NEO,rare,{X}{G},G,Instant,0,0,0
+NEO,rare,{1}{G},G,"Enchantment, Creature","Snake, Druid",1,3
+NEO,rare,{1}{G},G,"Enchantment, Creature","Snake, Druid",2,2
+NEO,rare,{X}{R}{W},"R, W",Sorcery,0,0,0
+NEO,rare,{1}{W}{B},"B, W",Creature,"Rat, Pilot",4,3
+NEO,rare,{1}{U}{R}{W},"R, U, W",Creature,"Kirin, Spirit",4,4
+NEO,rare,{G}{W},"G, W",Creature,"Human, Druid",1,3
+NEO,mythic,{3}{W}{B},"B, W",Enchantment,0,0,0
+NEO,rare,{1},0,Artifact,Equipment,0,0
+NEO,rare,{2},0,Artifact,Vehicle,2,4
+NEO,rare,{3},0,Artifact,0,0,0
+NEO,rare,{2},0,Artifact,Vehicle,4,4
+NEO,rare,{4},0,Artifact,Vehicle,5,5
+NEO,mythic,{3}{W}{W},W,Creature,"Dragon, Spirit",5,4
+NEO,rare,{3}{W},"B, G, R, U, W",Creature,"Dragon, Spirit",3,3
+NEO,mythic,{4}{U}{U},U,Creature,"Dragon, Spirit",6,6
+NEO,mythic,{3}{B}{B},B,Creature,"Dragon, Spirit",5,5
+NEO,mythic,{2}{R}{R},R,Creature,"Dragon, Spirit",4,4
+NEO,mythic,{3}{G}{G},G,Creature,"Dragon, Spirit",4,4
+NEO,rare,0,G,Land,0,0,0
+NEO,rare,0,W,Land,0,0,0
+NEO,rare,0,U,Land,0,0,0
+NEO,rare,0,R,Land,0,0,0
+NEO,rare,0,B,Land,0,0,0
+NEO,rare,{4}{W}{W},W,Sorcery,0,0,0
+NEO,mythic,{2}{W}{W},W,Planeswalker,0,0,0
+NEO,mythic,{2}{U}{U},U,Planeswalker,Tezzeret,0,0
+NEO,mythic,{1}{B},B,"Artifact, Creature","Equipment, Demon",3,1
+NEO,mythic,{1}{B}{B},B,Creature,"Rat, Ninja",3,2
+NEO,mythic,{8}{R}{R},R,Sorcery,0,0,0
+NEO,mythic,{2}{G},G,Creature,Spirit,3,3
+NEO,mythic,{1}{U}{B},"B, U",Planeswalker,Kaito,0,0
+NEO,rare,{1}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,rare,{1}{U}{B},"B, U",Creature,"Human, Ninja",2,4
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5
+NEO,mythic,{2}{G}{G/U/P}{U},"G, U",Planeswalker,Tamiyo,0,0
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,mythic,{3}{W}{W},W,Creature,"Dragon, Spirit",5,4
+NEO,rare,{3}{W}{W}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{2}{W},W,"Artifact, Creature","Equipment, Kirin",3,2
+NEO,rare,{4}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{1}{W}{W}{W}{W},W,Sorcery,0,0,0
+NEO,rare,{3}{W},"B, G, R, U, W",Creature,"Dragon, Spirit",3,3
+NEO,rare,{1}{W},W,Creature,"Fox, Advisor",2,2
+NEO,rare,{1}{W},W,"Artifact, Creature","Equipment, Cat",1,1
+NEO,rare,{X}{W},W,Instant,0,0,0
+NEO,rare,{2}{W},W,Enchantment,Saga,0,0
+NEO,rare,0,W,"Enchantment, Creature","Fox, Monk",3,4
+NEO,rare,{3}{U},U,Enchantment,Saga,0,0
+NEO,rare,0,U,"Enchantment, Creature",Moonfolk,3,3
+NEO,rare,{1}{U}{U}{U}{U},U,Sorcery,0,0,0
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5
+NEO,mythic,{4}{U}{U},U,Creature,"Dragon, Spirit",6,6
+NEO,rare,{X}{U},U,Instant,0,0,0
+NEO,rare,{2}{U},U,Artifact,Vehicle,4,3
+NEO,rare,{1}{U},U,"Artifact, Creature","Equipment, Jellyfish",0,4
+NEO,rare,{2}{U},"U, W",Creature,"Moonfolk, Wizard",2,3
+NEO,rare,{U},U,Creature,"Human, Ninja",1,1
+NEO,rare,{2}{B},B,Creature,"Human, Ninja",3,3
+NEO,mythic,{1}{B},B,"Artifact, Creature","Equipment, Demon",3,1
+NEO,rare,{3}{B},"B, R",Creature,"Ogre, Demon",4,4
+NEO,rare,{1}{B}{B}{B}{B},B,Sorcery,0,0,0
+NEO,mythic,{3}{B}{B},B,Creature,"Dragon, Spirit",5,5
+NEO,rare,{X}{B},B,Instant,0,0,0
+NEO,rare,{1}{B},B,Artifact,Vehicle,4,3
+NEO,mythic,{1}{B}{B},B,Creature,"Rat, Ninja",3,2
+NEO,rare,{1}{B}{B},B,Sorcery,0,0,0
+NEO,rare,{2}{B},"B, G, U",Creature,"Human, Ninja",3,3
+NEO,rare,{1}{B},B,Enchantment,Saga,0,0
+NEO,rare,0,B,"Enchantment, Creature",Spirit,3,3
+NEO,mythic,{2}{R}{R},R,Creature,"Dragon, Spirit",4,4
+NEO,mythic,{8}{R}{R},R,Sorcery,0,0,0
+NEO,rare,{2}{R},R,Enchantment,Saga,0,0
+NEO,rare,0,R,"Enchantment, Creature","Goblin, Shaman",2,2
+NEO,rare,{1}{R},R,Creature,"Goblin, Samurai",2,2
+NEO,rare,{1}{R}{R}{R}{R},R,Instant,0,0,0
+NEO,rare,{1}{R},R,"Artifact, Creature","Equipment, Lizard",1,1
+NEO,rare,{X}{R},R,Instant,0,0,0
+NEO,rare,{1}{R},R,"Artifact, Creature","Equipment, Ogre",2,2
+NEO,rare,{2}{R},R,Creature,"Goblin, Artificer",3,3
+NEO,rare,{2}{R}{R},R,Creature,Spirit,3,3
+NEO,rare,{2}{G},G,Enchantment,Saga,0,0
+NEO,rare,0,G,"Enchantment, Creature",Egg,0,1
+NEO,rare,{1}{G}{G}{G}{G},G,Sorcery,0,0,0
+NEO,mythic,{2}{G},G,Enchantment,Saga,0,0
+NEO,mythic,0,G,"Enchantment, Creature","Dragon, Spirit",2,2
+NEO,rare,{1}{G},G,Creature,Spirit,2,2
+NEO,mythic,{2}{G},G,Creature,Spirit,3,3
+NEO,mythic,{3}{G}{G},G,Creature,"Dragon, Spirit",4,4
+NEO,rare,{X}{G},G,Instant,0,0,0
+NEO,rare,{1}{G},G,"Enchantment, Creature","Snake, Druid",1,3
+NEO,rare,{3}{G}{G},G,Creature,"Insect, Ninja",6,5
+NEO,rare,{1}{G},G,Enchantment,Saga,0,0
+NEO,rare,0,G,"Enchantment, Creature","Snake, Monk",1,1
+NEO,rare,{1}{G},G,"Enchantment, Creature","Snake, Druid",2,2
+NEO,rare,{X}{R}{W},"R, W",Sorcery,0,0,0
+NEO,rare,{1}{W}{B},"B, W",Creature,"Rat, Pilot",4,3
+NEO,mythic,{1}{B}{R},"B, R",Enchantment,Saga,0,0
+NEO,mythic,0,"B, R","Enchantment, Creature","Ogre, Shaman",3,3
+NEO,rare,{1}{U}{R}{W},"R, U, W",Creature,"Kirin, Spirit",4,4
+NEO,rare,{R}{W}{B},"B, R, W",Creature,"Human, Samurai",3,4
+NEO,mythic,{1}{W}{U}{B}{R}{G},"B, G, R, U, W",Enchantment,Saga,0,0
+NEO,mythic,0,"B, G, R, U, W","Enchantment, Creature","Dragon, Spirit",6,6
+NEO,rare,{3}{U}{B},"B, U",Creature,"Human, Ninja",4,4
+NEO,rare,{2}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,rare,{1}{R}{W},"R, W",Creature,"Human, Samurai",3,3
+NEO,rare,{1}{U}{B},"B, U",Creature,"Human, Ninja",2,4
+NEO,rare,{G}{W},"G, W",Creature,"Human, Druid",1,3
+NEO,mythic,{3}{W}{B},"B, W",Enchantment,0,0,0
+NEO,rare,{1},0,Artifact,Equipment,0,0
+NEO,rare,{2},0,Artifact,Vehicle,2,4
+NEO,rare,{3},0,Artifact,0,0,0
+NEO,rare,{2},0,Artifact,Vehicle,4,4
+NEO,rare,{4},0,Artifact,Vehicle,5,5
+NEO,rare,0,G,Land,0,0,0
+NEO,rare,0,W,Land,0,0,0
+NEO,rare,0,U,Land,0,0,0
+NEO,rare,0,R,Land,0,0,0
+NEO,rare,0,B,Land,0,0,0
+NEO,rare,{1}{B}{B}{B}{B},B,Sorcery,0,0,0
+NEO,rare,{1}{U}{B},"B, U",Creature,"Human, Ninja",2,4
+NEO,common,{1}{W},W,"Enchantment, Creature",Dog,1,1
+NEO,uncommon,{U}{R},"R, U","Artifact, Creature","Goblin, Artificer",2,2
+NEO,uncommon,{G}{W},"G, W","Enchantment, Creature","Human, Monk",2,2
+NEO,uncommon,{U}{B},"B, U",Creature,"Rat, Ninja",2,2
+NEO,uncommon,0,0,Land,0,0,0
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5
+NEO,mythic,{5}{U}{U},U,Creature,"Phyrexian, Praetor",5,5

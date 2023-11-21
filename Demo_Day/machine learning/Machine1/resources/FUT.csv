@@ -1,0 +1,181 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+FUT,rare,{6}{W}{W},W,Creature,Angel,5,5
+FUT,common,{1}{W},W,Creature,"Human, Cleric",1,3
+FUT,rare,{4}{W}{W},W,Enchantment,0,0,0
+FUT,uncommon,{4}{W}{W},W,Sorcery,0,0,0
+FUT,uncommon,{2}{W},W,Instant,0,0,0
+FUT,uncommon,{2}{W},W,Instant,0,0,0
+FUT,common,{W},W,Enchantment,Aura,0,0
+FUT,rare,{0},W,Instant,0,0,0
+FUT,common,{1}{W},W,Instant,0,0,0
+FUT,common,{3}{W},W,Creature,"Human, Knight",2,2
+FUT,uncommon,{2}{W}{W},W,Creature,"Human, Wizard",3,3
+FUT,rare,{2}{W}{W},W,Creature,"Human, Wizard",0,3
+FUT,common,{1}{W}{W},W,Sorcery,0,0,0
+FUT,common,{3}{W},W,Creature,Wurm,3,4
+FUT,common,{W},W,Creature,"Human, Rebel, Cleric",1,1
+FUT,rare,{W},W,Instant,0,0,0
+FUT,uncommon,{2}{W},W,Creature,Spirit,2,1
+FUT,uncommon,{2}{W},W,Creature,"Bird, Wizard",2,1
+FUT,common,{1}{W},W,Creature,"Cat, Rebel",3,1
+FUT,uncommon,{2}{W},W,"Tribal, Enchantment","Rebel, Aura",0,0
+FUT,rare,{W}{W},W,Enchantment,Aura,0,0
+FUT,uncommon,{3}{W},W,Creature,"Kithkin, Spellshaper",2,2
+FUT,rare,{4}{W},W,Enchantment,0,0,0
+FUT,common,{3}{W}{W},W,"Enchantment, Creature",Elemental,3,3
+FUT,common,{1}{W},W,Enchantment,0,0,0
+FUT,common,{4}{W},W,Creature,Sliver,3,3
+FUT,uncommon,{1}{W},W,Creature,"Kithkin, Rogue",1,1
+FUT,rare,{1}{W}{W},W,Creature,"Human, Cleric",1,3
+FUT,common,{3}{W},W,Instant,0,0,0
+FUT,uncommon,{3}{W},W,Creature,"Human, Rebel, Cleric",2,2
+FUT,rare,{2}{W}{W},W,Creature,Cat,3,3
+FUT,common,{3}{U},U,Creature,"Bird, Wizard",2,2
+FUT,uncommon,{1}{U},U,Creature,"Faerie, Spellshaper",1,1
+FUT,uncommon,{3}{U},U,Creature,"Worm, Beast",1,4
+FUT,uncommon,{1}{U},U,Instant,0,0,0
+FUT,common,{3}{U},U,Sorcery,0,0,0
+FUT,common,{4}{U},U,Creature,"Kor, Rogue",3,1
+FUT,common,{2}{U},U,Enchantment,Aura,0,0
+FUT,rare,{7}{U},U,Creature,Djinn,5,6
+FUT,rare,{2}{U}{U}{U},U,Creature,"Human, Wizard",2,3
+FUT,uncommon,{U},U,Sorcery,0,0,0
+FUT,rare,{0},U,Instant,0,0,0
+FUT,uncommon,{4}{U}{U},U,Sorcery,0,0,0
+FUT,rare,{5}{U}{U},U,Enchantment,Aura,0,0
+FUT,common,{3}{U},U,Creature,Illusion,1,3
+FUT,rare,{2}{U}{U},U,Creature,"Human, Wizard",2,2
+FUT,common,{2}{U},U,Instant,0,0,0
+FUT,uncommon,{1}{U},U,Enchantment,Aura,0,0
+FUT,common,{2}{U},U,Creature,Illusion,2,3
+FUT,uncommon,{2}{U},U,Creature,Homunculus,0,2
+FUT,rare,{3}{U},U,Creature,"Human, Wizard",3,3
+FUT,common,{X}{U}{U},U,Instant,0,0,0
+FUT,common,{3}{U},U,Creature,Sliver,2,2
+FUT,uncommon,{1}{U},U,Creature,Illusion,1,1
+FUT,rare,{U},U,Instant,0,0,0
+FUT,common,{2}{U},U,"Artifact, Creature","Phyrexian, Myr",2,1
+FUT,uncommon,{2}{U},U,Enchantment,Aura,0,0
+FUT,rare,{2}{U}{U},U,Enchantment,0,0,0
+FUT,rare,{3}{U}{U},U,Enchantment,Aura,0,0
+FUT,uncommon,{4}{U},U,Instant,0,0,0
+FUT,common,{1}{U},U,Creature,"Vedalken, Wizard",1,2
+FUT,common,{3}{U}{U},"U, W",Creature,Drake,3,3
+FUT,common,{1}{B},B,Creature,"Skeleton, Wizard",1,1
+FUT,common,{3}{B},B,Creature,"Human, Rogue",4,1
+FUT,uncommon,{3}{B}{B},B,Sorcery,0,0,0
+FUT,rare,{4}{B}{B},B,Enchantment,0,0,0
+FUT,common,{1}{B},B,Enchantment,0,0,0
+FUT,common,{2}{B},B,Sorcery,0,0,0
+FUT,common,{1}{B},B,Sorcery,0,0,0
+FUT,rare,{3}{B},B,Creature,"Human, Wizard",4,3
+FUT,uncommon,{2}{B}{B},B,Sorcery,0,0,0
+FUT,rare,{4}{B}{B},B,Creature,Horror,4,4
+FUT,common,{1}{B},B,Enchantment,Aura,0,0
+FUT,uncommon,{1}{B},B,Enchantment,Aura,0,0
+FUT,common,{2}{B},B,Creature,"Zombie, Cyclops",3,3
+FUT,rare,{2}{B}{B},B,Creature,Specter,2,2
+FUT,uncommon,{1}{B},B,Creature,"Zombie, Spellshaper",1,1
+FUT,rare,{0},B,Instant,0,0,0
+FUT,uncommon,{2}{B},B,Creature,Rat,2,1
+FUT,rare,{2}{B},B,Sorcery,0,0,0
+FUT,rare,{B}{B}{B},B,Enchantment,0,0,0
+FUT,common,{5}{B},B,Instant,0,0,0
+FUT,common,{2}{B},B,Creature,"Imp, Rebel",2,2
+FUT,uncommon,{2}{B}{B},B,Creature,Horror,3,3
+FUT,common,{1}{B},B,Creature,Sliver,1,1
+FUT,common,{3}{B},B,Creature,Zombie,2,2
+FUT,rare,{2}{B}{B},B,Creature,"Zombie, Warrior",*,*
+FUT,common,{3}{B}{B},B,Creature,"Zombie, Warrior",5,3
+FUT,uncommon,{3}{B},B,Enchantment,Aura,0,0
+FUT,uncommon,{3}{B}{B},B,Creature,Wraith,3,4
+FUT,rare,{6}{B}{B},B,Creature,Demon,5,5
+FUT,uncommon,{2}{B},B,Enchantment,0,0,0
+FUT,uncommon,{1}{B},B,Creature,"Zombie, Wizard",2,1
+FUT,uncommon,{3}{R}{R},R,Sorcery,0,0,0
+FUT,common,{1}{R},R,Creature,"Human, Knight",1,1
+FUT,uncommon,{2}{R}{R},R,Creature,Elemental,-1,3
+FUT,common,{1}{R},R,Creature,"Goblin, Shaman",2,1
+FUT,common,{2}{R},R,Enchantment,Aura,0,0
+FUT,common,{3}{R}{R},R,Creature,"Human, Warrior",3,3
+FUT,uncommon,{1}{R},R,Sorcery,0,0,0
+FUT,rare,{2}{R},R,Creature,"Human, Wizard",2,2
+FUT,rare,{X}{R}{R},R,Sorcery,0,0,0
+FUT,rare,{0},R,Instant,0,0,0
+FUT,rare,{2}{R},R,Enchantment,0,0,0
+FUT,common,{3}{R}{R},R,Instant,0,0,0
+FUT,common,{R},R,Creature,Elemental,1,1
+FUT,rare,{6}{R}{R},R,Creature,Dragon,6,6
+FUT,uncommon,{2}{R}{R},R,Creature,"Viashino, Shaman",3,2
+FUT,uncommon,{2}{R},R,Creature,"Elemental, Spellshaper",1,3
+FUT,uncommon,{3}{R},R,Creature,"Goblin, Warrior",2,3
+FUT,uncommon,{5}{R}{R},R,Creature,"Giant, Warrior",5,5
+FUT,uncommon,{1}{R},R,Enchantment,Aura,0,0
+FUT,common,{1}{R},R,Enchantment,Aura,0,0
+FUT,common,{4}{R},R,Creature,"Nomad, Giant",4,4
+FUT,common,{2}{R},R,Instant,0,0,0
+FUT,common,{2}{R},R,Creature,Elemental,2,2
+FUT,common,{3}{R},"B, R",Creature,Ogre,3,2
+FUT,common,{2}{R},R,Creature,Sliver,2,2
+FUT,rare,{3}{R},R,Creature,Efreet,6,6
+FUT,uncommon,{4}{R}{R},R,Creature,Elemental,6,4
+FUT,rare,{3}{R},R,Creature,"Goblin, Rigger",3,3
+FUT,uncommon,{1}{R},R,Creature,Elemental,1,1
+FUT,rare,{2}{R}{R}{R},R,Creature,Dragon,4,3
+FUT,rare,{1}{R}{R},R,Sorcery,0,0,0
+FUT,uncommon,{3}{G}{G},G,Sorcery,0,0,0
+FUT,rare,{2}{G},G,Creature,Elemental,8,0
+FUT,rare,{1}{G}{G},G,Creature,Treefolk,2,3
+FUT,common,{3}{G},G,Creature,Kavu,3,3
+FUT,common,{G},G,Creature,"Elf, Shaman",0,3
+FUT,common,{3}{G},G,Creature,"Elf, Shaman",2,2
+FUT,uncommon,{G},G,Creature,"Elf, Spellshaper",1,1
+FUT,rare,{G},G,Creature,"Human, Wizard",1,1
+FUT,common,{2}{G},G,Enchantment,Aura,0,0
+FUT,common,{1}{G},G,Enchantment,Aura,0,0
+FUT,uncommon,{1}{G}{G},G,Creature,Wurm,6,6
+FUT,uncommon,{1}{G},G,Creature,"Elf, Shaman",2,2
+FUT,rare,{2}{G},G,Enchantment,0,0,0
+FUT,common,{1}{G},G,Instant,0,0,0
+FUT,rare,{0},G,Instant,0,0,0
+FUT,uncommon,{G},G,Creature,Fungus,0,2
+FUT,common,{1}{G},G,Instant,0,0,0
+FUT,rare,{3}{G}{G},G,Creature,"Human, Druid",4,4
+FUT,uncommon,{3}{G},G,Creature,"Centaur, Shaman",3,3
+FUT,common,{1}{G},G,Sorcery,0,0,0
+FUT,uncommon,{2}{G}{G},G,Creature,Dinosaur,5,5
+FUT,rare,{3}{G},G,Enchantment,0,0,0
+FUT,uncommon,{3}{G}{G}{G},G,Creature,"Cat, Warrior",3,3
+FUT,common,{2}{G},G,Creature,"Centaur, Warrior",3,3
+FUT,uncommon,{2}{G}{G}{G},G,Sorcery,0,0,0
+FUT,rare,{5}{G},G,Creature,Beast,4,5
+FUT,uncommon,{1}{G},G,Creature,Ouphe,1,3
+FUT,common,{3}{G}{G},G,Creature,Fungus,4,4
+FUT,rare,{1}{G},G,Creature,Lhurgoyf,*,1+*
+FUT,common,{1}{G},G,Creature,"Elf, Archer",2,1
+FUT,common,{G},G,Creature,Sliver,1,1
+FUT,rare,{G}{W},"G, W",Sorcery,0,0,0
+FUT,rare,{1}{U}{R},"R, U",Creature,"Human, Wizard",2,2
+FUT,rare,{W}{U}{B}{R}{G},"B, G, R, U, W",Creature,Sliver,7,7
+FUT,rare,{7},0,Artifact,0,0,0
+FUT,rare,{3},0,Artifact,0,0,0
+FUT,rare,{3},0,Artifact,0,0,0
+FUT,rare,{2},0,"Artifact, Creature",Construct,1,1
+FUT,uncommon,{2},0,"Artifact, Creature",Spellshaper,1,1
+FUT,uncommon,{2},0,"Artifact, Creature",Golem,3,3
+FUT,uncommon,{2},0,Artifact,Equipment,0,0
+FUT,rare,{3},0,Artifact,0,0,0
+FUT,rare,{2},0,Artifact,Fortification,0,0
+FUT,rare,{4},0,Artifact,0,0,0
+FUT,uncommon,0,B,Land,0,0,0
+FUT,uncommon,0,R,Land,0,0,0
+FUT,uncommon,0,G,Land,0,0,0
+FUT,uncommon,0,W,Land,0,0,0
+FUT,uncommon,0,U,Land,0,0,0
+FUT,uncommon,0,G,"Land, Creature","Forest, Dryad",1,1
+FUT,rare,0,"B, R",Land,0,0,0
+FUT,rare,0,"G, R",Land,0,0,0
+FUT,rare,0,"G, W",Land,0,0,0
+FUT,rare,0,"U, W",Land,0,0,0
+FUT,rare,0,"B, U",Land,0,0,0
+FUT,uncommon,0,0,Land,0,0,0

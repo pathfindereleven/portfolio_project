@@ -1,0 +1,336 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+SOI,rare,{1}{W}{W},W,Enchantment,0,0,0
+SOI,rare,{6}{W}{W},W,Creature,Angel,6,6
+SOI,common,{2}{W},W,Sorcery,0,0,0
+SOI,common,{3}{W},W,Creature,Spirit,2,3
+SOI,mythic,{3}{W}{W},"R, W",Creature,Angel,4,4
+SOI,mythic,0,"R, W",Creature,Angel,6,5
+SOI,uncommon,{3}{W},W,Creature,"Human, Cleric",3,3
+SOI,uncommon,0,W,Creature,"Human, Cleric",4,4
+SOI,uncommon,{2}{W},W,Enchantment,Aura,0,0
+SOI,rare,{2}{W},W,Creature,"Spirit, Cleric",2,3
+SOI,common,{2}{W},W,Creature,Dog,3,1
+SOI,common,{W},W,Sorcery,0,0,0
+SOI,common,{2}{W},W,Creature,"Human, Soldier",3,2
+SOI,rare,{1}{W},W,Sorcery,0,0,0
+SOI,mythic,{4}{W}{W},W,Sorcery,0,0,0
+SOI,common,{1}{W},W,Creature,Fox,3,1
+SOI,rare,{5}{W}{W},W,Creature,"Spirit, Knight",4,4
+SOI,rare,{2}{W},W,Instant,0,0,0
+SOI,common,{4}{W},W,Creature,Spirit,2,4
+SOI,common,{2}{W},W,Sorcery,0,0,0
+SOI,common,{1}{W},W,Instant,0,0,0
+SOI,uncommon,{W},W,Enchantment,Aura,0,0
+SOI,rare,{1}{W},W,Creature,"Human, Soldier",2,2
+SOI,rare,0,W,Creature,"Human, Cleric",*,*
+SOI,uncommon,{2}{W},W,Enchantment,Aura,0,0
+SOI,uncommon,{4}{W},W,Instant,0,0,0
+SOI,common,{3}{W},W,Creature,Ox,2,5
+SOI,common,{3}{W},W,Creature,"Human, Knight",3,3
+SOI,common,{2}{W},W,Creature,"Human, Cleric",2,3
+SOI,common,{1}{W},W,Creature,Spirit,2,2
+SOI,uncommon,{1}{W},"R, W",Enchantment,0,0,0
+SOI,uncommon,{3}{W},W,Creature,"Human, Cleric",3,1
+SOI,uncommon,{1}{W},W,Sorcery,0,0,0
+SOI,rare,{3}{W},W,Creature,"Human, Soldier",3,3
+SOI,uncommon,{1}{W},W,Sorcery,0,0,0
+SOI,uncommon,{2}{W},W,Creature,"Human, Soldier",3,2
+SOI,uncommon,{2}{W},"B, W",Creature,"Human, Cleric",2,2
+SOI,uncommon,0,"B, W",Creature,"Human, Cleric",2,4
+SOI,common,{1}{W},W,Instant,0,0,0
+SOI,uncommon,{3}{W}{W},W,Creature,Angel,3,3
+SOI,uncommon,{3}{W},W,Instant,0,0,0
+SOI,uncommon,{2}{W},"U, W",Creature,Spirit,2,2
+SOI,common,{W},W,Creature,"Human, Soldier",1,1
+SOI,common,{W},W,Instant,0,0,0
+SOI,common,{2}{W},W,Instant,0,0,0
+SOI,uncommon,{3}{W},W,Instant,0,0,0
+SOI,rare,{1}{W},W,Creature,"Human, Soldier",1,1
+SOI,common,{W},W,Creature,"Human, Soldier",1,2
+SOI,uncommon,{W},W,Creature,Spirit,1,1
+SOI,uncommon,{W},"R, W",Creature,Human,1,1
+SOI,uncommon,0,"R, W",Creature,Human,2,3
+SOI,common,{1}{W},W,Creature,Human,1,1
+SOI,common,{1}{W},W,Enchantment,0,0,0
+SOI,uncommon,{3}{U},U,Creature,"Human, Insect",3,2
+SOI,uncommon,0,U,Creature,"Insect, Horror",5,4
+SOI,uncommon,{1}{U}{U},U,Instant,0,0,0
+SOI,common,{2}{U},U,Instant,0,0,0
+SOI,uncommon,{1}{U},U,Instant,0,0,0
+SOI,rare,{3}{U}{U},U,Instant,0,0,0
+SOI,uncommon,{1}{U},U,Creature,"Human, Rogue",2,1
+SOI,uncommon,0,U,Creature,"Human, Wizard",3,2
+SOI,common,{2}{U},U,Instant,0,0,0
+SOI,common,{3}{U},U,Creature,"Human, Wizard",2,4
+SOI,uncommon,{3}{U},"B, U",Creature,Zombie,1,1
+SOI,rare,{3}{U},U,Instant,0,0,0
+SOI,rare,{X}{U},U,Instant,0,0,0
+SOI,uncommon,{1}{U},U,Creature,Spirit,1,3
+SOI,uncommon,{U},U,Instant,0,0,0
+SOI,uncommon,{2}{U},U,Enchantment,0,0,0
+SOI,rare,{3}{U},U,Creature,"Zombie, Horror",3,3
+SOI,common,{1}{U},U,Creature,Homunculus,2,1
+SOI,mythic,{3}{U}{U},U,Creature,"Zombie, Horror",7,7
+SOI,common,{1}{U},U,Enchantment,Aura,0,0
+SOI,common,{4}{U},U,Sorcery,0,0,0
+SOI,uncommon,{U},U,Instant,0,0,0
+SOI,mythic,{3}{U}{U},U,Planeswalker,Jace,0,0
+SOI,common,{1}{U},U,Instant,0,0,0
+SOI,common,{1}{U},U,Instant,0,0,0
+SOI,common,{4}{U},U,Creature,"Zombie, Horror",3,5
+SOI,uncommon,{1}{U},U,Creature,"Human, Wizard",0,3
+SOI,common,{1}{U},U,Sorcery,0,0,0
+SOI,rare,{5}{U}{U},U,Creature,Drake,5,5
+SOI,common,{2}{U},U,Creature,Spirit,2,1
+SOI,uncommon,{1}{U},"G, U",Enchantment,0,0,0
+SOI,common,{2}{U},U,Sorcery,0,0,0
+SOI,uncommon,{3}{U}{U},U,Sorcery,0,0,0
+SOI,common,{1}{U},U,Sorcery,0,0,0
+SOI,rare,{1}{U},U,Creature,Spirit,2,1
+SOI,uncommon,{2}{U},U,Creature,"Human, Wizard",2,1
+SOI,uncommon,{5}{U},U,Sorcery,0,0,0
+SOI,common,{1}{U},U,Creature,Zombie,1,3
+SOI,common,{5}{U},U,Creature,Turtle,6,6
+SOI,common,{3}{U},U,Creature,Spirit,1,5
+SOI,common,{3}{U},U,Enchantment,Aura,0,0
+SOI,mythic,{2}{U}{U},U,Sorcery,0,0,0
+SOI,mythic,0,U,Creature,Nightmare,1,1
+SOI,common,{2}{U},U,Creature,"Zombie, Horror",2,3
+SOI,uncommon,{3}{U},U,Creature,"Zombie, Horror",3,1
+SOI,common,{4}{U},U,Creature,Spirit,3,3
+SOI,rare,{1}{U},U,Creature,Horror,0,4
+SOI,rare,0,U,Creature,"Kraken, Horror",7,8
+SOI,uncommon,{2}{U},U,Enchantment,0,0,0
+SOI,uncommon,{2}{U},U,Creature,Spirit,2,2
+SOI,uncommon,0,U,Creature,Spirit,3,3
+SOI,common,{1}{U},U,Enchantment,0,0,0
+SOI,rare,{2}{U}{U},U,Sorcery,0,0,0
+SOI,uncommon,{3}{B},B,Creature,"Human, Shaman",4,2
+SOI,uncommon,0,B,Enchantment,"Aura, Curse",0,0
+SOI,common,{2}{B},B,Sorcery,0,0,0
+SOI,rare,{1}{B},B,Creature,"Vampire, Wizard",3,1
+SOI,uncommon,{2}{B},"B, W",Enchantment,0,0,0
+SOI,mythic,{5}{B}{B},B,Sorcery,0,0,0
+SOI,uncommon,{2}{B}{B},B,Sorcery,0,0,0
+SOI,uncommon,{1}{B},B,Enchantment,0,0,0
+SOI,uncommon,{3}{B},B,Enchantment,0,0,0
+SOI,common,{2}{B},B,Creature,"Zombie, Bird",2,1
+SOI,common,{B},B,Enchantment,Aura,0,0
+SOI,rare,{2}{B},B,Creature,"Zombie, Giant",2,2
+SOI,rare,{2}{B}{B},"B, U",Creature,"Vampire, Wizard",4,4
+SOI,rare,0,"B, U",Creature,Elemental,0,1
+SOI,rare,{4}{B}{B},B,Sorcery,0,0,0
+SOI,common,{2}{B},B,Creature,Spirit,1,3
+SOI,rare,{3}{B}{B},B,Sorcery,0,0,0
+SOI,common,{1}{B},B,Creature,"Human, Rogue",2,2
+SOI,uncommon,{4}{B},B,Creature,"Zombie, Horse",4,4
+SOI,uncommon,{2}{B}{B},B,Sorcery,0,0,0
+SOI,common,{1}{B},B,Instant,0,0,0
+SOI,uncommon,{1}{B},B,Creature,Vampire,2,1
+SOI,uncommon,0,B,Creature,"Vampire, Berserker",3,2
+SOI,common,{4}{B},B,Creature,"Zombie, Dog",5,3
+SOI,uncommon,{B},B,Creature,"Vampire, Noble",1,1
+SOI,uncommon,{2}{B},B,Creature,Human,2,3
+SOI,uncommon,0,B,Creature,"Human, Shaman",4,3
+SOI,uncommon,{X}{B},B,Sorcery,0,0,0
+SOI,common,{1}{B},B,Sorcery,0,0,0
+SOI,rare,{3}{B}{B},B,Creature,"Vampire, Knight",3,3
+SOI,common,{2}{B},B,Instant,0,0,0
+SOI,mythic,{2}{B}{B},B,Creature,Demon,4,5
+SOI,uncommon,{5}{B},B,Creature,"Slug, Horror",7,7
+SOI,common,{1}{B},B,Sorcery,0,0,0
+SOI,uncommon,{1}{B},"B, R",Creature,"Vampire, Soldier",2,1
+SOI,uncommon,{1}{B},B,Creature,Spirit,3,3
+SOI,uncommon,{2}{B},B,Sorcery,0,0,0
+SOI,common,{1}{B},B,Creature,"Zombie, Rat",1,1
+SOI,mythic,{B}{B},B,Creature,Zombie,2,2
+SOI,common,{3}{B},B,Creature,Zombie,2,4
+SOI,common,{B},B,Creature,Skeleton,1,2
+SOI,common,{B},B,Sorcery,0,0,0
+SOI,uncommon,{B},B,Enchantment,0,0,0
+SOI,common,{3}{B},B,Creature,"Nightmare, Horse",3,3
+SOI,common,{3}{B},B,Creature,"Vampire, Soldier",4,2
+SOI,common,{4}{B},B,Instant,0,0,0
+SOI,rare,{2}{B},B,Instant,0,0,0
+SOI,uncommon,{2}{B},B,Creature,"Human, Rogue",3,2
+SOI,rare,{3}{B},B,Enchantment,0,0,0
+SOI,common,{4}{B},B,Creature,Vampire,3,5
+SOI,common,{2}{B},B,Creature,"Vampire, Noble",3,2
+SOI,common,{1}{B},B,Enchantment,0,0,0
+SOI,rare,{1}{R},R,Sorcery,0,0,0
+SOI,common,{2}{R},R,Creature,"Vampire, Berserker",4,1
+SOI,uncommon,{1}{R}{R},R,Creature,"Human, Scout, Werewolf",3,3
+SOI,uncommon,0,R,Creature,Werewolf,4,3
+SOI,rare,{X}{R},R,Sorcery,0,0,0
+SOI,common,{2}{R},R,Creature,"Human, Werewolf",2,2
+SOI,common,0,R,Creature,Werewolf,4,4
+SOI,uncommon,{3}{R},R,Instant,0,0,0
+SOI,rare,{4}{R}{R},R,Sorcery,0,0,0
+SOI,uncommon,{3}{R}{R},R,Instant,0,0,0
+SOI,common,{R},R,Instant,0,0,0
+SOI,common,{1}{R},R,Creature,Wolf,1,2
+SOI,rare,{R},R,Creature,"Vampire, Berserker",2,1
+SOI,common,{1}{R}{R},R,Instant,0,0,0
+SOI,rare,{4}{R}{R},R,Creature,Angel,4,4
+SOI,common,{4}{R},R,Creature,"Human, Werewolf",5,4
+SOI,common,0,R,Creature,Werewolf,6,5
+SOI,rare,{2}{R},R,Creature,"Human, Rogue, Werewolf",3,2
+SOI,rare,0,R,Creature,Werewolf,4,3
+SOI,uncommon,{2}{R},"R, U",Instant,0,0,0
+SOI,uncommon,{1}{R},R,Creature,Devil,2,1
+SOI,mythic,{2}{R}{R},R,Creature,Angel,4,9
+SOI,rare,{2}{R},R,Enchantment,0,0,0
+SOI,common,{2}{R},R,Creature,Wolf,3,3
+SOI,common,{3}{R},R,Creature,Devil,5,2
+SOI,uncommon,{3}{R}{R},R,Creature,Vampire,4,3
+SOI,uncommon,{3}{R},R,Instant,0,0,0
+SOI,common,{R},R,Creature,Vampire,1,1
+SOI,uncommon,{1}{R},R,Creature,"Human, Shaman, Werewolf",2,1
+SOI,uncommon,0,R,Creature,Werewolf,3,2
+SOI,uncommon,{R},R,Instant,0,0,0
+SOI,uncommon,{3}{R},R,Creature,"Human, Shaman",2,2
+SOI,common,{1}{R},R,Sorcery,0,0,0
+SOI,uncommon,{3}{R},R,Sorcery,0,0,0
+SOI,common,{3}{R},R,Creature,"Elemental, Dog",2,3
+SOI,uncommon,{1}{R},R,Creature,"Vampire, Berserker",1,3
+SOI,common,{4}{R},R,Sorcery,0,0,0
+SOI,common,{R},R,Instant,0,0,0
+SOI,common,{1}{R},R,Creature,"Vampire, Wizard",1,3
+SOI,rare,{R}{R},R,Creature,"Wolf, Horror",2,2
+SOI,common,{1}{R},R,Enchantment,Aura,0,0
+SOI,rare,{2}{R},R,Creature,Devil,3,2
+SOI,uncommon,{R},R,Enchantment,Aura,0,0
+SOI,uncommon,0,R,Creature,"Insect, Horror",3,4
+SOI,uncommon,{3}{R},R,Enchantment,Aura,0,0
+SOI,uncommon,{2}{R},R,Enchantment,0,0,0
+SOI,common,{3}{R},R,Sorcery,0,0,0
+SOI,common,{1}{R},R,Sorcery,0,0,0
+SOI,uncommon,{2}{R},"G, R",Creature,Wolf,3,2
+SOI,common,{2}{R},R,Instant,0,0,0
+SOI,common,{1}{R},R,Enchantment,0,0,0
+SOI,uncommon,{R},R,Creature,"Human, Werewolf",1,1
+SOI,uncommon,0,R,Creature,Werewolf,2,2
+SOI,common,{3}{R},R,Creature,"Vampire, Warrior",3,2
+SOI,mythic,{3}{R}{R},R,Creature,"Elemental, Wolf",5,5
+SOI,common,{1}{G},G,Instant,0,0,0
+SOI,uncommon,{2}{G},"B, G",Enchantment,0,0,0
+SOI,uncommon,0,"B, G",Creature,Treefolk,4,4
+SOI,uncommon,{3}{G},G,Creature,"Human, Warrior",3,3
+SOI,common,{2}{G},G,Creature,"Human, Scout",3,2
+SOI,common,{1}{G},G,Instant,0,0,0
+SOI,common,{G},G,Instant,0,0,0
+SOI,uncommon,{2}{G},G,Enchantment,0,0,0
+SOI,rare,{1}{G},G,Enchantment,0,0,0
+SOI,uncommon,{4}{G},G,Creature,"Human, Shaman",5,4
+SOI,rare,{1}{G},"B, G",Creature,"Human, Druid",2,1
+SOI,uncommon,{1}{G},G,Creature,"Human, Warrior, Werewolf",2,2
+SOI,uncommon,0,G,Creature,Werewolf,3,3
+SOI,common,{3}{G},G,Enchantment,Aura,0,0
+SOI,common,{1}{G},G,Sorcery,0,0,0
+SOI,uncommon,{2}{G},G,Creature,Spider,3,3
+SOI,uncommon,{2}{G},G,Creature,"Mole, Beast",2,4
+SOI,uncommon,{G},G,Creature,"Human, Druid",1,1
+SOI,uncommon,{2}{G},G,Creature,"Human, Werewolf",2,3
+SOI,uncommon,0,G,Creature,Werewolf,3,5
+SOI,common,{1}{G},G,Creature,"Human, Werewolf",2,1
+SOI,common,0,G,Creature,Werewolf,4,2
+SOI,uncommon,{2}{G},G,Enchantment,0,0,0
+SOI,rare,{2}{G},G,Creature,Ooze,3,3
+SOI,common,{3}{G},G,Creature,"Human, Scout",3,3
+SOI,common,{4}{G}{G},G,Creature,"Boar, Horror",6,6
+SOI,uncommon,{1}{G},G,Creature,"Human, Shaman, Werewolf",3,3
+SOI,uncommon,0,G,Creature,Werewolf,4,4
+SOI,common,{G},G,Creature,"Dryad, Horror",1,2
+SOI,common,{3}{G},G,Instant,0,0,0
+SOI,common,{1}{G},G,Creature,Fungus,0,4
+SOI,uncommon,{1}{G},G,Instant,0,0,0
+SOI,uncommon,{1}{G},G,Creature,"Human, Rogue",1,1
+SOI,uncommon,{2}{G}{G},G,Creature,"Wolf, Spirit",4,3
+SOI,common,{1}{G},G,Creature,Wolf,2,2
+SOI,common,{1}{G},G,Sorcery,0,0,0
+SOI,common,{2}{G},G,Sorcery,0,0,0
+SOI,rare,{4}{G},G,Creature,"Human, Shaman, Werewolf",*,*
+SOI,rare,0,G,Creature,Werewolf,*,*
+SOI,mythic,{4}{G}{G},G,Sorcery,0,0,0
+SOI,rare,{2}{G}{G},G,Instant,0,0,0
+SOI,rare,{2}{G},G,Creature,"Wolf, Warrior",2,2
+SOI,common,{3}{G},G,Creature,"Human, Warrior, Werewolf",3,4
+SOI,common,0,G,Creature,Werewolf,5,6
+SOI,rare,{2}{G}{G},G,Creature,Wurm,3,3
+SOI,common,{2}{G},G,Creature,Human,2,3
+SOI,common,{4}{G},G,Creature,Wolf,4,5
+SOI,rare,{2}{G},G,Creature,"Human, Scout",3,2
+SOI,rare,{G},G,Sorcery,0,0,0
+SOI,mythic,{4}{G}{G},G,Creature,Hydra,*,*
+SOI,uncommon,{2}{G},G,Enchantment,0,0,0
+SOI,common,{G},G,Enchantment,0,0,0
+SOI,uncommon,{1}{G},"G, W",Creature,"Human, Soldier",2,2
+SOI,common,{4}{G},G,Creature,Spider,2,5
+SOI,uncommon,{2}{G},G,Enchantment,Aura,0,0
+SOI,rare,{X}{2}{G}{U},"G, U",Creature,Shapeshifter,0,0
+SOI,rare,{1}{W}{B},"B, W",Instant,0,0,0
+SOI,mythic,{2}{R}{G},"G, R",Planeswalker,Arlinn,0,0
+SOI,mythic,0,"G, R",Planeswalker,Arlinn,0,0
+SOI,rare,{1}{U}{R},"R, U",Enchantment,0,0,0
+SOI,mythic,{3}{B}{G},"B, G",Creature,"Frog, Horror",6,6
+SOI,rare,{1}{W}{U},"U, W",Enchantment,Aura,0,0
+SOI,mythic,{2}{R}{W},"R, W",Planeswalker,Nahiri,0,0
+SOI,mythic,{1}{B}{R},"B, R",Creature,"Vampire, Knight",3,3
+SOI,rare,{1}{U}{B},"B, U",Creature,Zombie,3,3
+SOI,mythic,{3}{G}{W},"G, W",Creature,Angel,4,5
+SOI,mythic,{4}{W}{B},"B, W",Planeswalker,Sorin,0,0
+SOI,rare,{2},0,Artifact,0,0,0
+SOI,rare,{2},0,Artifact,0,0,0
+SOI,uncommon,{5},0,"Artifact, Creature",Golem,3,5
+SOI,common,{1},0,Artifact,0,0,0
+SOI,uncommon,{3},0,"Artifact, Creature",Scarecrow,2,2
+SOI,uncommon,0,0,Artifact,Equipment,0,0
+SOI,uncommon,{3},0,Artifact,Equipment,0,0
+SOI,uncommon,{3},0,Artifact,0,0,0
+SOI,uncommon,{4},0,Artifact,Equipment,0,0
+SOI,uncommon,{1},0,Artifact,Equipment,0,0
+SOI,uncommon,0,0,Artifact,Equipment,0,0
+SOI,uncommon,{4},0,"Artifact, Creature",Construct,5,6
+SOI,common,{1},0,Artifact,Equipment,0,0
+SOI,uncommon,{1},0,Artifact,Equipment,0,0
+SOI,rare,{3},0,Artifact,Equipment,0,0
+SOI,rare,{5},0,Artifact,0,0,0
+SOI,rare,{5},0,Artifact,0,0,0
+SOI,rare,{5},0,Artifact,0,0,0
+SOI,rare,{5},0,Artifact,0,0,0
+SOI,rare,{5},0,Artifact,0,0,0
+SOI,rare,{5},0,Artifact,0,0,0
+SOI,uncommon,{1},0,"Artifact, Creature",Gargoyle,2,2
+SOI,uncommon,0,0,"Artifact, Creature","Gargoyle, Horror",4,2
+SOI,common,{2},0,Artifact,Equipment,0,0
+SOI,common,{3},0,"Artifact, Creature",Scarecrow,3,1
+SOI,uncommon,{3},0,"Artifact, Creature",Scarecrow,1,4
+SOI,rare,0,"B, U",Land,0,0,0
+SOI,rare,0,0,Land,0,0,0
+SOI,rare,0,"B, R",Land,0,0,0
+SOI,uncommon,0,"B, W",Land,0,0,0
+SOI,rare,0,"G, W",Land,0,0,0
+SOI,uncommon,0,"B, G",Land,0,0,0
+SOI,rare,0,"G, R",Land,0,0,0
+SOI,uncommon,0,"R, U",Land,0,0,0
+SOI,rare,0,"U, W",Land,0,0,0
+SOI,uncommon,0,"R, W",Land,0,0,0
+SOI,common,0,0,Land,0,0,0
+SOI,rare,0,B,Land,0,0,0
+SOI,rare,0,B,Creature,Demon,9,7
+SOI,uncommon,0,"G, U",Land,0,0,0
+SOI,common,0,W,Land,Plains,0,0
+SOI,common,0,W,Land,Plains,0,0
+SOI,common,0,W,Land,Plains,0,0
+SOI,common,0,U,Land,Island,0,0
+SOI,common,0,U,Land,Island,0,0
+SOI,common,0,U,Land,Island,0,0
+SOI,common,0,B,Land,Swamp,0,0
+SOI,common,0,B,Land,Swamp,0,0
+SOI,common,0,B,Land,Swamp,0,0
+SOI,common,0,R,Land,Mountain,0,0
+SOI,common,0,R,Land,Mountain,0,0
+SOI,common,0,R,Land,Mountain,0,0
+SOI,common,0,G,Land,Forest,0,0
+SOI,common,0,G,Land,Forest,0,0
+SOI,common,0,G,Land,Forest,0,0

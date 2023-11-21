@@ -1,0 +1,93 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+ARN,uncommon,{W},W,Creature,Human,0,1
+ARN,common,{1}{W}{W},W,Instant,0,0,0
+ARN,common,{1}{W}{W},W,Instant,0,0,0
+ARN,common,{W},W,Creature,Camel,0,1
+ARN,uncommon,{W}{W},W,Instant,0,0,0
+ARN,rare,{W}{W}{W},W,Enchantment,0,0,0
+ARN,rare,{1}{W},W,Creature,"Human, Noble",1,1
+ARN,common,{2}{W}{W},W,Creature,"Human, Knight",3,3
+ARN,common,{2}{W}{W},W,Creature,"Human, Knight",3,3
+ARN,common,{2}{W},W,Instant,0,0,0
+ARN,common,{2}{W},W,Instant,0,0,0
+ARN,rare,{1}{W},W,Creature,Human,1,2
+ARN,rare,{W}{W},W,Sorcery,0,0,0
+ARN,common,{3}{W},W,Creature,Elephant,2,2
+ARN,common,{3}{W},W,Creature,Elephant,2,2
+ARN,common,{U}{U},U,Creature,Fish,4,1
+ARN,common,{1}{U},U,Enchantment,Aura,0,0
+ARN,common,{1}{U},U,Enchantment,Aura,0,0
+ARN,common,{U},U,Creature,Human,1,1
+ARN,common,{1}{U},U,Creature,Turtle,1,1
+ARN,common,{1}{U},U,Creature,Turtle,1,1
+ARN,rare,{4}{U}{U}{U},U,Creature,Fish,6,8
+ARN,uncommon,{U},U,Creature,Human,0,2
+ARN,rare,{1}{U}{U},U,Creature,Djinn,2,3
+ARN,rare,{2}{U}{U},U,Creature,Djinn,5,6
+ARN,rare,{2}{U},U,Creature,Efreet,3,4
+ARN,uncommon,{1}{U},U,Creature,Human,1,1
+ARN,common,{U},U,Enchantment,Aura,0,0
+ARN,common,{B}{B},B,Creature,"Human, Wizard",1,3
+ARN,rare,{1}{B}{B},B,Creature,"Human, Wizard",1,1
+ARN,common,{1}{B},B,Creature,"Human, Warrior",2,3
+ARN,common,{1}{B},B,Creature,"Human, Warrior",2,3
+ARN,rare,{3}{B},B,Creature,Beast,2,4
+ARN,common,{B}{B},B,Creature,Ogre,3,2
+ARN,common,{B}{B},B,Creature,Ogre,3,2
+ARN,rare,{1}{B}{B},B,Creature,Efreet,3,3
+ARN,rare,{2}{B}{B},B,Creature,Djinn,5,5
+ARN,uncommon,{2}{B},B,Creature,Zombie,1,1
+ARN,common,{1}{B}{B},B,Enchantment,0,0,0
+ARN,common,{1}{B}{B},B,Enchantment,0,0,0
+ARN,uncommon,{1}{B}{B},B,Creature,"Human, Wizard",1,1
+ARN,common,{B},B,Creature,Devil,1,1
+ARN,common,{B},B,Creature,Devil,1,1
+ARN,rare,{2}{R}{R},R,Creature,"Human, Rogue",1,1
+ARN,uncommon,{R},R,Creature,"Human, Rogue",1,1
+ARN,rare,{2}{R}{R},R,Creature,Human,0,1
+ARN,common,{2}{R},R,Creature,"Human, Bird",1,2
+ARN,common,{2}{R},R,Creature,"Human, Bird",1,2
+ARN,common,{2}{R},R,Creature,"Human, Nomad",2,2
+ARN,common,{R},R,Creature,Jackal,1,1
+ARN,common,{R},R,Creature,Ape,1,1
+ARN,uncommon,{1}{R}{R},R,Enchantment,0,0,0
+ARN,rare,{R}{R}{R},R,Creature,Djinn,6,3
+ARN,common,{3}{R},R,Creature,"Bird, Egg",0,3
+ARN,common,{3}{R},R,Creature,"Bird, Egg",0,3
+ARN,rare,{R}{R}{R},R,Creature,Efreet,3,6
+ARN,uncommon,{2}{G}{G},G,Enchantment,0,0,0
+ARN,uncommon,{4}{G}{G},G,Sorcery,0,0,0
+ARN,rare,{G},G,Enchantment,0,0,0
+ARN,rare,{3}{G},G,Creature,Djinn,4,5
+ARN,common,{G},G,Creature,Ogre,2,2
+ARN,rare,{2}{G}{G},G,Creature,Efreet,3,3
+ARN,common,{G},G,Sorcery,0,0,0
+ARN,common,{G},G,Creature,Snake,1,1
+ARN,common,{G},G,Creature,Snake,1,1
+ARN,common,{G},G,Instant,0,0,0
+ARN,rare,{3}{G},G,Creature,Plant,0,3
+ARN,common,{1}{G},G,Creature,Wolf,1,1
+ARN,common,{1}{G},G,Creature,Wolf,1,1
+ARN,rare,{10},0,Artifact,0,0,0
+ARN,rare,{8},0,Artifact,0,0,0
+ARN,rare,{4},0,Artifact,0,0,0
+ARN,uncommon,{1},0,"Artifact, Creature",Construct,1,3
+ARN,rare,{2},0,Artifact,0,0,0
+ARN,rare,{4},0,"Artifact, Creature",Spirit,1,5
+ARN,rare,{3},0,Artifact,0,0,0
+ARN,uncommon,{4},0,Artifact,0,0,0
+ARN,rare,{6},0,Artifact,0,0,0
+ARN,rare,{2},0,Artifact,0,0,0
+ARN,uncommon,{1},0,Artifact,0,0,0
+ARN,rare,{6},0,Artifact,0,0,0
+ARN,rare,{5},0,Artifact,0,0,0
+ARN,uncommon,{4},0,Artifact,0,0,0
+ARN,uncommon,0,0,Land,0,0,0
+ARN,uncommon,0,0,Land,0,0,0
+ARN,common,0,0,Land,Desert,0,0
+ARN,rare,0,0,Land,0,0,0
+ARN,rare,0,0,Land,0,0,0
+ARN,rare,0,0,Land,0,0,0
+ARN,uncommon,0,0,Land,0,0,0
+ARN,common,0,R,Land,Mountain,0,0
+ARN,uncommon,0,0,Land,0,0,0

@@ -1,0 +1,145 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+PCY,uncommon,{1}{W}{W},W,Instant,0,0,0
+PCY,common,{2}{W},W,Enchantment,0,0,0
+PCY,rare,{6}{W}{W},W,Creature,Avatar,4,9
+PCY,rare,{7}{W}{W},W,Sorcery,0,0,0
+PCY,rare,{2}{W}{W},W,Enchantment,0,0,0
+PCY,common,{1}{W}{W},W,Creature,Griffin,2,2
+PCY,uncommon,{2}{W}{W},W,Enchantment,Aura,0,0
+PCY,common,{X}{W},W,Instant,0,0,0
+PCY,uncommon,{1}{W},W,Enchantment,Aura,0,0
+PCY,uncommon,{2}{W},W,Creature,Cat,2,2
+PCY,common,{W},W,Creature,Cat,1,1
+PCY,rare,{3}{W}{W},W,Creature,Spirit,3,3
+PCY,rare,{3}{W}{W},W,Creature,"Human, Spellshaper",3,3
+PCY,common,{1}{W},W,Enchantment,Aura,0,0
+PCY,rare,{2}{W},W,Creature,"Human, Rebel, Mercenary",2,1
+PCY,common,{2}{W},W,Creature,"Human, Soldier",1,1
+PCY,uncommon,{3}{W},W,Instant,0,0,0
+PCY,uncommon,{2}{W}{W},W,Creature,"Human, Rebel",3,3
+PCY,common,{2}{W}{W},W,Enchantment,0,0,0
+PCY,common,{1}{W},W,Instant,0,0,0
+PCY,rare,{2}{W},W,Enchantment,0,0,0
+PCY,rare,{W},W,Enchantment,0,0,0
+PCY,uncommon,{2}{W},W,Creature,"Human, Rebel",1,3
+PCY,common,{2}{W},W,Creature,"Human, Rebel",2,2
+PCY,uncommon,{1}{W},W,Creature,"Human, Rebel",1,2
+PCY,common,{3}{W},W,Creature,"Horse, Rebel",2,3
+PCY,common,{2}{W},W,Creature,"Human, Cleric",1,2
+PCY,rare,{3}{U}{U},U,Creature,"Human, Spellshaper",3,3
+PCY,common,{1}{U},U,Enchantment,Aura,0,0
+PCY,rare,{6}{U}{U},U,Creature,Avatar,5,6
+PCY,common,{4}{U},U,Creature,Bird,3,3
+PCY,rare,{7}{U}{U},U,Sorcery,0,0,0
+PCY,uncommon,{1}{U},U,Enchantment,0,0,0
+PCY,uncommon,{2}{U}{U},U,Instant,0,0,0
+PCY,common,{3}{U},U,Creature,"Squid, Beast",2,2
+PCY,common,{1}{U},U,Creature,"Homunculus, Illusion",1,1
+PCY,rare,{3}{U}{U},U,Enchantment,0,0,0
+PCY,uncommon,{1}{U},U,Sorcery,0,0,0
+PCY,rare,{1}{U},U,Enchantment,0,0,0
+PCY,rare,{1}{U},U,Sorcery,0,0,0
+PCY,uncommon,{2}{U},U,Creature,Wall,1,6
+PCY,common,{2}{U},U,Instant,0,0,0
+PCY,common,{2}{U},U,Enchantment,0,0,0
+PCY,uncommon,{2}{U}{U},U,Sorcery,0,0,0
+PCY,common,{2}{U},U,Enchantment,0,0,0
+PCY,common,{1}{U}{U},U,Creature,Snake,2,3
+PCY,rare,{4}{U}{U}{U},U,Creature,Serpent,4,4
+PCY,uncommon,{3}{U}{U},U,Creature,Drake,3,3
+PCY,common,{1}{U},U,Creature,Drake,1,1
+PCY,common,{3}{U},U,Creature,Bird,2,1
+PCY,uncommon,{1}{U},U,Enchantment,Aura,0,0
+PCY,rare,{2}{U}{U},U,Creature,Spirit,3,4
+PCY,uncommon,{3}{U},U,Creature,"Human, Scout",3,3
+PCY,common,{U}{U},U,Instant,0,0,0
+PCY,common,{1}{B},B,Creature,"Human, Mercenary",1,1
+PCY,rare,{6}{B}{B},B,Creature,Avatar,6,5
+PCY,rare,{3}{B}{B},B,Creature,Elemental,5,4
+PCY,common,{2}{B},B,Creature,"Human, Mercenary",1,1
+PCY,uncommon,{2}{B},B,Creature,Spirit,1,1
+PCY,rare,{3}{B}{B},B,Creature,Zombie,3,3
+PCY,rare,{3}{B}{B},B,Creature,Zombie,3,3
+PCY,common,{2}{B},B,Creature,"Worm, Mercenary",2,2
+PCY,common,{3}{B},B,Sorcery,0,0,0
+PCY,uncommon,{2}{B},B,Enchantment,0,0,0
+PCY,common,{3}{B},B,Creature,Nightstalker,3,2
+PCY,common,{3}{B},B,Sorcery,0,0,0
+PCY,rare,{3}{B}{B},B,Creature,"Horror, Spellshaper",3,3
+PCY,common,{1}{B},B,Enchantment,Aura,0,0
+PCY,rare,{4}{B}{B},B,Enchantment,0,0,0
+PCY,uncommon,{1}{B},B,Creature,Shade,1,1
+PCY,uncommon,{1}{B}{B},B,Enchantment,Aura,0,0
+PCY,uncommon,{3}{B},B,Sorcery,0,0,0
+PCY,uncommon,{2}{B}{B},B,Creature,"Bird, Mercenary",4,3
+PCY,common,{1}{B},B,Creature,Insect,1,1
+PCY,rare,{7}{B}{B},B,Sorcery,0,0,0
+PCY,rare,{2}{B},B,Creature,"Human, Mercenary, Rebel",1,2
+PCY,uncommon,{3}{B}{B},B,Sorcery,0,0,0
+PCY,rare,{2}{B},B,Sorcery,0,0,0
+PCY,common,{X}{B},B,Sorcery,0,0,0
+PCY,common,{1}{B},B,Instant,0,0,0
+PCY,uncommon,{2}{B},B,Creature,"Snake, Wall",2,4
+PCY,common,{1}{B},B,Creature,Zombie,2,2
+PCY,rare,{6}{R}{R},R,Creature,Avatar,6,6
+PCY,uncommon,{2}{R}{R},R,Enchantment,Aura,0,0
+PCY,common,{R},R,Creature,"Human, Soldier",2,2
+PCY,uncommon,{R},R,Enchantment,0,0,0
+PCY,uncommon,{2}{R},R,Enchantment,0,0,0
+PCY,common,{3}{R}{R},R,Sorcery,0,0,0
+PCY,common,{2}{R},R,Creature,"Human, Soldier",2,2
+PCY,rare,{3}{R},R,Creature,Efreet,5,2
+PCY,uncommon,{3}{R},R,Sorcery,0,0,0
+PCY,common,{R},R,Instant,0,0,0
+PCY,uncommon,{2}{R},R,Creature,"Human, Soldier",1,1
+PCY,common,{3}{R},R,Creature,"Human, Soldier, Berserker",2,3
+PCY,rare,{3}{R}{R},R,Creature,"Human, Soldier",3,3
+PCY,rare,{3}{R}{R},R,Creature,"Human, Spellshaper",3,3
+PCY,common,{1}{R},R,Enchantment,Aura,0,0
+PCY,uncommon,{2}{R}{R},R,Creature,Beast,6,4
+PCY,common,{2}{R},R,Sorcery,0,0,0
+PCY,common,{2}{R},R,Instant,0,0,0
+PCY,common,{2}{R},R,Creature,Beast,1,2
+PCY,uncommon,{3}{R}{R},R,Creature,Cat,3,3
+PCY,rare,{2}{R},R,Sorcery,0,0,0
+PCY,rare,{8}{R},R,Instant,0,0,0
+PCY,common,{2}{R},R,Creature,Beast,2,1
+PCY,rare,{2}{R},R,Enchantment,0,0,0
+PCY,rare,{1}{R},R,Creature,"Human, Soldier",4,4
+PCY,uncommon,{2}{R},R,Creature,"Human, Soldier",2,1
+PCY,common,{2}{R}{R},R,Creature,Minotaur,3,3
+PCY,rare,{6}{G}{G},G,Creature,Avatar,8,8
+PCY,common,{3}{G},G,Sorcery,0,0,0
+PCY,uncommon,{3}{G},G,Creature,"Bird, Beast",5,4
+PCY,rare,{4}{G}{G},G,Enchantment,0,0,0
+PCY,rare,{1}{G},G,Sorcery,0,0,0
+PCY,rare,{1}{G},G,Enchantment,0,0,0
+PCY,rare,{3}{G}{G},G,Creature,"Human, Spellshaper",3,3
+PCY,common,{1}{G},G,Enchantment,Aura,0,0
+PCY,uncommon,{2}{G}{G},G,Enchantment,Aura,0,0
+PCY,common,{G},G,Creature,Snake,1,1
+PCY,rare,{2}{G}{G},G,Creature,Wurm,6,5
+PCY,common,{1}{G},G,Creature,Boar,2,1
+PCY,common,{2}{G},G,Creature,Spider,1,4
+PCY,uncommon,{1}{G},G,Enchantment,0,0,0
+PCY,common,{2}{G},G,Creature,Beast,3,3
+PCY,uncommon,{3}{G},G,Instant,0,0,0
+PCY,uncommon,{3}{G}{G},G,Creature,Spider,3,5
+PCY,common,{G},G,Creature,Frog,1,1
+PCY,rare,{2}{G}{G},G,Creature,"Human, Druid",2,2
+PCY,common,{3}{G}{G},G,Creature,Beast,4,4
+PCY,common,{X}{G},G,Sorcery,0,0,0
+PCY,uncommon,{2}{G},G,Enchantment,Aura,0,0
+PCY,common,{4}{G},G,Creature,Elephant,4,3
+PCY,uncommon,{G}{G},G,Creature,Turtle,2,2
+PCY,rare,{8}{G},G,Instant,0,0,0
+PCY,common,{1}{G},G,Instant,0,0,0
+PCY,uncommon,{2}{G},G,Sorcery,0,0,0
+PCY,uncommon,{3},0,Artifact,0,0,0
+PCY,rare,{5},0,"Artifact, Creature",Angel,2,2
+PCY,uncommon,{4},0,"Artifact, Creature","Golem, Warrior",4,4
+PCY,rare,{5},0,"Artifact, Creature",Juggernaut,0,3
+PCY,rare,{6},0,Artifact,0,0,0
+PCY,uncommon,{4},0,Artifact,0,0,0
+PCY,uncommon,0,0,Land,0,0,0
+PCY,rare,0,0,Land,0,0,0

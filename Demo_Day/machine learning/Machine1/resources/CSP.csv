@@ -1,0 +1,156 @@
+setCode,rarity,manaCost,colorIdentity,types,subtypes,power,toughness
+CSP,rare,{4}{W}{W},W,Creature,Angel,4,5
+CSP,common,{3}{W}{W},W,Creature,Griffin,3,2
+CSP,rare,{2}{W},W,Enchantment,0,0,0
+CSP,rare,{4}{W}{W},W,Creature,"Human, Soldier",3,3
+CSP,rare,{1}{W}{W},W,Creature,"Human, Soldier",2,2
+CSP,common,{W},W,Enchantment,Aura,0,0
+CSP,uncommon,{2}{W}{W},W,Enchantment,Aura,0,0
+CSP,uncommon,{1}{W},W,Creature,"Giant, Soldier",4,4
+CSP,uncommon,{2}{W},"U, W",Creature,Giant,3,3
+CSP,uncommon,{5}{W},W,Creature,Gargoyle,3,3
+CSP,common,{W},W,Creature,"Human, Soldier",1,2
+CSP,common,{1}{W},W,Creature,"Human, Soldier",2,2
+CSP,common,{1}{W},W,Instant,0,0,0
+CSP,uncommon,{W},W,Instant,0,0,0
+CSP,common,{W},W,Creature,"Human, Cleric",1,1
+CSP,common,{1}{W},W,Creature,Unicorn,2,2
+CSP,common,{1}{W},W,Creature,Elemental,1,1
+CSP,common,{1}{W},W,Instant,0,0,0
+CSP,rare,{5}{W}{W},W,Sorcery,0,0,0
+CSP,common,{2}{W},W,Creature,"Human, Soldier",2,1
+CSP,common,{1}{W},W,Instant,0,0,0
+CSP,uncommon,{4}{W},W,Creature,"Spirit, Bear",3,3
+CSP,uncommon,{1}{W},W,Creature,Wall,1,8
+CSP,uncommon,{W}{W},W,Creature,"Human, Knight",2,1
+CSP,rare,{2}{W}{W},W,Creature,"Boar, Beast",7,7
+CSP,uncommon,{4}{U},U,Creature,Illusion,3,3
+CSP,rare,{3}{U},U,Creature,"Human, Artificer",2,2
+CSP,uncommon,{2}{U},U,Creature,"Human, Wizard",1,1
+CSP,rare,{5}{U}{U},U,Instant,0,0,0
+CSP,uncommon,{2}{U}{U},U,Instant,0,0,0
+CSP,uncommon,{U}{U},U,Enchantment,0,0,0
+CSP,common,{4}{U},U,Creature,"Yeti, Mutant",3,3
+CSP,uncommon,{1}{U},U,Instant,0,0,0
+CSP,common,{2}{U},U,Creature,Bird,2,2
+CSP,common,{1}{U}{U},U,Enchantment,Aura,0,0
+CSP,rare,{4}{U},U,Creature,"Human, Wizard",3,3
+CSP,rare,{4}{U}{U}{U},U,Creature,Leviathan,12,12
+CSP,common,{1}{U},U,Creature,Illusion,*,*
+CSP,uncommon,{3}{U},"B, U",Enchantment,Aura,0,0
+CSP,common,{U},U,Creature,"Human, Wizard",1,1
+CSP,uncommon,{1}{U},U,Instant,0,0,0
+CSP,rare,{5}{U}{U},U,Creature,Bird,*,*
+CSP,uncommon,{3}{U},U,Creature,"Human, Wizard",2,3
+CSP,common,{1}{U},U,Creature,"Human, Wizard",1,2
+CSP,common,{5}{U},U,Creature,Serpent,5,6
+CSP,common,{1}{U},U,Instant,0,0,0
+CSP,common,{3}{U},U,Instant,0,0,0
+CSP,common,{2}{U},U,Creature,"Human, Wizard",2,1
+CSP,common,{U},U,Instant,0,0,0
+CSP,rare,{1}{U}{U},U,Creature,Sphinx,4,4
+CSP,uncommon,{3}{B},"B, R",Creature,Zombie,3,5
+CSP,common,{3}{B},B,Instant,0,0,0
+CSP,common,{2}{B},B,Creature,Shade,1,1
+CSP,uncommon,{B},B,Sorcery,0,0,0
+CSP,common,{2}{B}{B},B,Creature,"Human, Cleric",3,1
+CSP,common,{B},B,Sorcery,0,0,0
+CSP,rare,{B}{B}{B},B,Creature,"Human, Assassin",2,2
+CSP,common,{1}{B},B,Instant,0,0,0
+CSP,uncommon,{4}{B},B,Creature,Zombie,3,3
+CSP,common,{2}{B},B,Creature,Zombie,2,2
+CSP,rare,{1}{B}{B},B,Creature,"Zombie, Knight",3,3
+CSP,rare,{6}{B},B,Creature,Avatar,2,4
+CSP,uncommon,{2}{B},B,Instant,0,0,0
+CSP,common,{1}{B},B,Creature,"Human, Rogue",2,1
+CSP,common,{B},B,Creature,"Human, Wizard",1,1
+CSP,uncommon,{1}{B}{B},B,Creature,Illusion,3,3
+CSP,rare,{B}{B}{B},B,Enchantment,0,0,0
+CSP,uncommon,{1}{B},B,Enchantment,Aura,0,0
+CSP,common,{B},B,Creature,Skeleton,1,1
+CSP,rare,{5}{B}{B},B,Instant,0,0,0
+CSP,uncommon,{B}{B},B,Creature,"Zombie, Knight",2,1
+CSP,common,{1}{B},B,Sorcery,0,0,0
+CSP,uncommon,{5}{B}{B},B,Creature,"Zombie, Knight",5,3
+CSP,rare,{4}{B}{B},B,Creature,Horror,4,5
+CSP,common,{3}{B},B,Creature,Zombie,2,3
+CSP,uncommon,{X}{R},R,Instant,0,0,0
+CSP,uncommon,{3}{R},R,Creature,"Human, Barbarian",3,2
+CSP,rare,{1}{R},R,Enchantment,0,0,0
+CSP,uncommon,{2}{R},R,Sorcery,0,0,0
+CSP,uncommon,{2}{R},"G, R",Creature,Ooze,2,2
+CSP,rare,{5}{R}{R},R,Sorcery,0,0,0
+CSP,common,{1}{R},R,Creature,"Goblin, Warrior",2,2
+CSP,common,{2}{R},R,Creature,"Goblin, Warrior",2,2
+CSP,uncommon,{4}{R}{R},R,Creature,"Elemental, Spirit",4,4
+CSP,common,{2}{R}{R},R,Sorcery,0,0,0
+CSP,rare,{2}{R}{R},R,Creature,"Minotaur, Warrior",3,3
+CSP,common,{R},R,Creature,"Wolverine, Beast",1,1
+CSP,rare,{X}{R},R,Creature,"Elemental, Serpent",2,1
+CSP,uncommon,{1}{R}{R},R,Instant,0,0,0
+CSP,rare,{3}{R}{R},R,Creature,Human,3,3
+CSP,uncommon,{2}{R}{R},R,Enchantment,0,0,0
+CSP,common,{R},R,Creature,"Human, Shaman",1,1
+CSP,common,{3}{R},R,Creature,Yeti,3,3
+CSP,common,{2}{R},R,Creature,"Orc, Shaman",2,1
+CSP,rare,{5}{R}{R},R,Creature,Dragon,5,5
+CSP,common,{R},R,Sorcery,0,0,0
+CSP,common,{R},R,Instant,0,0,0
+CSP,uncommon,{2}{R}{R},R,Creature,Yeti,3,3
+CSP,common,{1}{R},R,Instant,0,0,0
+CSP,common,{4}{R},R,Creature,Slug,4,3
+CSP,rare,{5}{G}{G},G,Creature,"Elf, Warrior",1+*,1+*
+CSP,uncommon,{5}{G},"G, W",Creature,"Cat, Warrior",6,6
+CSP,common,{5}{G},G,Creature,Aurochs,4,4
+CSP,common,{1}{G},G,Creature,"Centaur, Warrior",2,2
+CSP,common,{G},G,Creature,"Elf, Druid",1,1
+CSP,rare,{2}{G}{G},G,Creature,Lizard,4,4
+CSP,common,{1}{G},G,Creature,Aurochs,2,1
+CSP,uncommon,{1}{G},G,Enchantment,0,0,0
+CSP,common,{2}{G},G,Creature,Spider,1,3
+CSP,rare,{4}{G},G,Enchantment,0,0,0
+CSP,common,{1}{G},G,Sorcery,0,0,0
+CSP,uncommon,{3}{G},G,Creature,Yeti,3,4
+CSP,common,{G},G,Creature,"Human, Shaman",1,1
+CSP,uncommon,{3}{G},G,Instant,0,0,0
+CSP,rare,{1}{G}{G},G,Creature,Snake,1,3
+CSP,rare,{5}{G}{G},G,Creature,Wurm,9,5
+CSP,uncommon,{1}{G},G,Instant,0,0,0
+CSP,uncommon,{4}{G},G,Creature,Aurochs,3,3
+CSP,common,{4}{G},G,Creature,Beast,5,6
+CSP,rare,{3}{G}{G}{G},G,Enchantment,Aura,0,0
+CSP,uncommon,{1}{G},G,Creature,Treefolk,5,5
+CSP,common,{3}{G},G,Creature,"Ape, Warrior",3,3
+CSP,common,{2}{G},G,Sorcery,0,0,0
+CSP,uncommon,{4}{G},"G, R",Creature,Spider,1,5
+CSP,common,{2}{G},G,Enchantment,Aura,0,0
+CSP,uncommon,{2}{U}{B},"B, U",Creature,Specter,2,3
+CSP,uncommon,{4}{B}{R},"B, R",Creature,Elemental,4,4
+CSP,rare,{2}{G}{W}{U},"G, U, W",Creature,Faerie,3,3
+CSP,rare,{4}{U}{B}{R},"B, R, U",Creature,"Vampire, Noble",5,5
+CSP,uncommon,{3}{G}{W},"G, W",Creature,"Human, Knight, Ranger",2,4
+CSP,rare,{2}{B}{R}{G},"B, G, R",Creature,"Orc, Shaman",4,3
+CSP,rare,{R}{G}{W},"G, R, W",Creature,Spirit,2,4
+CSP,uncommon,{2}{W}{U},"U, W",Instant,0,0,0
+CSP,uncommon,{1}{R}{G},"G, R",Creature,Elemental,*,3
+CSP,rare,{1}{W}{U}{B},"B, U, W",Creature,"Human, Wizard",1,4
+CSP,uncommon,{2},0,Artifact,0,0,0
+CSP,rare,{3},0,Artifact,0,0,0
+CSP,uncommon,{0},0,Artifact,0,0,0
+CSP,uncommon,{3},0,"Artifact, Creature","Phyrexian, Construct",3,4
+CSP,uncommon,{6},0,"Artifact, Creature","Phyrexian, Juggernaut",6,5
+CSP,rare,{3},0,"Artifact, Creature","Phyrexian, Construct",8,8
+CSP,rare,{5},0,Artifact,0,0,0
+CSP,uncommon,0,"G, W",Land,0,0,0
+CSP,uncommon,0,"U, W",Land,0,0,0
+CSP,rare,0,0,Land,0,0,0
+CSP,uncommon,0,"B, U",Land,0,0,0
+CSP,uncommon,0,"G, R",Land,0,0,0
+CSP,uncommon,0,0,Land,0,0,0
+CSP,rare,0,0,Land,0,0,0
+CSP,uncommon,0,"B, R",Land,0,0,0
+CSP,common,0,W,Land,Plains,0,0
+CSP,common,0,U,Land,Island,0,0
+CSP,common,0,B,Land,Swamp,0,0
+CSP,common,0,R,Land,Mountain,0,0
+CSP,common,0,G,Land,Forest,0,0
