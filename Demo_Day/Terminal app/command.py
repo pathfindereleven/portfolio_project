@@ -17,18 +17,5 @@ while x == "y":
         if (choice == "1"):
                 os.system(" python scan.py")
         if (choice == "5"):
-                os.system(" python set_querry.py")
-        if (choice == "4"):
-                os.system(" python addinventory.py") 
-        if (choice == "6"):
-                os.system(" python total_Querry.py")  
-        if (choice == "2"):
-                os.system(" python invDB_priceUpdate.py")
-        if (choice == "3"):
-                os.system(" python data_mining.py") 
-        if (choice == "7"):
-                os.system(" python invreport.py")     
-                   
-        
-        
+                os.system(" python set_querry.py")       
         x = input("continue y/n")

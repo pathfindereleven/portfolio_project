@@ -15,9 +15,8 @@ time.sleep(3)
  # add input
 seller_list = [seller, 'xyz', 'abc']
 browser.fill('SellerName', seller)
-time.sleep(1)
 browser.find_by_xpath('//*[@id="maincontentinnerpadding"]/div/div/form/div/ul/li[4]/div/input').click()
-time.sleep(5)
+#time.sleep(5)
 browser.find_by_xpath('//*[@id="maincontentinnerpadding"]/div/div[2]/div[3]/div/div[3]/button').click()
 time.sleep(3)
 
