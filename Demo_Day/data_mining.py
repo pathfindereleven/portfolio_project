@@ -40,15 +40,20 @@ for x in sset:
     mkt_df = mkt_df.reset_index(drop=True)
     mkt_df.columns = ['Name', 'Market Price']
     mkt_df['date']= datetime.today().strftime('%Y-%m-%d')
-    
+    d = datetime.today().strftime('%Y-%m-%d')                        # prvent duplicate conditional
     mkt_df['Unnamed: 0']= 2
     mkt_df = mkt_df[['Unnamed: 0', 'Name', 'Market Price', 'date']]
     price =  Path(r"C:\Users\pc\OneDrive\Desktop\portfolio_project\Demo_Day\Resources\price.db")
     con = sqlite3.connect(price)
     cur = con.cursor()
-    for row in mkt_df.itertuples():
-        insert_sql = f''' INSERT INTO '{x}_priceData' ('Unnamed: 0', Name, 'Market Price', date) VALUES ('{row[1]}',"{row[2]}",'{row[3]}','{row[4]}')'''
-        cur.execute(insert_sql)
-    con.commit()
-    print(f'{x} updated sucesfully')
+    cur.execute(f"select * from '{x}_priceData' where date = '{d}'")
+    if cur.fetchone():
+        print(f"duplicate prvented for {x}")
+    else:
+        for row in mkt_df.itertuples():
+            insert_sql = f''' INSERT INTO '{x}_priceData' ('Unnamed: 0', Name, 'Market Price', date) VALUES ('{row[1]}',"{row[2]}",'{row[3]}','{row[4]}')'''
+            cur.execute(insert_sql)
+        print(f'{x} updated sucesfully')
+    #con.commit()
+    
 con.close()
