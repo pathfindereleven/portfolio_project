@@ -23,7 +23,7 @@ for x in sset:
     browser.driver.maximize_window()
     time.sleep(7)
     req = browser.html
-    soup = BeautifulSoup(req, "html")
+    soup = BeautifulSoup(req, "html.parser")
     names= []
     title_tags = soup.find_all('a', class_ = "pdp-url")
     for i in title_tags:
@@ -54,6 +54,6 @@ for x in sset:
             insert_sql = f''' INSERT INTO '{x}_priceData' ('Unnamed: 0', Name, 'Market Price', date) VALUES ('{row[1]}',"{row[2]}",'{row[3]}','{row[4]}')'''
             cur.execute(insert_sql)
         print(f'{x} updated sucesfully')
-    #con.commit()
-    
+    con.commit()
+    con.close()
 con.close()
