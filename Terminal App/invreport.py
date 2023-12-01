@@ -40,23 +40,51 @@ if (choice == "1"):
         totals_price.append(total)
         total_cards.append(card_count)
     report_df =  pd.DataFrame(zip(sset_list, total_cards, totals_price), columns=['set', 'cards', 'totalprice'])
+    report_df['date']= datetime.today().strftime('%Y-%m-%d') 
     print(report_df)
     x = report_df['totalprice'].sum()
     print(f' total inventory market price is {x}')
+   
+   # save price report as daily values in price db
+    price =  Path("../Resources/price.db")
+    con = sqlite3.connect(price)
+    cur = con.cursor()
+    x = datetime.today().strftime('%Y-%m-%d')
+    cur.execute(f"select * from inv_priceData where date = '{x}'")   # prevent duplicate data
+    if cur.fetchone():
+        print("duplicate prvented")
+    else:                                                           # write data to db
+        for row in report_df.itertuples():
+            insert_sql = f''' INSERT INTO 'inv_priceData' ( 'set', cards, price, date) VALUES ('{row[1]}',"{row[2]}",'{row[3]}','{row[4]}')'''
+            cur.execute(insert_sql)
+            con.commit()
+        print('price report recorded')
+   
     # create pie graph df of top 7 and combine all other data to other
     pie_df = report_df.sort_values(by='totalprice', ascending=False)
     pie_df2 = pie_df.iloc[0:7] 
     other = pie_df.iloc[7:len(pie_df)]
     otherprice= other["totalprice"].sum()
     othercards = other["cards"].sum()
-    pie_df2.loc[-1] = ['other', othercards, otherprice]
+    pie_df2.loc[-1] = ['other', othercards, otherprice, datetime.today() ]
     my_data = pie_df2['totalprice']
     my_labels = pie_df2['set'] 
     plt.pie(my_data, labels=my_labels, autopct="%1.1f%%", radius =1.4)
 
     plt.savefig("..\Resources\pie.png")
     os.startfile("..\Resources\pie.png")
+    plt.figure().clear()
 
+    ###### Create inventory value vs time line graph
+    db_df = pd.read_sql_query(f"SELECT * FROM 'inv_priceData'", con)
+    day_df =  db_df.drop('set', axis=1)
+    day_df = day_df.groupby(['date']).sum()
+    df = day_df.copy()
+    df.rename(columns={df.columns[1]: 'date'})
+    df["Date"]= df.index
+    plt.plot(df['Date'], df['price'], color='red', label= "Total Inventory Value")
+    plt.savefig('..\Resources\invreg.png')
+    os.startfile("..\Resources\invreg.png")
 ### regresion report
 if (choice == "2"):
     dbtable = ['innistrad-midnight-hunt', '10th-edition', 'the-brothers-war', 'dragons-maze', 'dominaria-united', 'throne-of-eldraine', 'gatecrash', 'march-of-the-machine-the-aftermath', 'march-of-the-machine', 'kamigawa-neon-dynasty', 'phyrexia-all-will-be-one', 'return-to-ravnica', 'streets-of-new-capenna', 'innistrad-crimson-vow', 'wilds-of-eldraine']

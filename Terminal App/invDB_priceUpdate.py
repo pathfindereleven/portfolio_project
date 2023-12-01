@@ -26,7 +26,7 @@ for i in range(len(loop_key)):
     browser.driver.maximize_window()
     time.sleep(6)
     req = browser.html
-    soup = BeautifulSoup(req, "html")
+    soup = BeautifulSoup(req, "html.parser")
 # scrape data
     names= []
     title_tags = soup.find_all('a', class_ = "pdp-url")
