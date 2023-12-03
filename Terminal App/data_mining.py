@@ -48,6 +48,6 @@ for x in sset:
             insert_sql = f''' INSERT INTO '{x}_priceData' ('Unnamed: 0', Name, 'Market Price', date) VALUES ('{row[1]}',"{row[2]}",'{row[3]}','{row[4]}')'''
             cur.execute(insert_sql)
         print(f'{x} updated sucesfully')
-    con.commit()
-    con.close()
+        con.commit()
+    
 con.close()

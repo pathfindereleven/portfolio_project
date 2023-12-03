@@ -8,8 +8,8 @@ x ="y"
 while x == "y":
 
 
-        print("seller report [1]                 Querry set [5]")
-        print("inventory Db update [2]           Querry all inventory [6]")
+        print("seller report [1]                 Query set [5]")
+        print("inventory Db update [2]           Query all inventory [6]")
         print("price collector [3]               Inventory report [7]    ")
         print("add inventory [4]")
         choice = input( "your command?")
@@ -17,11 +17,11 @@ while x == "y":
         if (choice == "1"):
                 os.system(" python scan.py")
         if (choice == "5"):
-                os.system(" python set_querry.py")
+                os.system(" python set_query.py")
         if (choice == "4"):
                 os.system(" python addinventory.py") 
         if (choice == "6"):
-                os.system(" python total_Querry.py")  
+                os.system(" python total_Query.py")  
         if (choice == "2"):
                 os.system(" python invDB_priceUpdate.py")
         if (choice == "3"):
