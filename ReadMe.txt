@@ -20,8 +20,8 @@ This file contains;
 					TCG player market price
 	
 
-	Seller_Scan - contains a notebook to scrape the listed card price of a seller’s inventory on TCG player and compare it to market price, 
-				saves data and reports the cards most under market price.
+	Seller_Scan - contains a notebook to scrape the listed card price of a seller’s inventory on TCG player and compare it to market price, saves data and reports the cards most under market price.
+		API and selenium versions.
 	
 
 	Reports - Set Regression is a notebook used to access collected price data and show how a card set is moving in price. shows graphs and r values.
