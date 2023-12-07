@@ -8,7 +8,7 @@ from datetime import datetime
 import sqlite3
 
 
-querry_dic = {'MID':'innistrad-midnight-hunt','10E':'10th-edition', 'BRO':'the-brothers-war', 'DGM':'dragons-maze',
+querry_dic = {'BNG': 'born-of-the-gods','THB': 'theros-beyond-death','AFR': 'adventures-in-the-forgotten-realms' , 'MID':'innistrad-midnight-hunt','10E':'10th-edition', 'BRO':'the-brothers-war', 'DGM':'dragons-maze',
  'DMU':'dominaria-united', 'ELD':'throne-of-eldraine', 'GTC':'gatecrash', 'MAT':'march-of-the-machine-the-aftermath', 
    'MOM':'march-of-the-machine', 'NEO':'kamigawa-neon-dynasty', 'ONE':'phyrexia-all-will-be-one', 'RTR':'return-to-ravnica',
   'SNC':'streets-of-new-capenna', 'VOW':'innistrad-crimson-vow', 'WOE': 'wilds-of-eldraine'}

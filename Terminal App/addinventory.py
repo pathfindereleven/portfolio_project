@@ -19,7 +19,7 @@ while y == 'y':
     ans1 = input('What set')
     while x == 'y':
             ans2 = input('what is card name "LIKE"')  # search card name
-            name_qry = pd.read_sql_query(f"SELECT * from {ans1} WHERE name LIKE '%{ans2}%'", con)
+            name_qry = pd.read_sql_query(f"SELECT * from '{ans1}' WHERE name LIKE '%{ans2}%'", con)
             print(name_qry)
 
             # confirm card
@@ -27,8 +27,8 @@ while y == 'y':
             cardname = name_qry.iloc[confirm, 1] 
             condition = input( 'enter condition; nm , lp, p, foil' )
             quantity = input("enter quantity to add to db")
-            q = cur.execute(f'UPDATE {ans1} set {condition} = {condition} + {quantity} Where name = "{cardname}"')
-            v = cur.execute(f'UPDATE {ans1} set quantity = quantity + {quantity} Where name = "{cardname}"')
+            q = cur.execute(f'UPDATE "{ans1}" set {condition} = {condition} + {quantity} Where name = "{cardname}"')
+            v = cur.execute(f'UPDATE "{ans1}" set quantity = quantity + {quantity} Where name = "{cardname}"')
             con.commit()
             
             x = input('continue working with set? y/n')
