@@ -1,0 +1,270 @@
+setCode,name,rarity,manaCost,colorIdentity,types,subtypes,power,toughness,quantity,nm,lp,p,foil,text
+KTK,Abzan Battle Priest,uncommon,{3}{W},W,Creature,"Human, Cleric",3,2,0,0,0,0,0,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink."
+KTK,Abzan Falconer,uncommon,{2}{W},W,Creature,"Human, Soldier",2,3,0,0,0,0,0,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying."
+KTK,Ainok Bond-Kin,common,{1}{W},W,Creature,"Dog, Soldier",2,1,0,0,0,0,0,"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has first strike."
+KTK,Alabaster Kirin,common,{3}{W},W,Creature,Kirin,2,3,0,0,0,0,0,"Flying, vigilance"
+KTK,Brave the Sands,uncommon,{1}{W},W,Enchantment,0,0,0,0,0,0,0,0,Creatures you control have vigilance.\nEach creature you control can block an additional creature each combat.
+KTK,Dazzling Ramparts,uncommon,{4}{W},W,Creature,Wall,0,7,0,0,0,0,0,"Defender\n{1}{W}, {T}: Tap target creature."
+KTK,Defiant Strike,common,{W},W,Instant,0,0,0,0,0,0,0,0,Target creature gets +1/+0 until end of turn.\nDraw a card.
+KTK,End Hostilities,rare,{3}{W}{W},W,Sorcery,0,0,0,0,0,0,0,0,Destroy all creatures and all permanents attached to creatures.
+KTK,Erase,common,{W},W,Instant,0,0,0,0,0,0,0,0,Exile target enchantment.
+KTK,Feat of Resistance,common,{1}{W},W,Instant,0,0,0,0,0,0,0,0,"Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn. (It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)"
+KTK,Firehoof Cavalry,common,{W},"R, W",Creature,"Human, Berserker",1,1,0,0,0,0,0,{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.
+KTK,Herald of Anafenza,rare,{W},W,Creature,"Human, Soldier",1,2,0,0,0,0,0,"Outlast {2}{W} ({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nWhenever you activate Herald of Anafenza's outlast ability, create a 1/1 white Warrior creature token."
+KTK,High Sentinels of Arashin,rare,{3}{W},W,Creature,"Bird, Soldier",3,4,0,0,0,0,0,Flying\nHigh Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.\n{3}{W}: Put a +1/+1 counter on target creature.
+KTK,Jeskai Student,common,{1}{W},W,Creature,"Human, Monk",1,3,0,0,0,0,0,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,Kill Shot,common,{2}{W},W,Instant,0,0,0,0,0,0,0,0,Destroy target attacking creature.
+KTK,Mardu Hateblade,common,{W},"B, W",Creature,"Human, Warrior",1,1,0,0,0,0,0,{B}: Mardu Hateblade gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+KTK,Mardu Hordechief,common,{2}{W},W,Creature,"Human, Warrior",2,3,0,0,0,0,0,"Raid — When Mardu Hordechief enters the battlefield, if you attacked this turn, create a 1/1 white Warrior creature token."
+KTK,Master of Pearls,rare,{1}{W},W,Creature,"Human, Monk",2,2,0,0,0,0,0,"Morph {3}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn."
+KTK,Rush of Battle,common,{3}{W},W,Sorcery,0,0,0,0,0,0,0,0,Creatures you control get +2/+1 until end of turn. Warrior creatures you control gain lifelink until end of turn. (Damage dealt by those Warriors also causes their controller to gain that much life.)
+KTK,Sage-Eye Harrier,common,{4}{W},W,Creature,"Bird, Warrior",1,5,0,0,0,0,0,Flying\nMorph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Salt Road Patrol,common,{3}{W},W,Creature,"Human, Scout",2,5,0,0,0,0,0,"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+KTK,Seeker of the Way,uncommon,{1}{W},W,Creature,"Human, Warrior",2,2,0,0,0,0,0,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn."
+KTK,Siegecraft,common,{3}{W},W,Enchantment,Aura,0,0,0,0,0,0,0,Enchant creature\nEnchanted creature gets +2/+4.
+KTK,Smite the Monstrous,common,{3}{W},W,Instant,0,0,0,0,0,0,0,0,Destroy target creature with power 4 or greater.
+KTK,Suspension Field,uncommon,{1}{W},W,Enchantment,0,0,0,0,0,0,0,0,"When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)"
+KTK,Take Up Arms,uncommon,{4}{W},W,Instant,0,0,0,0,0,0,0,0,Create three 1/1 white Warrior creature tokens.
+KTK,Timely Hordemate,uncommon,{3}{W},W,Creature,"Human, Warrior",3,2,0,0,0,0,0,"Raid — When Timely Hordemate enters the battlefield, if you attacked this turn, return target creature card with mana value 2 or less from your graveyard to the battlefield."
+KTK,Venerable Lammasu,uncommon,{6}{W},W,Creature,Lammasu,5,4,0,0,0,0,0,Flying
+KTK,War Behemoth,common,{5}{W},W,Creature,Beast,3,6,0,0,0,0,0,Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Watcher of the Roost,uncommon,{2}{W},W,Creature,"Bird, Soldier",2,1,0,0,0,0,0,"Flying\nMorph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Watcher of the Roost is turned face up, you gain 2 life."
+KTK,Wingmate Roc,mythic,{3}{W}{W},W,Creature,Bird,3,4,0,0,0,0,0,"Flying\nRaid — When Wingmate Roc enters the battlefield, if you attacked this turn, create a 3/4 white Bird creature token with flying.\nWhenever Wingmate Roc attacks, you gain 1 life for each attacking creature."
+KTK,Blinding Spray,uncommon,{4}{U},U,Instant,0,0,0,0,0,0,0,0,Creatures your opponents control get -4/-0 until end of turn.\nDraw a card.
+KTK,Cancel,common,{1}{U}{U},U,Instant,0,0,0,0,0,0,0,0,Counter target spell.
+KTK,Clever Impersonator,mythic,{2}{U}{U},U,Creature,Shapeshifter,0,0,0,0,0,0,0,You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.
+KTK,Crippling Chill,common,{2}{U},U,Instant,0,0,0,0,0,0,0,0,Tap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.
+KTK,Dig Through Time,rare,{6}{U}{U},U,Instant,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nLook at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
+KTK,Disdainful Stroke,common,{1}{U},U,Instant,0,0,0,0,0,0,0,0,Counter target spell with mana value 4 or greater.
+KTK,Dragon's Eye Savants,uncommon,{1}{U},U,Creature,"Human, Wizard",0,6,0,0,0,0,0,"Morph—Reveal a blue card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Dragon's Eye Savants is turned face up, look at target opponent's hand."
+KTK,Embodiment of Spring,common,{U},"G, U",Creature,Elemental,0,3,0,0,0,0,0,"{1}{G}, {T}, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."
+KTK,Force Away,common,{1}{U},U,Instant,0,0,0,0,0,0,0,0,"Return target creature to its owner's hand.\nFerocious — If you control a creature with power 4 or greater, you may draw a card. If you do, discard a card."
+KTK,Glacial Stalker,common,{5}{U},U,Creature,Elemental,4,5,0,0,0,0,0,Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Icy Blast,rare,{X}{U},U,Instant,0,0,0,0,0,0,0,0,"Tap X target creatures.\nFerocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps."
+KTK,Jeskai Elder,uncommon,{1}{U},U,Creature,"Human, Monk",1,2,0,0,0,0,0,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card."
+KTK,Jeskai Windscout,common,{2}{U},U,Creature,"Bird, Scout",2,1,0,0,0,0,0,"Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,Kheru Spellsnatcher,rare,{3}{U},U,Creature,"Naga, Wizard",3,3,0,0,0,0,0,"Morph {4}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled."
+KTK,Mistfire Weaver,uncommon,{3}{U},U,Creature,"Djinn, Wizard",3,1,0,0,0,0,0,"Flying\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn."
+KTK,Monastery Flock,common,{2}{U},U,Creature,Bird,0,5,0,0,0,0,0,"Defender, flying\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+KTK,Mystic of the Hidden Way,common,{4}{U},U,Creature,"Human, Monk",3,2,0,0,0,0,0,Mystic of the Hidden Way can't be blocked.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Pearl Lake Ancient,mythic,{5}{U}{U},U,Creature,Leviathan,6,7,0,0,0,0,0,"Flash\nThis spell can't be countered.\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nReturn three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand."
+KTK,Quiet Contemplation,uncommon,{2}{U},U,Enchantment,0,0,0,0,0,0,0,0,"Whenever you cast a noncreature spell, you may pay {1}. If you do, tap target creature an opponent controls and it doesn't untap during its controller's next untap step."
+KTK,Riverwheel Aerialists,uncommon,{5}{U},U,Creature,"Djinn, Monk",4,5,0,0,0,0,0,"Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,Scaldkin,common,{3}{U},"R, U",Creature,Elemental,2,2,0,0,0,0,0,"Flying\n{2}{R}, Sacrifice Scaldkin: It deals 2 damage to any target."
+KTK,Scion of Glaciers,uncommon,{2}{U}{U},U,Creature,Elemental,2,5,0,0,0,0,0,{U}: Scion of Glaciers gets +1/-1 until end of turn.
+KTK,Set Adrift,uncommon,{5}{U},U,Sorcery,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nPut target nonland permanent on top of its owner's library.
+KTK,Singing Bell Strike,common,{1}{U},U,Enchantment,Aura,0,0,0,0,0,0,0,"Enchant creature\nWhen Singing Bell Strike enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nEnchanted creature has ""{6}: Untap this creature."""
+KTK,Stubborn Denial,uncommon,{U},U,Instant,0,0,0,0,0,0,0,0,"Counter target noncreature spell unless its controller pays {1}.\nFerocious — If you control a creature with power 4 or greater, counter that spell instead."
+KTK,Taigam's Scheming,common,{1}{U},U,Sorcery,0,0,0,0,0,0,0,0,"Surveil 5. (Look at the top five cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+KTK,Thousand Winds,rare,{4}{U}{U},U,Creature,Elemental,5,6,0,0,0,0,0,"Flying\nMorph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Thousand Winds is turned face up, return all other tapped creatures to their owners' hands."
+KTK,Treasure Cruise,common,{7}{U},U,Sorcery,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDraw three cards.
+KTK,Waterwhirl,uncommon,{4}{U}{U},U,Instant,0,0,0,0,0,0,0,0,Return up to two target creatures to their owners' hands.
+KTK,Weave Fate,common,{3}{U},U,Instant,0,0,0,0,0,0,0,0,Draw two cards.
+KTK,Wetland Sambar,common,{1}{U},U,Creature,Elk,2,1,0,0,0,0,0,0
+KTK,Whirlwind Adept,common,{4}{U},U,Creature,"Djinn, Monk",4,2,0,0,0,0,0,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,Bellowing Saddlebrute,uncommon,{3}{B},B,Creature,"Orc, Warrior",4,5,0,0,0,0,0,"Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life unless you attacked this turn."
+KTK,Bitter Revelation,common,{3}{B},B,Sorcery,0,0,0,0,0,0,0,0,Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.
+KTK,Bloodsoaked Champion,rare,{B},B,Creature,"Human, Warrior",2,1,0,0,0,0,0,Bloodsoaked Champion can't block.\nRaid — {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate only if you attacked this turn.
+KTK,Dead Drop,uncommon,{9}{B},B,Sorcery,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTarget player sacrifices two creatures.
+KTK,Debilitating Injury,common,{1}{B},B,Enchantment,Aura,0,0,0,0,0,0,0,Enchant creature\nEnchanted creature gets -2/-2.
+KTK,Despise,uncommon,{B},B,Sorcery,0,0,0,0,0,0,0,0,Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+KTK,Disowned Ancestor,common,{B},B,Creature,"Spirit, Warrior",0,4,0,0,0,0,0,"Outlast {1}{B} ({1}{B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+KTK,Dutiful Return,common,{3}{B},B,Sorcery,0,0,0,0,0,0,0,0,Return up to two target creature cards from your graveyard to your hand.
+KTK,Empty the Pits,mythic,{X}{X}{B}{B}{B}{B},B,Instant,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nCreate X tapped 2/2 black Zombie creature tokens.
+KTK,Grim Haruspex,rare,{2}{B},B,Creature,"Human, Wizard",3,2,0,0,0,0,0,"Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card."
+KTK,Gurmag Swiftwing,uncommon,{1}{B},B,Creature,Bat,1,2,0,0,0,0,0,"Flying, first strike, haste"
+KTK,Kheru Bloodsucker,uncommon,{2}{B},B,Creature,Vampire,2,2,0,0,0,0,0,"Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.\n{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker."
+KTK,Kheru Dreadmaw,common,{4}{B},"B, G",Creature,"Zombie, Crocodile",4,4,0,0,0,0,0,"Defender\n{1}{G}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness."
+KTK,Krumar Bond-Kin,common,{3}{B}{B},B,Creature,"Orc, Warrior",5,3,0,0,0,0,0,Morph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Mardu Skullhunter,common,{1}{B},B,Creature,"Human, Warrior",2,1,0,0,0,0,0,"Mardu Skullhunter enters the battlefield tapped.\nRaid — When Mardu Skullhunter enters the battlefield, if you attacked this turn, target opponent discards a card."
+KTK,Mer-Ek Nightblade,uncommon,{3}{B},B,Creature,"Orc, Assassin",2,3,0,0,0,0,0,"Outlast {B} ({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has deathtouch."
+KTK,Molting Snakeskin,common,{B},B,Enchantment,Aura,0,0,0,0,0,0,0,"Enchant creature\nEnchanted creature gets +2/+0 and has ""{2}{B}: Regenerate this creature."""
+KTK,Murderous Cut,uncommon,{4}{B},B,Instant,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDestroy target creature.
+KTK,Necropolis Fiend,rare,{7}{B}{B},B,Creature,Demon,4,5,0,0,0,0,0,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn."
+KTK,Raiders' Spoils,uncommon,{3}{B},B,Enchantment,0,0,0,0,0,0,0,0,"Creatures you control get +1/+0.\nWhenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card."
+KTK,Rakshasa's Secret,common,{2}{B},B,Sorcery,0,0,0,0,0,0,0,0,Target opponent discards two cards. Mill two cards.
+KTK,Retribution of the Ancients,rare,{B},B,Enchantment,0,0,0,0,0,0,0,0,"{B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn."
+KTK,Rite of the Serpent,common,{4}{B}{B},B,Sorcery,0,0,0,0,0,0,0,0,"Destroy target creature. If that creature had a +1/+1 counter on it, create a 1/1 green Snake creature token."
+KTK,Rotting Mastodon,common,{4}{B},B,Creature,"Zombie, Elephant",2,8,0,0,0,0,0,0
+KTK,Ruthless Ripper,uncommon,{B},B,Creature,"Human, Assassin",1,1,0,0,0,0,0,"Deathtouch\nMorph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Ruthless Ripper is turned face up, target player loses 2 life."
+KTK,Shambling Attendants,common,{7}{B},B,Creature,Zombie,3,5,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+KTK,Sidisi's Pet,common,{3}{B},B,Creature,"Zombie, Ape",1,4,0,0,0,0,0,Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nMorph {1}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Sultai Scavenger,common,{5}{B},B,Creature,"Bird, Warrior",3,3,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying
+KTK,Swarm of Bloodflies,uncommon,{4}{B},B,Creature,Insect,0,0,0,0,0,0,0,"Flying\nSwarm of Bloodflies enters the battlefield with two +1/+1 counters on it.\nWhenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies."
+KTK,Throttle,common,{4}{B},B,Instant,0,0,0,0,0,0,0,0,Target creature gets -4/-4 until end of turn.
+KTK,Unyielding Krumar,common,{3}{B},"B, W",Creature,"Orc, Warrior",3,3,0,0,0,0,0,{1}{W}: Unyielding Krumar gains first strike until end of turn.
+KTK,Act of Treason,common,{2}{R},R,Sorcery,0,0,0,0,0,0,0,0,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+KTK,Ainok Tracker,common,{5}{R},R,Creature,"Dog, Scout",3,3,0,0,0,0,0,First strike\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Arc Lightning,uncommon,{2}{R},R,Sorcery,0,0,0,0,0,0,0,0,"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+KTK,Arrow Storm,common,{3}{R}{R},R,Sorcery,0,0,0,0,0,0,0,0,"Arrow Storm deals 4 damage to any target.\nRaid — If you attacked this turn, instead Arrow Storm deals 5 damage to that permanent or player and the damage can't be prevented."
+KTK,Ashcloud Phoenix,mythic,{2}{R}{R},R,Creature,Phoenix,4,1,0,0,0,0,0,"Flying\nWhen Ashcloud Phoenix dies, return it to the battlefield face down under your control.\nMorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Ashcloud Phoenix is turned face up, it deals 2 damage to each player."
+KTK,Barrage of Boulders,common,{2}{R},R,Sorcery,0,0,0,0,0,0,0,0,"Barrage of Boulders deals 1 damage to each creature you don't control.\nFerocious — If you control a creature with power 4 or greater, creatures can't block this turn."
+KTK,Bloodfire Expert,common,{2}{R},R,Creature,"Efreet, Monk",3,1,0,0,0,0,0,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,Bloodfire Mentor,common,{2}{R},"R, U",Creature,"Efreet, Shaman",0,5,0,0,0,0,0,"{2}{U}, {T}: Draw a card, then discard a card."
+KTK,Bring Low,common,{3}{R},R,Instant,0,0,0,0,0,0,0,0,"Bring Low deals 3 damage to target creature. If that creature has a +1/+1 counter on it, Bring Low deals 5 damage to it instead."
+KTK,Burn Away,uncommon,{4}{R},R,Instant,0,0,0,0,0,0,0,0,"Burn Away deals 6 damage to target creature. When that creature dies this turn, exile its controller's graveyard."
+KTK,Canyon Lurkers,common,{4}{R},R,Creature,"Human, Rogue",5,2,0,0,0,0,0,Morph {3}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Crater's Claws,rare,{X}{R},R,Sorcery,0,0,0,0,0,0,0,0,Crater's Claws deals X damage to any target.\nFerocious — Crater's Claws deals X plus 2 damage instead if you control a creature with power 4 or greater.
+KTK,Dragon Grip,uncommon,{2}{R},R,Enchantment,Aura,0,0,0,0,0,0,0,"Ferocious — If you control a creature with power 4 or greater, you may cast Dragon Grip as though it had flash. (You may cast it any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +2/+0 and has first strike."
+KTK,Dragon-Style Twins,rare,{3}{R}{R},R,Creature,"Human, Monk",3,3,0,0,0,0,0,"Double strike\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,Goblinslide,uncommon,{2}{R},R,Enchantment,0,0,0,0,0,0,0,0,"Whenever you cast a noncreature spell, you may pay {1}. If you do, create a 1/1 red Goblin creature token with haste."
+KTK,Horde Ambusher,uncommon,{1}{R},R,Creature,"Human, Berserker",2,2,0,0,0,0,0,"Whenever Horde Ambusher blocks, it deals 1 damage to you.\nMorph—Reveal a red card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Horde Ambusher is turned face up, target creature can't block this turn."
+KTK,Hordeling Outburst,uncommon,{1}{R}{R},R,Sorcery,0,0,0,0,0,0,0,0,Create three 1/1 red Goblin creature tokens.
+KTK,Howl of the Horde,rare,{2}{R},R,Sorcery,0,0,0,0,0,0,0,0,"When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\nRaid — If you attacked this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy."
+KTK,Jeering Instigator,rare,{1}{R},R,Creature,"Goblin, Rogue",2,1,0,0,0,0,0,"Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn."
+KTK,Leaping Master,common,{1}{R},"R, W",Creature,"Human, Monk",2,1,0,0,0,0,0,{2}{W}: Leaping Master gains flying until end of turn.
+KTK,Mardu Blazebringer,uncommon,{2}{R},R,Creature,"Ogre, Warrior",4,4,0,0,0,0,0,"When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat."
+KTK,Mardu Heart-Piercer,uncommon,{3}{R},R,Creature,"Human, Archer",2,3,0,0,0,0,0,"Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked this turn, Mardu Heart-Piercer deals 2 damage to any target."
+KTK,Mardu Warshrieker,common,{3}{R},"B, R, W",Creature,"Orc, Shaman",3,3,0,0,0,0,0,"Raid — When Mardu Warshrieker enters the battlefield, if you attacked this turn, add {R}{W}{B}."
+KTK,Monastery Swiftspear,uncommon,{R},R,Creature,"Human, Monk",1,2,0,0,0,0,0,"Haste\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+KTK,"Sarkhan, the Dragonspeaker",mythic,{3}{R}{R},R,Planeswalker,Sarkhan,0,0,0,0,0,0,0,"[+1]: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)\n[−3]: Sarkhan, the Dragonspeaker deals 4 damage to target creature.\n[−6]: You get an emblem with ""At the beginning of your draw step, draw two additional cards"" and ""At the beginning of your end step, discard your hand."""
+KTK,Shatter,common,{1}{R},R,Instant,0,0,0,0,0,0,0,0,Destroy target artifact.
+KTK,Summit Prowler,common,{2}{R}{R},R,Creature,Yeti,4,3,0,0,0,0,0,0
+KTK,Swift Kick,common,{3}{R},R,Instant,0,0,0,0,0,0,0,0,Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.
+KTK,Tormenting Voice,common,{1}{R},R,Sorcery,0,0,0,0,0,0,0,0,"As an additional cost to cast this spell, discard a card.\nDraw two cards."
+KTK,Trumpet Blast,common,{2}{R},R,Instant,0,0,0,0,0,0,0,0,Attacking creatures get +2/+0 until end of turn.
+KTK,Valley Dasher,common,{1}{R},R,Creature,"Human, Berserker",2,2,0,0,0,0,0,Haste\nValley Dasher attacks each combat if able.
+KTK,War-Name Aspirant,uncommon,{1}{R},R,Creature,"Human, Warrior",2,1,0,0,0,0,0,Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on it if you attacked this turn.\nWar-Name Aspirant can't be blocked by creatures with power 1 or less.
+KTK,Alpine Grizzly,common,{2}{G},G,Creature,Bear,4,2,0,0,0,0,0,0
+KTK,Archers' Parapet,common,{1}{G},"B, G",Creature,Wall,0,5,0,0,0,0,0,"Defender\n{1}{B}, {T}: Each opponent loses 1 life."
+KTK,Awaken the Bear,common,{2}{G},G,Instant,0,0,0,0,0,0,0,0,Target creature gets +3/+3 and gains trample until end of turn.
+KTK,Become Immense,uncommon,{5}{G},G,Instant,0,0,0,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTarget creature gets +6/+6 until end of turn.
+KTK,Dragonscale Boon,common,{3}{G},G,Instant,0,0,0,0,0,0,0,0,Put two +1/+1 counters on target creature and untap it.
+KTK,Feed the Clan,common,{1}{G},G,Instant,0,0,0,0,0,0,0,0,You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.
+KTK,Hardened Scales,rare,{G},G,Enchantment,0,0,0,0,0,0,0,0,"If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
+KTK,Heir of the Wilds,uncommon,{1}{G},G,Creature,"Human, Warrior",2,2,0,0,0,0,0,"Deathtouch\nFerocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn."
+KTK,Highland Game,common,{1}{G},G,Creature,Elk,2,1,0,0,0,0,0,"When Highland Game dies, you gain 2 life."
+KTK,Hooded Hydra,mythic,{X}{G}{G},G,Creature,"Snake, Hydra",0,0,0,0,0,0,0,"Hooded Hydra enters the battlefield with X +1/+1 counters on it.\nWhen Hooded Hydra dies, create a 1/1 green Snake creature token for each +1/+1 counter on it.\nMorph {3}{G}{G}\nAs Hooded Hydra is turned face up, put five +1/+1 counters on it."
+KTK,Hooting Mandrills,common,{5}{G},G,Creature,Ape,4,4,0,0,0,0,0,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTrample
+KTK,Incremental Growth,uncommon,{3}{G}{G},G,Sorcery,0,0,0,0,0,0,0,0,"Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature."
+KTK,Kin-Tree Warden,common,{G},G,Creature,"Human, Warrior",1,1,0,0,0,0,0,{2}: Regenerate Kin-Tree Warden.\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Longshot Squad,common,{3}{G},G,Creature,"Dog, Archer",3,3,0,0,0,0,0,"Outlast {1}{G} ({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has reach. (A creature with reach can block creatures with flying.)"
+KTK,Meandering Towershell,rare,{3}{G}{G},G,Creature,Turtle,5,9,0,0,0,0,0,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn."
+KTK,Naturalize,common,{1}{G},G,Instant,0,0,0,0,0,0,0,0,Destroy target artifact or enchantment.
+KTK,Pine Walker,uncommon,{3}{G}{G},G,Creature,Elemental,5,5,0,0,0,0,0,"Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever Pine Walker or another creature you control is turned face up, untap that creature."
+KTK,Rattleclaw Mystic,rare,{1}{G},"G, R, U",Creature,"Human, Shaman",2,1,0,0,0,0,0,"{T}: Add {G}, {U}, or {R}.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Rattleclaw Mystic is turned face up, add {G}{U}{R}."
+KTK,Roar of Challenge,uncommon,{2}{G},G,Sorcery,0,0,0,0,0,0,0,0,All creatures able to block target creature this turn do so.\nFerocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.
+KTK,Sagu Archer,common,{4}{G},G,Creature,"Naga, Archer",2,5,0,0,0,0,0,Reach (This creature can block creatures with flying.)\nMorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Savage Punch,common,{1}{G},G,Sorcery,0,0,0,0,0,0,0,0,Target creature you control fights target creature you don't control.\nFerocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.
+KTK,Scout the Borders,common,{2}{G},G,Sorcery,0,0,0,0,0,0,0,0,Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
+KTK,See the Unwritten,mythic,{4}{G}{G},G,Sorcery,0,0,0,0,0,0,0,0,"Reveal the top eight cards of your library. You may put a creature card from among them onto the battlefield. Put the rest into your graveyard.\nFerocious — If you control a creature with power 4 or greater, you may put two creature cards onto the battlefield instead of one."
+KTK,Seek the Horizon,uncommon,{3}{G},G,Sorcery,0,0,0,0,0,0,0,0,"Search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle."
+KTK,Smoke Teller,common,{1}{G},"G, U",Creature,"Human, Shaman",2,2,0,0,0,0,0,{1}{U}: Look at target face-down creature.
+KTK,Sultai Flayer,uncommon,{3}{G},G,Creature,"Naga, Shaman",3,4,0,0,0,0,0,"Whenever a creature you control with toughness 4 or greater dies, you gain 4 life."
+KTK,Temur Charger,uncommon,{1}{G},G,Creature,Horse,3,1,0,0,0,0,0,"Morph—Reveal a green card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Temur Charger is turned face up, target creature gains trample until end of turn."
+KTK,Trail of Mystery,rare,{1}{G},G,Enchantment,0,0,0,0,0,0,0,0,"Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nWhenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn."
+KTK,Tusked Colossodon,common,{4}{G}{G},G,Creature,Beast,6,5,0,0,0,0,0,0
+KTK,Tuskguard Captain,uncommon,{2}{G},G,Creature,"Human, Warrior",2,3,0,0,0,0,0,"Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has trample."
+KTK,Windstorm,uncommon,{X}{G},G,Instant,0,0,0,0,0,0,0,0,Windstorm deals X damage to each creature with flying.
+KTK,Woolly Loxodon,common,{5}{G}{G},G,Creature,"Elephant, Warrior",6,7,0,0,0,0,0,Morph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Abomination of Gudul,common,{3}{B}{G}{U},"B, G, U",Creature,Horror,3,4,0,0,0,0,0,"Flying\nWhenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.\nMorph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+KTK,Abzan Ascendancy,rare,{W}{B}{G},"B, G, W",Enchantment,0,0,0,0,0,0,0,0,"When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control.\nWhenever a nontoken creature you control dies, create a 1/1 white Spirit creature token with flying."
+KTK,Abzan Charm,uncommon,{W}{B}{G},"B, G, W",Instant,0,0,0,0,0,0,0,0,Choose one —\n• Exile target creature with power 3 or greater.\n• You draw two cards and you lose 2 life.\n• Distribute two +1/+1 counters among one or two target creatures.
+KTK,Abzan Guide,common,{3}{W}{B}{G},"B, G, W",Creature,"Human, Warrior",4,4,0,0,0,0,0,Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nMorph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,"Anafenza, the Foremost",mythic,{W}{B}{G},"B, G, W",Creature,"Human, Soldier",4,4,0,0,0,0,0,"Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control.\nIf a nontoken creature an opponent owns would die or a creature card not on the battlefield would be put into an opponent's graveyard, exile that card instead."
+KTK,Ankle Shanker,rare,{2}{R}{W}{B},"B, R, W",Creature,"Goblin, Berserker",2,2,0,0,0,0,0,"Haste\nWhenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn."
+KTK,Armament Corps,uncommon,{2}{W}{B}{G},"B, G, W",Creature,"Human, Soldier",4,4,0,0,0,0,0,"When Armament Corps enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control."
+KTK,Avalanche Tusker,rare,{2}{G}{U}{R},"G, R, U",Creature,"Elephant, Warrior",6,4,0,0,0,0,0,"Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able."
+KTK,Bear's Companion,uncommon,{2}{G}{U}{R},"G, R, U",Creature,"Human, Warrior",2,2,0,0,0,0,0,"When Bear's Companion enters the battlefield, create a 4/4 green Bear creature token."
+KTK,Butcher of the Horde,rare,{1}{R}{W}{B},"B, R, W",Creature,Demon,5,4,0,0,0,0,0,"Flying\nSacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn."
+KTK,Chief of the Edge,uncommon,{W}{B},"B, W",Creature,"Human, Warrior",3,2,0,0,0,0,0,Other Warrior creatures you control get +1/+0.
+KTK,Chief of the Scale,uncommon,{W}{B},"B, W",Creature,"Human, Warrior",2,3,0,0,0,0,0,Other Warrior creatures you control get +0/+1.
+KTK,Crackling Doom,rare,{R}{W}{B},"B, R, W",Instant,0,0,0,0,0,0,0,0,Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures that player controls.
+KTK,Death Frenzy,uncommon,{3}{B}{G},"B, G",Sorcery,0,0,0,0,0,0,0,0,"All creatures get -2/-2 until end of turn. Whenever a creature dies this turn, you gain 1 life."
+KTK,Deflecting Palm,rare,{R}{W},"R, W",Instant,0,0,0,0,0,0,0,0,"The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller."
+KTK,Duneblast,rare,{4}{W}{B}{G},"B, G, W",Sorcery,0,0,0,0,0,0,0,0,Choose up to one creature. Destroy the rest.
+KTK,Efreet Weaponmaster,common,{3}{U}{R}{W},"R, U, W",Creature,"Efreet, Monk",4,3,0,0,0,0,0,"First strike\nWhen Efreet Weaponmaster enters the battlefield or is turned face up, another target creature you control gets +3/+0 until end of turn.\nMorph {2}{U}{R}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+KTK,Flying Crane Technique,rare,{3}{U}{R}{W},"R, U, W",Instant,0,0,0,0,0,0,0,0,Untap all creatures you control. They gain flying and double strike until end of turn.
+KTK,Highspire Mantis,uncommon,{2}{R}{W},"R, W",Creature,Insect,3,3,0,0,0,0,0,"Flying, trample"
+KTK,Icefeather Aven,uncommon,{G}{U},"G, U",Creature,"Bird, Shaman",2,2,0,0,0,0,0,"Flying\nMorph {1}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Icefeather Aven is turned face up, you may return another target creature to its owner's hand."
+KTK,Ivorytusk Fortress,rare,{2}{W}{B}{G},"B, G, W",Creature,Elephant,5,7,0,0,0,0,0,Untap each creature you control with a +1/+1 counter on it during each other player's untap step.
+KTK,Jeskai Ascendancy,rare,{U}{R}{W},"R, U, W",Enchantment,0,0,0,0,0,0,0,0,"Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.\nWhenever you cast a noncreature spell, you may draw a card. If you do, discard a card."
+KTK,Jeskai Charm,uncommon,{U}{R}{W},"R, U, W",Instant,0,0,0,0,0,0,0,0,Choose one —\n• Put target creature on top of its owner's library.\n• Jeskai Charm deals 4 damage to target opponent or planeswalker.\n• Creatures you control get +1/+1 and gain lifelink until end of turn.
+KTK,Kheru Lich Lord,rare,{3}{B}{G}{U},"B, G, U",Creature,"Zombie, Wizard",4,4,0,0,0,0,0,"At the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else."
+KTK,Kin-Tree Invocation,uncommon,{B}{G},"B, G",Sorcery,0,0,0,0,0,0,0,0,"Create an X/X black and green Spirit Warrior creature token, where X is the greatest toughness among creatures you control."
+KTK,Mantis Rider,rare,{U}{R}{W},"R, U, W",Creature,"Human, Monk",3,3,0,0,0,0,0,"Flying, vigilance, haste"
+KTK,Mardu Ascendancy,rare,{R}{W}{B},"B, R, W",Enchantment,0,0,0,0,0,0,0,0,"Whenever a nontoken creature you control attacks, create a 1/1 red Goblin creature token that's tapped and attacking.\nSacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn."
+KTK,Mardu Charm,uncommon,{R}{W}{B},"B, R, W",Instant,0,0,0,0,0,0,0,0,"Choose one —\n• Mardu Charm deals 4 damage to target creature.\n• Create two 1/1 white Warrior creature tokens. They gain first strike until end of turn.\n• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+KTK,Mardu Roughrider,uncommon,{2}{R}{W}{B},"B, R, W",Creature,"Orc, Warrior",5,4,0,0,0,0,0,"Whenever Mardu Roughrider attacks, target creature can't block this turn."
+KTK,Master the Way,uncommon,{3}{U}{R},"R, U",Sorcery,0,0,0,0,0,0,0,0,Draw a card. Master the Way deals damage to any target equal to the number of cards in your hand.
+KTK,Mindswipe,rare,{X}{U}{R},"R, U",Instant,0,0,0,0,0,0,0,0,Counter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.
+KTK,"Narset, Enlightened Master",mythic,{3}{U}{R}{W},"R, U, W",Creature,"Human, Monk",3,2,0,0,0,0,0,"First strike, hexproof\nWhenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature spells from among those cards without paying their mana costs."
+KTK,Ponyback Brigade,common,{3}{R}{W}{B},"B, R, W",Creature,"Goblin, Warrior",2,2,0,0,0,0,0,"When Ponyback Brigade enters the battlefield or is turned face up, create three 1/1 red Goblin creature tokens.\nMorph {2}{R}{W}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+KTK,Rakshasa Deathdealer,rare,{B}{G},"B, G",Creature,"Cat, Demon",2,2,0,0,0,0,0,{B}{G}: Rakshasa Deathdealer gets +2/+2 until end of turn.\n{B}{G}: Regenerate Rakshasa Deathdealer.
+KTK,Rakshasa Vizier,rare,{2}{B}{G}{U},"B, G, U",Creature,"Cat, Demon",4,4,0,0,0,0,0,"Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier."
+KTK,Ride Down,uncommon,{R}{W},"R, W",Instant,0,0,0,0,0,0,0,0,Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.
+KTK,Sage of the Inward Eye,rare,{2}{U}{R}{W},"R, U, W",Creature,"Djinn, Wizard",3,4,0,0,0,0,0,"Flying\nWhenever you cast a noncreature spell, creatures you control gain lifelink until end of turn."
+KTK,Sagu Mauler,rare,{4}{G}{U},"G, U",Creature,Beast,6,6,0,0,0,0,0,"Trample, hexproof\nMorph {3}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)"
+KTK,Savage Knuckleblade,rare,{G}{U}{R},"G, R, U",Creature,"Ogre, Warrior",4,4,0,0,0,0,0,{2}{G}: Savage Knuckleblade gets +2/+2 until end of turn. Activate only once each turn.\n{2}{U}: Return Savage Knuckleblade to its owner's hand.\n{R}: Savage Knuckleblade gains haste until end of turn.
+KTK,Secret Plans,uncommon,{G}{U},"G, U",Enchantment,0,0,0,0,0,0,0,0,"Face-down creatures you control get +0/+1.\nWhenever a permanent you control is turned face up, draw a card."
+KTK,"Sidisi, Brood Tyrant",mythic,{1}{B}{G}{U},"B, G, U",Creature,"Naga, Shaman",3,3,0,0,0,0,0,"Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, mill three cards.\nWhenever one or more creature cards are put into your graveyard from your library, create a 2/2 black Zombie creature token."
+KTK,Siege Rhino,rare,{1}{W}{B}{G},"B, G, W",Creature,Rhino,4,5,0,0,0,0,0,"Trample\nWhen Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life."
+KTK,Snowhorn Rider,common,{3}{G}{U}{R},"G, R, U",Creature,"Human, Warrior",5,5,0,0,0,0,0,Trample\nMorph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,"Sorin, Solemn Visitor",mythic,{2}{W}{B},"B, W",Planeswalker,Sorin,0,0,0,0,0,0,0,"[+1]: Until your next turn, creatures you control get +1/+0 and gain lifelink.\n[−2]: Create a 2/2 black Vampire creature token with flying.\n[−6]: You get an emblem with ""At the beginning of each opponent's upkeep, that player sacrifices a creature."""
+KTK,Sultai Ascendancy,rare,{B}{G}{U},"B, G, U",Enchantment,0,0,0,0,0,0,0,0,"At the beginning of your upkeep, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+KTK,Sultai Charm,uncommon,{B}{G}{U},"B, G, U",Instant,0,0,0,0,0,0,0,0,"Choose one —\n• Destroy target monocolored creature.\n• Destroy target artifact or enchantment.\n• Draw two cards, then discard a card."
+KTK,Sultai Soothsayer,uncommon,{2}{B}{G}{U},"B, G, U",Creature,"Naga, Shaman",2,5,0,0,0,0,0,"When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard."
+KTK,Surrak Dragonclaw,mythic,{2}{G}{U}{R},"G, R, U",Creature,"Human, Warrior",6,6,0,0,0,0,0,Flash\nThis spell can't be countered.\nCreature spells you control can't be countered.\nOther creatures you control have trample.
+KTK,Temur Ascendancy,rare,{G}{U}{R},"G, R, U",Enchantment,0,0,0,0,0,0,0,0,"Creatures you control have haste.\nWhenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card."
+KTK,Temur Charm,uncommon,{G}{U}{R},"G, R, U",Instant,0,0,0,0,0,0,0,0,Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n• Counter target spell unless its controller pays {3}.\n• Creatures with power 3 or less can't block this turn.
+KTK,Trap Essence,rare,{G}{U}{R},"G, R, U",Instant,0,0,0,0,0,0,0,0,Counter target creature spell. Put two +1/+1 counters on up to one target creature.
+KTK,Utter End,rare,{2}{W}{B},"B, W",Instant,0,0,0,0,0,0,0,0,Exile target nonland permanent.
+KTK,Villainous Wealth,rare,{X}{B}{G}{U},"B, G, U",Sorcery,0,0,0,0,0,0,0,0,Target opponent exiles the top X cards of their library. You may cast any number of spells with mana value X or less from among them without paying their mana costs.
+KTK,Warden of the Eye,uncommon,{2}{U}{R}{W},"R, U, W",Creature,"Djinn, Wizard",3,3,0,0,0,0,0,"When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand."
+KTK,Winterflame,uncommon,{1}{U}{R},"R, U",Instant,0,0,0,0,0,0,0,0,Choose one or both —\n• Tap target creature.\n• Winterflame deals 2 damage to target creature.
+KTK,Zurgo Helmsmasher,mythic,{2}{R}{W}{B},"B, R, W",Creature,"Orc, Warrior",7,2,0,0,0,0,0,"Haste\nZurgo Helmsmasher attacks each combat if able.\nZurgo Helmsmasher has indestructible as long as it's your turn.\nWhenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher."
+KTK,Abzan Banner,common,{3},"B, G, W",Artifact,0,0,0,0,0,0,0,0,"{T}: Add {W}, {B}, or {G}.\n{W}{B}{G}, {T}, Sacrifice Abzan Banner: Draw a card."
+KTK,Altar of the Brood,rare,{1},0,Artifact,0,0,0,0,0,0,0,0,"Whenever another permanent enters the battlefield under your control, each opponent mills a card."
+KTK,Briber's Purse,uncommon,{X},0,Artifact,0,0,0,0,0,0,0,0,"Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn."
+KTK,Cranial Archive,uncommon,{2},0,Artifact,0,0,0,0,0,0,0,0,"{2}, Exile Cranial Archive: Target player shuffles their graveyard into their library. Draw a card."
+KTK,Dragon Throne of Tarkir,rare,{4},0,Artifact,Equipment,0,0,0,0,0,0,0,"Equipped creature has defender and ""{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power.""\nEquip {3}"
+KTK,Ghostfire Blade,rare,{1},0,Artifact,Equipment,0,0,0,0,0,0,0,Equipped creature gets +2/+2.\nEquip {3}\nGhostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.
+KTK,Heart-Piercer Bow,uncommon,{2},0,Artifact,Equipment,0,0,0,0,0,0,0,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)"
+KTK,Jeskai Banner,common,{3},"R, U, W",Artifact,0,0,0,0,0,0,0,0,"{T}: Add {U}, {R}, or {W}.\n{U}{R}{W}, {T}, Sacrifice Jeskai Banner: Draw a card."
+KTK,Lens of Clarity,common,{1},0,Artifact,0,0,0,0,0,0,0,0,You may look at the top card of your library and at face-down creatures you don't control any time.
+KTK,Mardu Banner,common,{3},"B, R, W",Artifact,0,0,0,0,0,0,0,0,"{T}: Add {R}, {W}, or {B}.\n{R}{W}{B}, {T}, Sacrifice Mardu Banner: Draw a card."
+KTK,Sultai Banner,common,{3},"B, G, U",Artifact,0,0,0,0,0,0,0,0,"{T}: Add {B}, {G}, or {U}.\n{B}{G}{U}, {T}, Sacrifice Sultai Banner: Draw a card."
+KTK,Temur Banner,common,{3},"G, R, U",Artifact,0,0,0,0,0,0,0,0,"{T}: Add {G}, {U}, or {R}.\n{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card."
+KTK,Ugin's Nexus,mythic,{5},0,Artifact,0,0,0,0,0,0,0,0,"If a player would begin an extra turn, that player skips that turn instead.\nIf Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one."
+KTK,Witness of the Ages,uncommon,{6},0,"Artifact, Creature",Golem,4,4,0,0,0,0,0,Morph {5} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+KTK,Bloodfell Caves,common,0,"B, R",Land,0,0,0,0,0,0,0,0,"Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R}."
+KTK,Bloodstained Mire,rare,0,0,Land,0,0,0,0,0,0,0,0,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle."
+KTK,Blossoming Sands,common,0,"G, W",Land,0,0,0,0,0,0,0,0,"Blossoming Sands enters the battlefield tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.\n{T}: Add {G} or {W}."
+KTK,Dismal Backwater,common,0,"B, U",Land,0,0,0,0,0,0,0,0,"Dismal Backwater enters the battlefield tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B}."
+KTK,Flooded Strand,rare,0,0,Land,0,0,0,0,0,0,0,0,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle."
+KTK,Frontier Bivouac,uncommon,0,"G, R, U",Land,0,0,0,0,0,0,0,0,"Frontier Bivouac enters the battlefield tapped.\n{T}: Add {G}, {U}, or {R}."
+KTK,Jungle Hollow,common,0,"B, G",Land,0,0,0,0,0,0,0,0,"Jungle Hollow enters the battlefield tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.\n{T}: Add {B} or {G}."
+KTK,Mystic Monastery,uncommon,0,"R, U, W",Land,0,0,0,0,0,0,0,0,"Mystic Monastery enters the battlefield tapped.\n{T}: Add {U}, {R}, or {W}."
+KTK,Nomad Outpost,uncommon,0,"B, R, W",Land,0,0,0,0,0,0,0,0,"Nomad Outpost enters the battlefield tapped.\n{T}: Add {R}, {W}, or {B}."
+KTK,Opulent Palace,uncommon,0,"B, G, U",Land,0,0,0,0,0,0,0,0,"Opulent Palace enters the battlefield tapped.\n{T}: Add {B}, {G}, or {U}."
+KTK,Polluted Delta,rare,0,0,Land,0,0,0,0,0,0,0,0,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle."
+KTK,Rugged Highlands,common,0,"G, R",Land,0,0,0,0,0,0,0,0,"Rugged Highlands enters the battlefield tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G}."
+KTK,Sandsteppe Citadel,uncommon,0,"B, G, W",Land,0,0,0,0,0,0,0,0,"Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G}."
+KTK,Scoured Barrens,common,0,"B, W",Land,0,0,0,0,0,0,0,0,"Scoured Barrens enters the battlefield tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.\n{T}: Add {W} or {B}."
+KTK,Swiftwater Cliffs,common,0,"R, U",Land,0,0,0,0,0,0,0,0,"Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.\n{T}: Add {U} or {R}."
+KTK,Thornwood Falls,common,0,"G, U",Land,0,0,0,0,0,0,0,0,"Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.\n{T}: Add {G} or {U}."
+KTK,Tomb of the Spirit Dragon,uncommon,0,0,Land,0,0,0,0,0,0,0,0,"{T}: Add {C}.\n{2}, {T}: You gain 1 life for each colorless creature you control."
+KTK,Tranquil Cove,common,0,"U, W",Land,0,0,0,0,0,0,0,0,"Tranquil Cove enters the battlefield tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.\n{T}: Add {W} or {U}."
+KTK,Wind-Scarred Crag,common,0,"R, W",Land,0,0,0,0,0,0,0,0,"Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W}."
+KTK,Windswept Heath,rare,0,0,Land,0,0,0,0,0,0,0,0,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle."
+KTK,Wooded Foothills,rare,0,0,Land,0,0,0,0,0,0,0,0,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle."
+KTK,Plains,common,0,W,Land,Plains,0,0,0,0,0,0,0,({T}: Add {W}.)
+KTK,Plains,common,0,W,Land,Plains,0,0,0,0,0,0,0,({T}: Add {W}.)
+KTK,Plains,common,0,W,Land,Plains,0,0,0,0,0,0,0,({T}: Add {W}.)
+KTK,Plains,common,0,W,Land,Plains,0,0,0,0,0,0,0,({T}: Add {W}.)
+KTK,Island,common,0,U,Land,Island,0,0,0,0,0,0,0,({T}: Add {U}.)
+KTK,Island,common,0,U,Land,Island,0,0,0,0,0,0,0,({T}: Add {U}.)
+KTK,Island,common,0,U,Land,Island,0,0,0,0,0,0,0,({T}: Add {U}.)
+KTK,Island,common,0,U,Land,Island,0,0,0,0,0,0,0,({T}: Add {U}.)
+KTK,Swamp,common,0,B,Land,Swamp,0,0,0,0,0,0,0,({T}: Add {B}.)
+KTK,Swamp,common,0,B,Land,Swamp,0,0,0,0,0,0,0,({T}: Add {B}.)
+KTK,Swamp,common,0,B,Land,Swamp,0,0,0,0,0,0,0,({T}: Add {B}.)
+KTK,Swamp,common,0,B,Land,Swamp,0,0,0,0,0,0,0,({T}: Add {B}.)
+KTK,Mountain,common,0,R,Land,Mountain,0,0,0,0,0,0,0,({T}: Add {R}.)
+KTK,Mountain,common,0,R,Land,Mountain,0,0,0,0,0,0,0,({T}: Add {R}.)
+KTK,Mountain,common,0,R,Land,Mountain,0,0,0,0,0,0,0,({T}: Add {R}.)
+KTK,Mountain,common,0,R,Land,Mountain,0,0,0,0,0,0,0,({T}: Add {R}.)
+KTK,Forest,common,0,G,Land,Forest,0,0,0,0,0,0,0,({T}: Add {G}.)
+KTK,Forest,common,0,G,Land,Forest,0,0,0,0,0,0,0,({T}: Add {G}.)
+KTK,Forest,common,0,G,Land,Forest,0,0,0,0,0,0,0,({T}: Add {G}.)
+KTK,Forest,common,0,G,Land,Forest,0,0,0,0,0,0,0,({T}: Add {G}.)
