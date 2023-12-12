@@ -8,14 +8,14 @@ from datetime import datetime
 import sqlite3
 
 
-querry_dic = {'BNG': 'born-of-the-gods','THB': 'theros-beyond-death','AFR': 'adventures-in-the-forgotten-realms' , 'MID':'innistrad-midnight-hunt','10E':'10th-edition', 'BRO':'the-brothers-war', 'DGM':'dragons-maze',
+query_dic = {'STX': 'strixhaven-school-of-mages','RNA':'ravnica-allegiance','GRN': 'guilds-of-ravnica','WAR':'war-of-the-spark','THS': 'theros','BNG': 'born-of-the-gods','THB': 'theros-beyond-death','MID':'innistrad-midnight-hunt','10E':'10th-edition', 'BRO':'the-brothers-war', 'DGM':'dragons-maze',
  'DMU':'dominaria-united', 'ELD':'throne-of-eldraine', 'GTC':'gatecrash', 'MAT':'march-of-the-machine-the-aftermath', 
    'MOM':'march-of-the-machine', 'NEO':'kamigawa-neon-dynasty', 'ONE':'phyrexia-all-will-be-one', 'RTR':'return-to-ravnica',
   'SNC':'streets-of-new-capenna', 'VOW':'innistrad-crimson-vow', 'WOE': 'wilds-of-eldraine'}
 
 browser = Browser('chrome', executable_path='../Resources/chromedriver.exe')
-loop_key = list(querry_dic.keys())
-loop_values = list(querry_dic.values())
+loop_key = list(query_dic.keys())
+loop_values = list(query_dic.values())
 for i in range(len(loop_key)):
 #assign url string and set table
     dbtable = loop_key[i]

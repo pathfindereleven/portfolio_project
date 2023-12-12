@@ -7,7 +7,7 @@ import sqlite3
 import matplotlib.pyplot as plt
 import os
 from scipy.stats import linregress
-sset_list = ['GRN','WAR','THS', 'BNG','THB' , 'MID', '10E', 'BRO', 'DGM', 'DMU', 'ELD', 'GTC', 'MAT', 'MOM', 'NEO', 'ONE', 'RTR', 'SNC', 'VOW', 'WOE','AFR']
+sset_list = ['STX' ,'RNA','GRN','WAR','THS', 'BNG','THB' , 'MID', '10E', 'BRO', 'DGM', 'DMU', 'ELD', 'GTC', 'MAT', 'MOM', 'NEO', 'ONE', 'RTR', 'SNC', 'VOW', 'WOE','AFR']
 
 print("Inventory Price Report [1]      Card Set Regresion[2]")
 choice = input("select by index")
