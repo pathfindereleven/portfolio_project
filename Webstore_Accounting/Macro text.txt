@@ -1,0 +1,125 @@
+Sub ledger_format()
+' Accounts
+Worksheets("ledger").Cells(2, 1) = "Cash"
+Worksheets("ledger").Cells(3, 1) = "Revenue"
+' Credit
+Worksheets("ledger").Cells(3, 3) = Worksheets("ebay_sales").Cells(2, 3)
+Worksheets("ledger").Cells(2, 3) = "0"
+' debit
+Worksheets("ledger").Cells(2, 2) = Worksheets("ebay_sales").Cells(2, 3)
+Worksheets("ledger").Cells(3, 2) = "0"
+'Date
+Worksheets("ledger").Cells(2, 4) = Worksheets("ebay_sales").Cells(2, 2).Value
+Worksheets("ledger").Cells(3, 4) = Worksheets("ebay_sales").Cells(2, 2).Value
+'Description
+Worksheets("ledger").Cells(2, 5) = Worksheets("ebay_sales").Cells(2, 4)
+Worksheets("ledger").Cells(3, 5) = Worksheets("ebay_sales").Cells(2, 4)
+End Sub
+
+
+
+Sub ledger_format()
+Dim rw As Integer
+Dim lastrow As Integer
+
+lastrow = Worksheets("ebay_sales").Range("A1").End(xlDown).Row
+lastrow = 126
+For i = 2 To lastrow
+    
+    rw = i * 2
+    ' Accounts
+    Worksheets("ledger").Cells(rw - 2, 1) = "Cash"
+    Worksheets("ledger").Cells(rw - 1, 1) = "Revenue"
+    ' Credit
+    Worksheets("ledger").Cells(rw - 1, 3) = Worksheets("ebay_sales").Cells(i, 3)
+    Worksheets("ledger").Cells(rw - 2, 3) = "0"
+    ' debit
+    Worksheets("ledger").Cells(rw - 2, 2) = Worksheets("ebay_sales").Cells(i, 3)
+    Worksheets("ledger").Cells(rw - 1, 2) = "0"
+    'Date
+    Worksheets("ledger").Cells(rw - 2, 4) = Worksheets("ebay_sales").Cells(i, 2).Value
+    Worksheets("ledger").Cells(rw - 1, 4) = Worksheets("ebay_sales").Cells(i, 2).Value
+    'Description
+    Worksheets("ledger").Cells(rw - 2, 5) = Worksheets("ebay_sales").Cells(i, 4)
+    Worksheets("ledger").Cells(rw - 1, 5) = Worksheets("ebay_sales").Cells(i, 4)
+    
+Next i
+
+MsgBox (lastrow)
+
+End Sub
+
+
+Sub ledger_format()
+Dim rw As Integer
+Dim lastrow As Integer
+
+'lastrow = Worksheet("ebay_purchases").Range("A1").End(xlDown).Row
+lastrow = 75
+For i = 2 To lastrow
+    
+    rw = i * 2
+    ' Accounts
+    Worksheets("ledger").Cells(rw - 2, 1) = "Min_Inv"
+    Worksheets("ledger").Cells(rw - 1, 1) = "Cash"
+    ' Credit
+    Worksheets("ledger").Cells(rw - 1, 3) = Worksheets("ebay_purchases").Cells(i, 2)
+    Worksheets("ledger").Cells(rw - 2, 3) = "0"
+    ' debit
+    Worksheets("ledger").Cells(rw - 2, 2) = Worksheets("ebay_purchases").Cells(i, 2)
+    Worksheets("ledger").Cells(rw - 1, 2) = "0"
+    'Date
+    Worksheets("ledger").Cells(rw - 2, 4) = Worksheets("ebay_purchases").Cells(i, 3).Value
+    Worksheets("ledger").Cells(rw - 1, 4) = Worksheets("ebay_purchases").Cells(i, 3).Value
+    'Description
+    Worksheets("ledger").Cells(rw - 2, 5) = Worksheets("ebay_purchases").Cells(i, 4)
+    Worksheets("ledger").Cells(rw - 1, 5) = Worksheets("ebay_purchases").Cells(i, 4)
+    
+Next i
+
+MsgBox (lastrow)
+
+End Sub
+
+
+
+
+Sub ChartAccounts()
+
+
+' List Accounts
+Dim Uniques As Variant
+Uniques = Application.WorksheetFunction.Unique(Worksheets("ledger").Range("A:A"))
+Worksheets("Chart_of_Accounts").Range("A1:A9") = Uniques
+
+' Calculate Account Balance
+
+Dim balance_ls()  As Variant
+Dim debit As Integer
+Dim credit As Integer
+Dim balance As Integer
+Dim count As Integer
+count = 2
+ReDim myArray(9)
+balance = 0
+debit = 0
+credit = 0
+
+LastRow = Worksheets("Chart_of_Accounts").Cells(Rows.count, 1).End(xlUp).Row
+lastLedger = Worksheets("ledger").Cells(Rows.count, 1).End(xlUp).Row
+
+For Each Item In Uniques
+
+    For i = 2 To lastLedger
+         If Worksheets("ledger").Cells(i, 1).Value = Item Then
+            credit = credit + Worksheets("ledger").Cells(i, 3).Value
+            debit = debit + Worksheets("ledger").Cells(i, 2).Value
+        End If
+    Next i
+    balance = debit - credit
+    Worksheets("Chart_of_Accounts").Cells(2, 2).Value = balance
+    count = count + 1
+    balance = 0
+    debit = 0
+    credit = 0
+Next Item
