@@ -1,0 +1,105 @@
+Sub ChartAccounts()
+If Worksheets("ledger").FilterMode = True Then
+    Worksheets("ledger").ShowAllData
+End If
+
+' List Accounts
+Dim Uniques As Variant
+Uniques = Application.WorksheetFunction.Unique(Worksheets("ledger").Range("A:A"))
+Worksheets("Chart_of_Accounts").Range("A1:A16") = Uniques
+
+' Calculate Account Balance
+
+Dim balance_ls()  As Variant
+Dim debit As Integer
+Dim credit As Integer
+Dim balance As Integer
+Dim count As Integer
+count = 1
+
+'''Filter on date
+Dim start As String
+before = Worksheets("Chart_of_Accounts").Range("D2")
+'before = "1/30/2024"
+Worksheets("ledger").Range("D:D").AutoFilter 1, "<" & before
+
+LastRow = Worksheets("Chart_of_Accounts").Cells(Rows.count, 1).End(xlUp).Row
+lastLedger = Worksheets("ledger").Cells(Rows.count, 1).End(xlUp).Row
+
+For Each Item In Uniques
+
+    For i = 2 To lastLedger
+         If Worksheets("ledger").Cells(i, 1).Value = Item Then
+            credit = credit + Worksheets("ledger").Cells(i, 3).Value
+            debit = debit + Worksheets("ledger").Cells(i, 2).Value
+        End If
+    Next i
+    balance = debit - credit
+    Worksheets("Chart_of_Accounts").Cells(count, 2).Value = balance
+    count = count + 1
+    balance = 0
+    debit = 0
+    credit = 0
+Next Item
+
+' Formatting
+
+Worksheets("Chart_of_Accounts").Range("A1").Font.Bold = True
+Worksheets("Chart_of_Accounts").Range("B1") = "Balance"
+Worksheets("Chart_of_Accounts").Range("B1").Font.Bold = True
+Worksheets("Chart_of_Accounts").Range("A17") = " Total Balance"
+Worksheets("Chart_of_Accounts").Range("A17").Font.Bold = True
+Worksheets("Chart_of_Accounts").Range("B17") = Application.Sum(Worksheets("Chart_of_Accounts").Range("B2:B16"))
+If Worksheets("Chart_of_Accounts").Range("B17") <= 1 Then
+    Worksheets("Chart_of_Accounts").Range("B17").Interior.ColorIndex = 10
+End If
+If Worksheets("Chart_of_Accounts").Range("B17") > 1 Then
+    Worksheets("Chart_of_Accounts").Range("B17").Interior.ColorIndex = 3
+End If
+Worksheets("Chart_of_Accounts").Range("A1").Interior.ColorIndex = 33
+Worksheets("Chart_of_Accounts").Range("B1").Interior.ColorIndex = 33
+
+
+'Balance Sheet
+Worksheets("Balance_Sheet").Range("A1") = "Balance Sheet"
+Worksheets("Balance_Sheet").Range("A1").Interior.ColorIndex = 33
+Worksheets("Balance_Sheet").Range("A3") = "Balance Sheet"
+Worksheets("Balance_Sheet").Range("A3") = "Assets"
+Worksheets("Balance_Sheet").Range("A3").Font.Bold = True
+Worksheets("Balance_Sheet").Range("A3").Interior.ColorIndex = 43
+Worksheets("Balance_Sheet").Range("A4") = "Cash"
+Worksheets("Balance_Sheet").Range("A5") = "Min_Inv"
+Worksheets("Balance_Sheet").Range("A6") = "MTG_Inv"
+Worksheets("Balance_Sheet").Range("A7") = "Yugioh_Inv"
+Worksheets("Balance_Sheet").Range("A8") = "Shipping_Supplies"
+Worksheets("Balance_Sheet").Range("A9") = "Materials"
+Worksheets("Balance_Sheet").Range("A10") = "Studio_Equipment"
+Worksheets("Balance_Sheet").Range("A11") = "Total"
+Worksheets("Balance_Sheet").Range("A11").Font.Bold = True
+Worksheets("Balance_Sheet").Range("A13") = "Liabilities"
+Worksheets("Balance_Sheet").Range("A13").Font.Bold = True
+Worksheets("Balance_Sheet").Range("A13").Interior.ColorIndex = 39
+Worksheets("Balance_Sheet").Range("A14") = "Owners_Equity "
+Worksheets("Balance_Sheet").Range("A15") = "Retained_Earnings"
+Worksheets("Balance_Sheet").Range("A16") = "Total"
+Worksheets("Balance_Sheet").Range("A16").Font.Bold = True
+Worksheets("Balance_Sheet").Range("A18") = "Balance"
+Worksheets("Balance_Sheet").Range("A18").Font.Bold = True
+Worksheets("Balance_Sheet").Range("A18").Interior.ColorIndex = 33
+Worksheets("Balance_Sheet").Range("B1") = Worksheets("Chart_of_Accounts").Range("D2").Value
+Worksheets("Balance_Sheet").Range("B1").Font.Bold = True
+Worksheets("Balance_Sheet").Range("B1").Interior.ColorIndex = 33
+Worksheets("Balance_Sheet").Range("B4") = Worksheets("Chart_of_Accounts").Range("B2")
+Worksheets("Balance_Sheet").Range("B5") = Worksheets("Chart_of_Accounts").Range("B4")
+Worksheets("Balance_Sheet").Range("B6") = Worksheets("Chart_of_Accounts").Range("B5")
+Worksheets("Balance_Sheet").Range("B7") = Worksheets("Chart_of_Accounts").Range("B6")
+Worksheets("Balance_Sheet").Range("B8") = Worksheets("Chart_of_Accounts").Range("B7")
+Worksheets("Balance_Sheet").Range("B9") = Worksheets("Chart_of_Accounts").Range("B12")
+Worksheets("Balance_Sheet").Range("B10") = Worksheets("Chart_of_Accounts").Range("B8")
+Worksheets("Balance_Sheet").Range("B11") = WorksheetFunction.Sum(Worksheets("Balance_Sheet").Range("B4:B10"))
+Worksheets("Balance_Sheet").Range("B14") = Worksheets("Chart_of_Accounts").Range("B3")
+Worksheets("Balance_Sheet").Range("B15") = Worksheets("Chart_of_Accounts").Range("B16")
+Worksheets("Balance_Sheet").Range("B16") = WorksheetFunction.Sum(Worksheets("Balance_Sheet").Range("B14:B15"))
+Worksheets("Balance_Sheet").Range("B18") = Worksheets("Balance_Sheet").Range("B11") + Worksheets("Balance_Sheet").Range("B16")
+End Sub
+
